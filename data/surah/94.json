@@ -1,0 +1,51 @@
+{
+    "94": {
+        "nomor_surah": "94",
+        "nama_surah": "الشرح",
+        "nama_latin": "Asy-Syarh",
+        "jumlah_ayat": "8",
+        "arti": "Lapang",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+                "terjemahan": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+                "terjemahan": "dan Kami pun telah menurunkan bebanmu darimu,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+                "terjemahan": "yang memberatkan punggungmu, "
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+                "terjemahan": "dan Kami tinggikan sebutan (nama)mu bagimu."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+                "terjemahan": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+                "terjemahan": "sesungguhnya beserta kesulitan itu ada kemudahan."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+                "terjemahan": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+                "terjemahan": "dan hanya kepada Tuhanmulah engkau berharap."
+            }
+        ]
+    }
+}

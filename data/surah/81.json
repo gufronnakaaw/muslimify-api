@@ -1,0 +1,156 @@
+{
+    "81": {
+        "nomor_surah": "81",
+        "nama_surah": "التكوير",
+        "nama_latin": "At-Takwir",
+        "jumlah_ayat": "29",
+        "arti": "Penggulungan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+                "terjemahan": "Apabila matahari digulung,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+                "terjemahan": "dan apabila bintang-bintang berjatuhan,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+                "terjemahan": "dan apabila gunung-gunung dihancurkan,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+                "terjemahan": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+                "terjemahan": "dan apabila binatang-binatang liar dikumpulkan,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+                "terjemahan": "dan apabila lautan dipanaskan,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+                "terjemahan": "dan apabila roh-roh dipertemukan (dengan tubuh), "
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+                "terjemahan": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, "
+            },
+            {
+                "ayat_ke": 9,
+                "text": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+                "terjemahan": "karena dosa apa dia dibunuh? "
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+                "terjemahan": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, "
+            },
+            {
+                "ayat_ke": 11,
+                "text": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+                "terjemahan": "dan apabila langit dilenyapkan, "
+            },
+            {
+                "ayat_ke": 12,
+                "text": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+                "terjemahan": "dan apabila neraka Jahim dinyalakan, "
+            },
+            {
+                "ayat_ke": 13,
+                "text": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+                "terjemahan": "dan apabila surga didekatkan, "
+            },
+            {
+                "ayat_ke": 14,
+                "text": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+                "terjemahan": "setiap jiwa akan mengetahui apa yang telah dikerjakannya. "
+            },
+            {
+                "ayat_ke": 15,
+                "text": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+                "terjemahan": "Aku bersumpah demi bintang-bintang,"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "الْجَوَارِ الْكُنَّسِۙ",
+                "terjemahan": "yang beredar dan terbenam, "
+            },
+            {
+                "ayat_ke": 17,
+                "text": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+                "terjemahan": "demi malam apabila telah larut, "
+            },
+            {
+                "ayat_ke": 18,
+                "text": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+                "terjemahan": "dan demi subuh apabila fajar telah menyingsing, "
+            },
+            {
+                "ayat_ke": 19,
+                "text": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+                "terjemahan": "sesungguhnya (Al-Qur'an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+            },
+            {
+                "ayat_ke": 20,
+                "text": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+                "terjemahan": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki ‘Arsy,"
+            },
+            {
+                "ayat_ke": 21,
+                "text": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+                "terjemahan": "yang di sana (di alam malaikat) ditaati dan dipercaya."
+            },
+            {
+                "ayat_ke": 22,
+                "text": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+                "terjemahan": "Dan temanmu (Muhammad) itu bukanlah orang gila. "
+            },
+            {
+                "ayat_ke": 23,
+                "text": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+                "terjemahan": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang. "
+            },
+            {
+                "ayat_ke": 24,
+                "text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+                "terjemahan": "Dan dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+            },
+            {
+                "ayat_ke": 25,
+                "text": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+                "terjemahan": "Dan (Al-Qur'an) itu bukanlah perkataan setan yang terkutuk,"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "فَاَيْنَ تَذْهَبُوْنَۗ",
+                "terjemahan": "maka ke manakah kamu akan pergi?"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+                "terjemahan": "(Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam, "
+            },
+            {
+                "ayat_ke": 28,
+                "text": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+                "terjemahan": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus. "
+            },
+            {
+                "ayat_ke": 29,
+                "text": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+                "terjemahan": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam."
+            }
+        ]
+    }
+}

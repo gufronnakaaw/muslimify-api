@@ -1,0 +1,161 @@
+{
+    "89": {
+        "nomor_surah": "89",
+        "nama_surah": "الفجر",
+        "nama_latin": "Al-Fajr",
+        "jumlah_ayat": "30",
+        "arti": "Fajar",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالْفَجْرِۙ",
+                "terjemahan": "Demi fajar,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَلَيَالٍ عَشْرٍۙ",
+                "terjemahan": "demi malam yang sepuluh,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَّالشَّفْعِ وَالْوَتْرِۙ",
+                "terjemahan": "demi yang genap dan yang ganjil,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَالَّيْلِ اِذَا يَسْرِۚ",
+                "terjemahan": "demi malam apabila berlalu."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "هَلْ فِيْ ذٰلِكَ قَسَمٌ لِّذِيْ حِجْرٍۗ",
+                "terjemahan": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۖ",
+                "terjemahan": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) ‘Ad?"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "اِرَمَ ذَاتِ الْعِمَادِۖ",
+                "terjemahan": "(yaitu) penduduk Iram (ibukota kaum ‘Ad) yang mempunyai bangunan-bangunan yang tinggi,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "الَّتِيْ لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِۖ",
+                "terjemahan": "yang belum pernah dibangun (suatu kota) seperti itu di negeri-negeri lain,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَثَمُوْدَ الَّذِيْنَ جَابُوا الصَّخْرَ بِالْوَادِۖ",
+                "terjemahan": "dan (terhadap) kaum samud yang memotong batu-batu besar di lembah,"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَفِرْعَوْنَ ذِى الْاَوْتَادِۖ",
+                "terjemahan": "dan (terhadap) Fir‘aun yang mempunyai pasak-pasak (bangunan yang besar),"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "الَّذِيْنَ طَغَوْا فِى الْبِلَادِۖ",
+                "terjemahan": "yang berbuat sewenang-wenang dalam negeri,"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "فَاَكْثَرُوْا فِيْهَا الْفَسَادَۖ",
+                "terjemahan": "lalu mereka banyak berbuat kerusakan dalam negeri itu,"
+            },
+            {
+                "ayat_ke": 13,
+                "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۖ",
+                "terjemahan": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,"
+            },
+            {
+                "ayat_ke": 14,
+                "text": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۗ",
+                "terjemahan": "sungguh, Tuhanmu benar-benar mengawasi."
+            },
+            {
+                "ayat_ke": 15,
+                "text": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰىهُ رَبُّهٗ فَاَكْرَمَهٗ وَنَعَّمَهٗۙ فَيَقُوْلُ رَبِّيْٓ اَكْرَمَنِۗ",
+                "terjemahan": "Maka adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, “Tuhanku telah memuliakanku.”"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "وَاَمَّآ اِذَا مَا ابْتَلٰىهُ فَقَدَرَ عَلَيْهِ رِزْقَهٗ ەۙ فَيَقُوْلُ رَبِّيْٓ اَهَانَنِۚ",
+                "terjemahan": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, “Tuhanku telah menghinaku.”"
+            },
+            {
+                "ayat_ke": 17,
+                "text": "كَلَّا بَلْ لَّا تُكْرِمُوْنَ الْيَتِيْمَۙ",
+                "terjemahan": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,"
+            },
+            {
+                "ayat_ke": 18,
+                "text": "وَلَا تَحٰۤضُّوْنَ عَلٰى طَعَامِ الْمِسْكِيْنِۙ",
+                "terjemahan": "dan kamu tidak saling mengajak memberi makan orang miskin,"
+            },
+            {
+                "ayat_ke": 19,
+                "text": "وَتَأْكُلُوْنَ التُّرَاثَ اَكْلًا لَّمًّاۙ",
+                "terjemahan": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+            },
+            {
+                "ayat_ke": 20,
+                "text": "وَّتُحِبُّوْنَ الْمَالَ حُبًّا جَمًّاۗ",
+                "terjemahan": "dan kamu mencintai harta dengan kecintaan yang berlebihan."
+            },
+            {
+                "ayat_ke": 21,
+                "text": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّاۙ",
+                "terjemahan": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+            },
+            {
+                "ayat_ke": 22,
+                "text": "وَّجَآءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّاۚ",
+                "terjemahan": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "وَجِايْۤءَ يَوْمَىِٕذٍۢ بِجَهَنَّمَۙ يَوْمَىِٕذٍ يَّتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۗ",
+                "terjemahan": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu."
+            },
+            {
+                "ayat_ke": 24,
+                "text": "يَقُوْلُ يٰلَيْتَنِيْ قَدَّمْتُ لِحَيَاتِيْۚ",
+                "terjemahan": "Dia berkata, “Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.”"
+            },
+            {
+                "ayat_ke": 25,
+                "text": "فَيَوْمَىِٕذٍ لَّا يُعَذِّبُ عَذَابَهٗٓ اَحَدٌ ۙ",
+                "terjemahan": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "وَّلَا يُوْثِقُ وَثَاقَهٗٓ اَحَدٌ ۗ",
+                "terjemahan": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya."
+            },
+            {
+                "ayat_ke": 27,
+                "text": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَىِٕنَّةُۙ",
+                "terjemahan": "Wahai jiwa yang tenang!"
+            },
+            {
+                "ayat_ke": 28,
+                "text": "ارْجِعِيْٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ۚ",
+                "terjemahan": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya."
+            },
+            {
+                "ayat_ke": 29,
+                "text": "فَادْخُلِيْ فِيْ عِبٰدِيْۙ",
+                "terjemahan": "Maka masuklah ke dalam golongan hamba-hamba-Ku,"
+            },
+            {
+                "ayat_ke": 30,
+                "text": "وَادْخُلِيْ جَنَّتِيْ ࣖࣖ",
+                "terjemahan": "dan masuklah ke dalam surga-Ku."
+            }
+        ]
+    }
+}

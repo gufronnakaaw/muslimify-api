@@ -1,0 +1,66 @@
+{
+    "101": {
+        "nomor_surah": "101",
+        "nama_surah": "القارعة",
+        "nama_latin": "Al-Qari'ah",
+        "jumlah_ayat": "11",
+        "arti": "Hari Kiamat",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اَلْقَارِعَةُۙ",
+                "terjemahan": "Hari Kiamat,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "مَا الْقَارِعَةُ ۚ",
+                "terjemahan": "Apakah hari Kiamat itu?"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+                "terjemahan": "Dan tahukah kamu apakah hari Kiamat itu?"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+                "terjemahan": "Pada hari itu manusia seperti laron yang beterbangan,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+                "terjemahan": "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
+                "terjemahan": "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+                "terjemahan": "maka dia berada dalam kehidupan yang memuaskan (senang)."
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+                "terjemahan": "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "فَاُمُّهٗ هَاوِيَةٌ  ۗ",
+                "terjemahan": "maka tempat kembalinya adalah neraka Hawiyah."
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+                "terjemahan": "Dan tahukah kamu apakah neraka Hawiyah itu?"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "نَارٌ حَامِيَةٌ ࣖ",
+                "terjemahan": "(Yaitu) api yang sangat panas."
+            }
+        ]
+    }
+}

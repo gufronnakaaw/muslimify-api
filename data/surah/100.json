@@ -1,0 +1,66 @@
+{
+    "100": {
+        "nomor_surah": "100",
+        "nama_surah": "العٰديٰت",
+        "nama_latin": "Al-'Adiyat",
+        "jumlah_ayat": "11",
+        "arti": "Kuda Yang Berlari Kencang",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+                "terjemahan": "Demi kuda perang yang berlari kencang terengah-engah,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+                "terjemahan": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+                "terjemahan": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+                "terjemahan": "sehingga menerbangkan debu,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+                "terjemahan": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+                "terjemahan": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+                "terjemahan": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+                "terjemahan": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+            },
+            {
+                "ayat_ke": 9,
+                "text": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+                "terjemahan": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+                "terjemahan": "dan apa yang tersimpan di dalam dada dilahirkan?"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+                "terjemahan": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+            }
+        ]
+    }
+}

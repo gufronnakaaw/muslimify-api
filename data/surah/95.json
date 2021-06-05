@@ -1,0 +1,51 @@
+{
+    "95": {
+        "nomor_surah": "95",
+        "nama_surah": "التين",
+        "nama_latin": "At-Tin",
+        "jumlah_ayat": "8",
+        "arti": "Buah Tin",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+                "terjemahan": "Demi (buah) Tin dan (buah) Zaitun,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَطُوْرِ سِيْنِيْنَۙ",
+                "terjemahan": "demi gunung Sinai,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+                "terjemahan": "dan demi negeri (Mekah) yang aman ini."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+                "terjemahan": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سَافِلِيْنَۙ",
+                "terjemahan": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+                "terjemahan": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+                "terjemahan": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+                "terjemahan": "Bukankah Allah hakim yang paling adil?"
+            }
+        ]
+    }
+}

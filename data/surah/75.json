@@ -1,0 +1,211 @@
+{
+    "75": {
+        "nomor_surah": "75",
+        "nama_surah": "القيٰمة",
+        "nama_latin": "Al-Qiyamah",
+        "jumlah_ayat": "40",
+        "arti": "Hari Kiamat",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِۙ",
+                "terjemahan": "Aku bersumpah dengan hari Kiamat,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ ",
+                "terjemahan": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri)."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "اَيَحْسَبُ الْاِنْسَانُ اَلَّنْ نَّجْمَعَ عِظَامَهٗ ۗ",
+                "terjemahan": "Apakah manusia mengira bahwa Kami tidak akan mengumpulkan (kembali) tulang-belulangnya?"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "بَلٰى قَادِرِيْنَ عَلٰٓى اَنْ نُّسَوِّيَ بَنَانَهٗ ",
+                "terjemahan": "(Bahkan) Kami mampu menyusun (kembali) jari-jemarinya dengan sempurna. "
+            },
+            {
+                "ayat_ke": 5,
+                "text": "بَلْ يُرِيْدُ الْاِنْسَانُ لِيَفْجُرَ اَمَامَهٗۚ",
+                "terjemahan": "Tetapi manusia hendak membuat maksiat terus-menerus. "
+            },
+            {
+                "ayat_ke": 6,
+                "text": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيٰمَةِۗ",
+                "terjemahan": "Dia bertanya, “Kapankah hari Kiamat itu?”"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "فَاِذَا بَرِقَ الْبَصَرُۙ",
+                "terjemahan": "Maka apabila mata terbelalak (ketakutan), "
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَخَسَفَ الْقَمَرُۙ",
+                "terjemahan": "dan bulan pun telah hilang cahayanya,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُۙ",
+                "terjemahan": "lalu matahari dan bulan dikumpulkan, "
+            },
+            {
+                "ayat_ke": 10,
+                "text": "يَقُوْلُ الْاِنْسَانُ يَوْمَىِٕذٍ اَيْنَ الْمَفَرُّۚ",
+                "terjemahan": "pada hari itu manusia berkata, “Ke mana tempat lari?”"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "كَلَّا لَا وَزَرَۗ",
+                "terjemahan": "Tidak! Tidak ada tempat berlindung!"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمُسْتَقَرُّۗ",
+                "terjemahan": "Hanya kepada Tuhanmu tempat kembali pada hari itu."
+            },
+            {
+                "ayat_ke": 13,
+                "text": "يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَۗ",
+                "terjemahan": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya."
+            },
+            {
+                "ayat_ke": 14,
+                "text": "بَلِ الْاِنْسَانُ عَلٰى نَفْسِهٖ بَصِيْرَةٌۙ",
+                "terjemahan": "Bahkan manusia menjadi saksi atas dirinya sendiri,"
+            },
+            {
+                "ayat_ke": 15,
+                "text": "وَّلَوْ اَلْقٰى مَعَاذِيْرَهٗۗ",
+                "terjemahan": "dan meskipun dia mengemukakan alasan-alasannya."
+            },
+            {
+                "ayat_ke": 16,
+                "text": "لَا تُحَرِّكْ بِهٖ لِسَانَكَ لِتَعْجَلَ بِهٖۗ",
+                "terjemahan": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur'an) karena hendak cepat-cepat (menguasai)nya."
+            },
+            {
+                "ayat_ke": 17,
+                "text": "اِنَّ عَلَيْنَا جَمْعَهٗ وَقُرْاٰنَهٗ ۚ",
+                "terjemahan": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. "
+            },
+            {
+                "ayat_ke": 18,
+                "text": "فَاِذَا قَرَأْنٰهُ فَاتَّبِعْ قُرْاٰنَهٗ ۚ",
+                "terjemahan": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. "
+            },
+            {
+                "ayat_ke": 19,
+                "text": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهٗ ۗ",
+                "terjemahan": "Kemudian sesungguhnya Kami yang akan menjelaskannya. "
+            },
+            {
+                "ayat_ke": 20,
+                "text": "كَلَّا بَلْ تُحِبُّوْنَ الْعَاجِلَةَۙ",
+                "terjemahan": "Tidak! Bahkan kamu mencintai kehidupan dunia, "
+            },
+            {
+                "ayat_ke": 21,
+                "text": "وَتَذَرُوْنَ الْاٰخِرَةَۗ",
+                "terjemahan": "dan mengabaikan (kehidupan) akhirat. "
+            },
+            {
+                "ayat_ke": 22,
+                "text": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌۙ",
+                "terjemahan": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri,"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "اِلٰى رَبِّهَا نَاظِرَةٌ ۚ",
+                "terjemahan": "memandang Tuhannya. "
+            },
+            {
+                "ayat_ke": 24,
+                "text": "وَوُجُوْهٌ يَّوْمَىِٕذٍۢ بَاسِرَةٌۙ",
+                "terjemahan": "Dan wajah-wajah (orang kafir) pada hari itu muram, "
+            },
+            {
+                "ayat_ke": 25,
+                "text": "تَظُنُّ اَنْ يُّفْعَلَ بِهَا فَاقِرَةٌ ۗ",
+                "terjemahan": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+            },
+            {
+                "ayat_ke": 26,
+                "text": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِيَۙ",
+                "terjemahan": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "وَقِيْلَ مَنْ ۜرَاقٍۙ",
+                "terjemahan": "dan dikatakan (kepadanya), “Siapa yang dapat menyembuhkan?”"
+            },
+            {
+                "ayat_ke": 28,
+                "text": "وَّظَنَّ اَنَّهُ الْفِرَاقُۙ",
+                "terjemahan": "Dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), "
+            },
+            {
+                "ayat_ke": 29,
+                "text": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِۙ",
+                "terjemahan": "dan bertaut betis (kiri) dengan betis (kanan),"
+            },
+            {
+                "ayat_ke": 30,
+                "text": "اِلٰى رَبِّكَ يَوْمَىِٕذِ ِۨالْمَسَاقُ ۗ ࣖ",
+                "terjemahan": "kepada Tuhanmulah pada hari itu kamu dihalau. "
+            },
+            {
+                "ayat_ke": 31,
+                "text": "فَلَا صَدَّقَ وَلَا صَلّٰىۙ",
+                "terjemahan": "Karena dia (dahulu) tidak mau membenarkan (Al-Qur'an dan Rasul) dan tidak mau melaksanakan salat, "
+            },
+            {
+                "ayat_ke": 32,
+                "text": "وَلٰكِنْ كَذَّبَ وَتَوَلّٰىۙ",
+                "terjemahan": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), "
+            },
+            {
+                "ayat_ke": 33,
+                "text": "ثُمَّ ذَهَبَ اِلٰٓى اَهْلِهٖ يَتَمَطّٰىۗ",
+                "terjemahan": "kemudian dia pergi kepada keluarganya dengan sombong."
+            },
+            {
+                "ayat_ke": 34,
+                "text": "اَوْلٰى لَكَ فَاَوْلٰىۙ",
+                "terjemahan": "Celakalah kamu! Maka celakalah! "
+            },
+            {
+                "ayat_ke": 35,
+                "text": "ثُمَّ اَوْلٰى لَكَ فَاَوْلٰىۗ",
+                "terjemahan": "Sekali lagi, celakalah kamu (manusia)! Maka celakalah! "
+            },
+            {
+                "ayat_ke": 36,
+                "text": "اَيَحْسَبُ الْاِنْسَانُ اَنْ يُّتْرَكَ سُدًىۗ",
+                "terjemahan": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggungjawaban)?"
+            },
+            {
+                "ayat_ke": 37,
+                "text": "اَلَمْ يَكُ نُطْفَةً مِّنْ مَّنِيٍّ يُّمْنٰى ",
+                "terjemahan": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), "
+            },
+            {
+                "ayat_ke": 38,
+                "text": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوّٰىۙ",
+                "terjemahan": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, "
+            },
+            {
+                "ayat_ke": 39,
+                "text": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰىۗ",
+                "terjemahan": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. "
+            },
+            {
+                "ayat_ke": 40,
+                "text": "اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓى اَنْ يُّحْيِ َۧ الْمَوْتٰى ࣖ",
+                "terjemahan": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?"
+            }
+        ]
+    }
+}

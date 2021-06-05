@@ -1,0 +1,56 @@
+{
+    "104": {
+        "nomor_surah": "104",
+        "nama_surah": "الهمزة",
+        "nama_latin": "Al-Humazah",
+        "jumlah_ayat": "9",
+        "arti": "Pengumpat",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+                "terjemahan": "Celakalah bagi setiap pengumpat dan pencela,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": " ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+                "terjemahan": "yang mengumpulkan harta dan menghitung-hitungnya,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+                "terjemahan": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+                "terjemahan": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+                "terjemahan": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+                "terjemahan": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+                "terjemahan": "yang (membakar) sampai ke hati."
+            },
+            {
+                "ayat_ke": 8,
+                "text": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+                "terjemahan": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ",
+                "terjemahan": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+            }
+        ]
+    }
+}

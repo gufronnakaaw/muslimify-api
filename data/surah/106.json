@@ -1,0 +1,31 @@
+{
+    "106": {
+        "nomor_surah": "106",
+        "nama_surah": "قريش",
+        "nama_latin": "Quraisy",
+        "jumlah_ayat": "4",
+        "arti": "Quraisy",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "لِاِيْلٰفِ قُرَيْشٍۙ",
+                "terjemahan": "Karena kebiasaan orang-orang Quraisy,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+                "terjemahan": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+                "terjemahan": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+                "terjemahan": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+            }
+        ]
+    }
+}

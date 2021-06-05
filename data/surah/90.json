@@ -1,0 +1,111 @@
+{
+    "90": {
+        "nomor_surah": "90",
+        "nama_surah": "البلد",
+        "nama_latin": "Al-Balad",
+        "jumlah_ayat": "20",
+        "arti": "Negeri",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+                "terjemahan": "Aku bersumpah dengan negeri ini (Mekah),"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ",
+                "terjemahan": "dan engkau (Muhammad), bertempat di negeri (Mekah) ini,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَوَالِدٍ وَّمَا وَلَدَۙ",
+                "terjemahan": "dan demi (pertalian) bapak dan anaknya."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ",
+                "terjemahan": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌ ۘ",
+                "terjemahan": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ",
+                "terjemahan": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.” "
+            },
+            {
+                "ayat_ke": 7,
+                "text": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ",
+                "terjemahan": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ",
+                "terjemahan": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَلِسَانًا وَّشَفَتَيْنِۙ",
+                "terjemahan": "dan lidah dan sepasang bibir?"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ",
+                "terjemahan": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan),"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "فَلَا اقْتَحَمَ الْعَقَبَةَ ۖ",
+                "terjemahan": "tetapi dia tidak menempuh jalan yang mendaki dan sukar?"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُ ۗ",
+                "terjemahan": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+            },
+            {
+                "ayat_ke": 13,
+                "text": "فَكُّ رَقَبَةٍۙ",
+                "terjemahan": "(yaitu) melepaskan perbudakan (hamba sahaya),"
+            },
+            {
+                "ayat_ke": 14,
+                "text": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ",
+                "terjemahan": "atau memberi makan pada hari terjadi kelaparan,"
+            },
+            {
+                "ayat_ke": 15,
+                "text": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ",
+                "terjemahan": "(kepada) anak yatim yang ada hubungan kerabat,"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ",
+                "terjemahan": "atau orang miskin yang sangat fakir."
+            },
+            {
+                "ayat_ke": 17,
+                "text": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ",
+                "terjemahan": "Kemudian dia termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+            },
+            {
+                "ayat_ke": 18,
+                "text": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ",
+                "terjemahan": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+            },
+            {
+                "ayat_ke": 19,
+                "text": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْئَمَةِۗ",
+                "terjemahan": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+            },
+            {
+                "ayat_ke": 20,
+                "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ ࣖ",
+                "terjemahan": "Mereka berada dalam neraka yang ditutup rapat."
+            }
+        ]
+    }
+}

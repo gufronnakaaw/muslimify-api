@@ -1,0 +1,51 @@
+{
+    "99": {
+        "nomor_surah": "99",
+        "nama_surah": "الزلزلة",
+        "nama_latin": "Az-Zalzalah",
+        "jumlah_ayat": "8",
+        "arti": "Guncangan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+                "terjemahan": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+                "terjemahan": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+                "terjemahan": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+                "terjemahan": "Pada hari itu bumi menyampaikan beritanya,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+                "terjemahan": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+                "terjemahan": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+                "terjemahan": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+                "terjemahan": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+            }
+        ]
+    }
+}

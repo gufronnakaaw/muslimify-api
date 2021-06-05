@@ -1,0 +1,271 @@
+{
+    "68": {
+        "nomor_surah": "68",
+        "nama_surah": "القلم",
+        "nama_latin": "Al-Qalam",
+        "jumlah_ayat": "52",
+        "arti": "Pena",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "نۤ ۚوَالْقَلَمِ وَمَا يَسْطُرُوْنَۙ",
+                "terjemahan": "Nun. Demi pena dan apa yang mereka tuliskan, "
+            },
+            {
+                "ayat_ke": 2,
+                "text": "مَآ اَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُوْنٍ ",
+                "terjemahan": "dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila. "
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَاِنَّ لَكَ لَاَجْرًا غَيْرَ مَمْنُوْنٍۚ",
+                "terjemahan": "Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya. "
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَاِنَّكَ لَعَلٰى خُلُقٍ عَظِيْمٍ ",
+                "terjemahan": "Dan sesungguhnya engkau benar-benar berbudi pekerti yang luhur. "
+            },
+            {
+                "ayat_ke": 5,
+                "text": "فَسَتُبْصِرُ وَيُبْصِرُوْنَۙ",
+                "terjemahan": "Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat, "
+            },
+            {
+                "ayat_ke": 6,
+                "text": "بِاَيِّىكُمُ الْمَفْتُوْنُ ",
+                "terjemahan": "siapa di antara kamu yang gila? "
+            },
+            {
+                "ayat_ke": 7,
+                "text": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖۖ وَهُوَ اَعْلَمُ بِالْمُهْتَدِيْنَ ",
+                "terjemahan": "Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk. "
+            },
+            {
+                "ayat_ke": 8,
+                "text": "فَلَا تُطِعِ الْمُكَذِّبِيْنَ ",
+                "terjemahan": "Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah)."
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَدُّوْا لَوْ تُدْهِنُ فَيُدْهِنُوْنَۚ",
+                "terjemahan": "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula). "
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِيْنٍۙ",
+                "terjemahan": "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "هَمَّازٍ مَّشَّاۤءٍۢ بِنَمِيْمٍۙ",
+                "terjemahan": "suka mencela, yang kian ke mari menyebarkan fitnah, "
+            },
+            {
+                "ayat_ke": 12,
+                "text": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ اَثِيْمٍۙ",
+                "terjemahan": "yang merintangi segala yang baik, yang melampaui batas dan banyak dosa, "
+            },
+            {
+                "ayat_ke": 13,
+                "text": "عُتُلٍّۢ بَعْدَ ذٰلِكَ زَنِيْمٍۙ",
+                "terjemahan": "yang bertabiat kasar, selain itu juga terkenal kejahatannya,"
+            },
+            {
+                "ayat_ke": 14,
+                "text": "اَنْ كَانَ ذَا مَالٍ وَّبَنِيْنَۗ",
+                "terjemahan": "karena dia kaya dan banyak anak."
+            },
+            {
+                "ayat_ke": 15,
+                "text": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰتُنَا قَالَ اَسَاطِيْرُ الْاَوَّلِيْنَۗ",
+                "terjemahan": "Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, “(Ini adalah) dongeng-dongeng orang dahulu.” "
+            },
+            {
+                "ayat_ke": 16,
+                "text": "سَنَسِمُهٗ عَلَى الْخُرْطُوْمِ ",
+                "terjemahan": "Kelak dia akan Kami beri tanda pada belalai(nya). "
+            },
+            {
+                "ayat_ke": 17,
+                "text": "اِنَّا بَلَوْنٰهُمْ كَمَا بَلَوْنَآ اَصْحٰبَ الْجَنَّةِۚ اِذْ اَقْسَمُوْا لَيَصْرِمُنَّهَا مُصْبِحِيْنَۙ",
+                "terjemahan": "Sungguh, Kami telah menguji mereka (orang musyrik Mekah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari,"
+            },
+            {
+                "ayat_ke": 18,
+                "text": "وَلَا يَسْتَثْنُوْنَ ",
+                "terjemahan": "tetapi mereka tidak menyisihkan (dengan mengucapkan, “Insya Allah”)."
+            },
+            {
+                "ayat_ke": 19,
+                "text": "فَطَافَ عَلَيْهَا طَاۤىِٕفٌ مِّنْ رَّبِّكَ وَهُمْ نَاۤىِٕمُوْنَ ",
+                "terjemahan": "Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur."
+            },
+            {
+                "ayat_ke": 20,
+                "text": "فَاَصْبَحَتْ كَالصَّرِيْمِۙ",
+                "terjemahan": "Maka jadilah kebun itu hitam seperti malam yang gelap gulita,"
+            },
+            {
+                "ayat_ke": 21,
+                "text": "فَتَنَادَوْا مُصْبِحِيْنَۙ",
+                "terjemahan": "lalu pada pagi hari mereka saling memanggil."
+            },
+            {
+                "ayat_ke": 22,
+                "text": "اَنِ اغْدُوْا عَلٰى حَرْثِكُمْ اِنْ كُنْتُمْ صَارِمِيْنَ ",
+                "terjemahan": "”Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil.” "
+            },
+            {
+                "ayat_ke": 23,
+                "text": "فَانْطَلَقُوْا وَهُمْ يَتَخَافَتُوْنَۙ",
+                "terjemahan": "Maka mereka pun berangkat sambil berbisik-bisik. "
+            },
+            {
+                "ayat_ke": 24,
+                "text": "اَنْ لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِّسْكِيْنٌۙ",
+                "terjemahan": "”Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu.” "
+            },
+            {
+                "ayat_ke": 25,
+                "text": "وَّغَدَوْا عَلٰى حَرْدٍ قَادِرِيْنَ ",
+                "terjemahan": "Dan berangkatlah mereka pada pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya). "
+            },
+            {
+                "ayat_ke": 26,
+                "text": "فَلَمَّا رَاَوْهَا قَالُوْٓا اِنَّا لَضَاۤلُّوْنَۙ",
+                "terjemahan": "Maka ketika mereka melihat kebun itu, mereka berkata, “Sungguh, kita ini benar-benar orang-orang yang sesat,"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "بَلْ نَحْنُ مَحْرُوْمُوْنَ ",
+                "terjemahan": "bahkan kita tidak memperoleh apa pun,”"
+            },
+            {
+                "ayat_ke": 28,
+                "text": "قَالَ اَوْسَطُهُمْ اَلَمْ اَقُلْ لَّكُمْ لَوْلَا تُسَبِّحُوْنَ ",
+                "terjemahan": "berkatalah seorang yang paling bijak di antara mereka, “Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu).”"
+            },
+            {
+                "ayat_ke": 29,
+                "text": "قَالُوْا سُبْحٰنَ رَبِّنَآ اِنَّا كُنَّا ظٰلِمِيْنَ ",
+                "terjemahan": "Mereka mengucapkan, “Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim.” "
+            },
+            {
+                "ayat_ke": 30,
+                "text": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَلَاوَمُوْنَ ",
+                "terjemahan": "Lalu mereka saling berhadapan dan saling menyalahkan."
+            },
+            {
+                "ayat_ke": 31,
+                "text": "قَالُوْا يٰوَيْلَنَآ اِنَّا كُنَّا طٰغِيْنَ ",
+                "terjemahan": "Mereka berkata, “Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas. "
+            },
+            {
+                "ayat_ke": 32,
+                "text": "عَسٰى رَبُّنَآ اَنْ يُّبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلٰى رَبِّنَا رَاغِبُوْنَ ",
+                "terjemahan": "Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita.” "
+            },
+            {
+                "ayat_ke": 33,
+                "text": "كَذٰلِكَ الْعَذَابُۗ وَلَعَذَابُ الْاٰخِرَةِ اَكْبَرُۘ لَوْ كَانُوْا يَعْلَمُوْنَ ࣖ ",
+                "terjemahan": "Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar se-kiranya mereka mengetahui."
+            },
+            {
+                "ayat_ke": 34,
+                "text": "اِنَّ لِلْمُتَّقِيْنَ عِنْدَ رَبِّهِمْ جَنّٰتِ النَّعِيْمِ ",
+                "terjemahan": "Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya."
+            },
+            {
+                "ayat_ke": 35,
+                "text": "اَفَنَجْعَلُ الْمُسْلِمِيْنَ كَالْمُجْرِمِيْنَۗ",
+                "terjemahan": "Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?"
+            },
+            {
+                "ayat_ke": 36,
+                "text": "مَا لَكُمْۗ  كَيْفَ تَحْكُمُوْنَۚ",
+                "terjemahan": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?"
+            },
+            {
+                "ayat_ke": 37,
+                "text": "اَمْ لَكُمْ كِتٰبٌ فِيْهِ تَدْرُسُوْنَۙ",
+                "terjemahan": "Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?  "
+            },
+            {
+                "ayat_ke": 38,
+                "text": "اِنَّ لَكُمْ فِيْهِ لَمَا تَخَيَّرُوْنَۚ",
+                "terjemahan": "sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya."
+            },
+            {
+                "ayat_ke": 39,
+                "text": "اَمْ لَكُمْ اَيْمَانٌ عَلَيْنَا بَالِغَةٌ اِلٰى يَوْمِ الْقِيٰمَةِۙ اِنَّ لَكُمْ لَمَا تَحْكُمُوْنَۚ",
+                "terjemahan": "Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)? "
+            },
+            {
+                "ayat_ke": 40,
+                "text": "سَلْهُمْ اَيُّهُمْ بِذٰلِكَ زَعِيْمٌۚ",
+                "terjemahan": "Tanyakanlah kepada mereka, “Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?”"
+            },
+            {
+                "ayat_ke": 41,
+                "text": "اَمْ لَهُمْ شُرَكَاۤءُۚ فَلْيَأْتُوْا بِشُرَكَاۤىِٕهِمْ اِنْ كَانُوْا صٰدِقِيْنَ ",
+                "terjemahan": "Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar."
+            },
+            {
+                "ayat_ke": 42,
+                "text": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَّيُدْعَوْنَ اِلَى السُّجُوْدِ فَلَا يَسْتَطِيْعُوْنَۙ",
+                "terjemahan": "(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud; maka mereka tidak mampu,"
+            },
+            {
+                "ayat_ke": 43,
+                "text": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ  ۗوَقَدْ كَانُوْا يُدْعَوْنَ اِلَى السُّجُوْدِ وَهُمْ سَالِمُوْنَ ",
+                "terjemahan": "pandangan mereka tertunduk ke bawah, diliputi kehinaan. Dan sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud pada waktu mereka sehat (tetapi mereka tidak melakukan). "
+            },
+            {
+                "ayat_ke": 44,
+                "text": "فَذَرْنِيْ وَمَنْ يُّكَذِّبُ بِهٰذَا الْحَدِيْثِۗ سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَۙ",
+                "terjemahan": "Maka serahkanlah kepada-Ku (urusannya) dan orang-orang yang mendustakan perkataan ini (Al-Qur'an). Kelak akan Kami hukum mereka berangsur-angsur dari arah yang tidak mereka ketahui, "
+            },
+            {
+                "ayat_ke": 45,
+                "text": "وَاُمْلِيْ لَهُمْۗ اِنَّ كَيْدِيْ مَتِيْنٌ ",
+                "terjemahan": "dan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh. "
+            },
+            {
+                "ayat_ke": 46,
+                "text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِّنْ مَّغْرَمٍ مُّثْقَلُوْنَۚ ",
+                "terjemahan": "Ataukah engkau (Muhammad) meminta imbalan kepada mereka, sehingga mereka dibebani dengan utang?"
+            },
+            {
+                "ayat_ke": 47,
+                "text": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُوْنَ ",
+                "terjemahan": "Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya?"
+            },
+            {
+                "ayat_ke": 48,
+                "text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوْتِۘ اِذْ نَادٰى وَهُوَ مَكْظُوْمٌۗ",
+                "terjemahan": "Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (Yunus) orang yang berada dalam (perut) ikan ketika dia berdoa dengan hati sedih."
+            },
+            {
+                "ayat_ke": 49,
+                "text": "لَوْلَآ اَنْ تَدَارَكَهٗ نِعْمَةٌ مِّنْ رَّبِّهٖ لَنُبِذَ بِالْعَرَاۤءِ وَهُوَ مَذْمُوْمٌ ",
+                "terjemahan": "Sekiranya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela. "
+            },
+            {
+                "ayat_ke": 50,
+                "text": "فَاجْتَبٰىهُ رَبُّهٗ فَجَعَلَهٗ مِنَ الصّٰلِحِيْنَ ",
+                "terjemahan": "Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh. "
+            },
+            {
+                "ayat_ke": 51,
+                "text": "وَاِنْ يَّكَادُ الَّذِيْنَ كَفَرُوْا لَيُزْلِقُوْنَكَ بِاَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُوْلُوْنَ اِنَّهٗ لَمَجْنُوْنٌ ۘ",
+                "terjemahan": "Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Al-Qur'an dan mereka berkata, “Dia (Muhammad) itu benar-benar orang gila.”"
+            },
+            {
+                "ayat_ke": 52,
+                "text": "وَمَا هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَ ࣖ ",
+                "terjemahan": "Padahal (Al-Qur'an) itu tidak lain adalah peringatan bagi seluruh alam."
+            }
+        ]
+    }
+}

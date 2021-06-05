@@ -1,0 +1,261 @@
+{
+    "77": {
+        "nomor_surah": "77",
+        "nama_surah": "المرسلٰت",
+        "nama_latin": "Al-Mursalat",
+        "jumlah_ayat": "50",
+        "arti": "Malaikat Yang Diutus",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالْمُرْسَلٰتِ عُرْفًاۙ",
+                "terjemahan": "Demi (malaikat-malaikat) yang diutus untuk membawa kebaikan,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "فَالْعٰصِفٰتِ عَصْفًاۙ",
+                "terjemahan": "dan (malaikat-malaikat) yang terbang dengan kencangnya,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَّالنّٰشِرٰتِ نَشْرًاۙ",
+                "terjemahan": "dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "فَالْفٰرِقٰتِ فَرْقًاۙ",
+                "terjemahan": "dan (malaikat-malaikat) yang membedakan (antara yang baik dan yang buruk) dengan sejelas-jelasnya,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "فَالْمُلْقِيٰتِ ذِكْرًاۙ",
+                "terjemahan": "dan (malaikat-malaikat) yang menyampaikan wahyu,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "عُذْرًا اَوْ نُذْرًاۙ",
+                "terjemahan": "untuk menolak alasan-alasan atau memberi peringatan."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "اِنَّمَا تُوْعَدُوْنَ لَوَاقِعٌۗ",
+                "terjemahan": "Sungguh, apa yang dijanjikan kepadamu pasti terjadi."
+            },
+            {
+                "ayat_ke": 8,
+                "text": "فَاِذَا النُّجُوْمُ طُمِسَتْۙ",
+                "terjemahan": "Maka apabila bintang-bintang dihapuskan,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَاِذَا السَّمَاۤءُ فُرِجَتْۙ",
+                "terjemahan": "dan apabila langit terbelah,"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+                "terjemahan": "dan apabila gunung-gunung dihancurkan menjadi debu,"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "وَاِذَا الرُّسُلُ اُقِّتَتْۗ",
+                "terjemahan": "dan apabila rasul-rasul telah ditetapkan waktunya."
+            },
+            {
+                "ayat_ke": 12,
+                "text": "لِاَيِّ يَوْمٍ اُجِّلَتْۗ",
+                "terjemahan": "(Niscaya dikatakan kepada mereka), “Sampai hari apakah ditangguhkan (azab orang-orang kafir itu)?”"
+            },
+            {
+                "ayat_ke": 13,
+                "text": "لِيَوْمِ الْفَصْلِۚ",
+                "terjemahan": "Sampai hari keputusan."
+            },
+            {
+                "ayat_ke": 14,
+                "text": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الْفَصْلِۗ",
+                "terjemahan": "Dan tahukah kamu apakah hari ke-putusan itu?"
+            },
+            {
+                "ayat_ke": 15,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+            },
+            {
+                "ayat_ke": 16,
+                "text": "اَلَمْ نُهْلِكِ الْاَوَّلِيْنَۗ",
+                "terjemahan": "Bukankah telah Kami binasakan orang-orang yang dahulu?"
+            },
+            {
+                "ayat_ke": 17,
+                "text": "ثُمَّ نُتْبِعُهُمُ الْاٰخِرِيْنَ ",
+                "terjemahan": "Lalu Kami susulkan (azab Kami terhadap) orang-orang yang datang kemudian."
+            },
+            {
+                "ayat_ke": 18,
+                "text": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِيْنَ ",
+                "terjemahan": "Demikianlah Kami perlakukan orang-orang yang berdosa."
+            },
+            {
+                "ayat_ke": 19,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+            },
+            {
+                "ayat_ke": 20,
+                "text": "اَلَمْ نَخْلُقْكُّمْ مِّنْ مَّاۤءٍ مَّهِيْنٍۙ",
+                "terjemahan": "Bukankah Kami menciptakan kamu dari air yang hina (mani),"
+            },
+            {
+                "ayat_ke": 21,
+                "text": "فَجَعَلْنٰهُ فِيْ قَرَارٍ مَّكِيْنٍ",
+                "terjemahan": "kemudian Kami letakkan ia dalam tempat yang kokoh (rahim),"
+            },
+            {
+                "ayat_ke": 22,
+                "text": "اِلٰى قَدَرٍ مَّعْلُوْمٍۙ",
+                "terjemahan": "sampai waktu yang ditentukan,"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "فَقَدَرْنَاۖ فَنِعْمَ الْقٰدِرُوْنَ ",
+                "terjemahan": "lalu Kami tentukan (bentuknya), maka (Kamilah) sebaik-baik yang menentukan."
+            },
+            {
+                "ayat_ke": 24,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+            },
+            {
+                "ayat_ke": 25,
+                "text": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًاۙ",
+                "terjemahan": "Bukankah Kami jadikan bumi untuk (tempat) berkumpul,"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "اَحْيَاۤءً وَّاَمْوَاتًاۙ",
+                "terjemahan": "bagi yang masih hidup dan yang sudah mati?"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "وَّجَعَلْنَا فِيْهَا رَوَاسِيَ شٰمِخٰتٍ وَّاَسْقَيْنٰكُمْ مَّاۤءً فُرَاتًاۗ",
+                "terjemahan": "Dan Kami jadikan padanya gunung-gunung yang tinggi, dan Kami beri minum kamu dengan air tawar?"
+            },
+            {
+                "ayat_ke": 28,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+            },
+            {
+                "ayat_ke": 29,
+                "text": "اِنْطَلِقُوْٓا اِلٰى مَا كُنْتُمْ بِهٖ تُكَذِّبُوْنَۚ",
+                "terjemahan": "(Akan dikatakan), “Pergilah kamu mendapatkan apa (azab) yang dahulu kamu dustakan."
+            },
+            {
+                "ayat_ke": 30,
+                "text": "اِنْطَلِقُوْٓا اِلٰى ظِلٍّ ذِيْ ثَلٰثِ شُعَبٍ ",
+                "terjemahan": "Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang, "
+            },
+            {
+                "ayat_ke": 31,
+                "text": "لَا ظَلِيْلٍ وَّلَا يُغْنِيْ مِنَ اللَّهَبِۗ",
+                "terjemahan": "yang tidak melindungi dan tidak pula menolak nyala api neraka.” "
+            },
+            {
+                "ayat_ke": 32,
+                "text": "اِنَّهَا تَرْمِيْ بِشَرَرٍ كَالْقَصْرِۚ",
+                "terjemahan": "Sungguh, (neraka) itu menyemburkan bunga api (sebesar dan setinggi) istana, "
+            },
+            {
+                "ayat_ke": 33,
+                "text": "كَاَنَّهٗ جِمٰلَتٌ صُفْرٌۗ",
+                "terjemahan": "seakan-akan iring-iringan unta yang kuning."
+            },
+            {
+                "ayat_ke": 34,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+            },
+            {
+                "ayat_ke": 35,
+                "text": "هٰذَا يَوْمُ لَا يَنْطِقُوْنَۙ",
+                "terjemahan": "Inilah hari, saat mereka tidak dapat berbicara, "
+            },
+            {
+                "ayat_ke": 36,
+                "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُوْنَ ",
+                "terjemahan": "dan tidak diizinkan kepada mereka mengemukakan alasan agar mereka dimaafkan. "
+            },
+            {
+                "ayat_ke": 37,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+            },
+            {
+                "ayat_ke": 38,
+                "text": "هٰذَا يَوْمُ الْفَصْلِ جَمَعْنٰكُمْ وَالْاَوَّلِيْنَ ",
+                "terjemahan": "Inilah hari keputusan; (pada hari ini) Kami kumpulkan kamu dan orang-orang yang terdahulu. "
+            },
+            {
+                "ayat_ke": 39,
+                "text": "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَكِيْدُوْنِ ",
+                "terjemahan": "Maka jika kamu punya tipu daya, maka lakukanlah (tipu daya) itu terhadap-Ku. "
+            },
+            {
+                "ayat_ke": 40,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ࣖ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)."
+            },
+            {
+                "ayat_ke": 41,
+                "text": "اِنَّ الْمُتَّقِيْنَ فِيْ ظِلٰلٍ وَّعُيُوْنٍۙ",
+                "terjemahan": "Sungguh, orang-orang yang bertakwa berada dalam naungan (pepohonan surga yang teduh) dan (di sekitar) mata air, "
+            },
+            {
+                "ayat_ke": 42,
+                "text": "وَّفَوَاكِهَ مِمَّا يَشْتَهُوْنَۗ",
+                "terjemahan": "dan buah-buahan yang mereka sukai. "
+            },
+            {
+                "ayat_ke": 43,
+                "text": "كُلُوْا وَاشْرَبُوْا هَنِيْۤـًٔا ۢبِمَا كُنْتُمْ تَعْمَلُوْنَ ",
+                "terjemahan": "(Katakan kepada mereka), “Makan dan minumlah dengan rasa nikmat sebagai balasan dari apa yang telah kamu kerjakan.” "
+            },
+            {
+                "ayat_ke": 44,
+                "text": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ ",
+                "terjemahan": "Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik. "
+            },
+            {
+                "ayat_ke": 45,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+            },
+            {
+                "ayat_ke": 46,
+                "text": "كُلُوْا وَتَمَتَّعُوْا قَلِيْلًا اِنَّكُمْ مُّجْرِمُوْنَ ",
+                "terjemahan": "(Katakan kepada orang-orang kafir), “Makan dan bersenang-senanglah kamu (di dunia) sebentar, sesungguhnya kamu orang-orang durhaka!”"
+            },
+            {
+                "ayat_ke": 47,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran). "
+            },
+            {
+                "ayat_ke": 48,
+                "text": "وَاِذَا قِيْلَ لَهُمُ ارْكَعُوْا لَا يَرْكَعُوْنَ ",
+                "terjemahan": "Dan apabila dikatakan kepada mereka, “Rukuklah,” mereka tidak mau rukuk."
+            },
+            {
+                "ayat_ke": 49,
+                "text": "وَيْلٌ يَّوْمَىِٕذٍ لِّلْمُكَذِّبِيْنَ ",
+                "terjemahan": "Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran)! "
+            },
+            {
+                "ayat_ke": 50,
+                "text": "فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ ࣖ   ۔",
+                "terjemahan": "Maka kepada ajaran manakah (selain Al-Qur'an) ini mereka akan beriman?"
+            }
+        ]
+    }
+}

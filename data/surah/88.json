@@ -1,0 +1,141 @@
+{
+    "88": {
+        "nomor_surah": "88",
+        "nama_surah": "الغاشية",
+        "nama_latin": "Al-Gasyiyah",
+        "jumlah_ayat": "26",
+        "arti": "Hari Kiamat",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "هَلْ اَتٰىكَ حَدِيْثُ الْغَاشِيَةِۗ",
+                "terjemahan": "Sudahkah sampai kepadamu berita tentang (hari Kiamat)?"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وُجُوْهٌ يَّوْمَىِٕذٍ خَاشِعَةٌ  ۙ",
+                "terjemahan": "Pada hari itu banyak wajah yang tertunduk terhina,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "عَامِلَةٌ نَّاصِبَةٌ  ۙ",
+                "terjemahan": "(karena) bekerja keras lagi kepayahan,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "تَصْلٰى نَارًا حَامِيَةً  ۙ",
+                "terjemahan": "mereka memasuki api yang sangat panas (neraka),"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍ ۗ",
+                "terjemahan": "diberi minum dari sumber mata air yang sangat panas."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَرِيْعٍۙ",
+                "terjemahan": "Tidak ada makanan bagi mereka selain dari pohon yang berduri,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "لَّا يُسْمِنُ وَلَا يُغْنِيْ مِنْ جُوْعٍۗ",
+                "terjemahan": "yang tidak menggemukkan dan tidak menghilangkan lapar."
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وُجُوْهٌ يَّوْمَىِٕذٍ نَّاعِمَةٌ  ۙ",
+                "terjemahan": "Pada hari itu banyak (pula) wajah yang berseri-seri,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "لِّسَعْيِهَا رَاضِيَةٌ  ۙ ",
+                "terjemahan": "merasa senang karena usahanya (sendiri),"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "فِيْ جَنَّةٍ عَالِيَةٍۙ",
+                "terjemahan": "(mereka) dalam surga yang tinggi, "
+            },
+            {
+                "ayat_ke": 11,
+                "text": "لَّا تَسْمَعُ فِيْهَا لَاغِيَةً ۗ",
+                "terjemahan": "di sana (kamu) tidak mendengar perkataan yang tidak berguna."
+            },
+            {
+                "ayat_ke": 12,
+                "text": "فِيْهَا عَيْنٌ جَارِيَةٌ  ۘ",
+                "terjemahan": "Di sana ada mata air yang mengalir."
+            },
+            {
+                "ayat_ke": 13,
+                "text": "فِيْهَا سُرُرٌ مَّرْفُوْعَةٌ  ۙ",
+                "terjemahan": "Di sana ada dipan-dipan yang ditinggikan,"
+            },
+            {
+                "ayat_ke": 14,
+                "text": "وَّاَكْوَابٌ مَّوْضُوْعَةٌ  ۙ",
+                "terjemahan": "dan gelas-gelas yang tersedia (di dekatnya),"
+            },
+            {
+                "ayat_ke": 15,
+                "text": "وَّنَمَارِقُ مَصْفُوْفَةٌ  ۙ ",
+                "terjemahan": "dan bantal-bantal sandaran yang tersusun,"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "وَّزَرَابِيُّ مَبْثُوْثَةٌ  ۗ",
+                "terjemahan": "dan permadani-permadani yang terhampar."
+            },
+            {
+                "ayat_ke": 17,
+                "text": "اَفَلَا يَنْظُرُوْنَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْۗ",
+                "terjemahan": "Maka tidakkah mereka memperhatikan unta, bagaimana diciptakan?"
+            },
+            {
+                "ayat_ke": 18,
+                "text": "وَاِلَى السَّمَاۤءِ كَيْفَ رُفِعَتْۗ",
+                "terjemahan": "dan langit, bagaimana ditinggikan?"
+            },
+            {
+                "ayat_ke": 19,
+                "text": "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْۗ",
+                "terjemahan": "Dan gunung-gunung bagaimana ditegakkan?"
+            },
+            {
+                "ayat_ke": 20,
+                "text": "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْۗ ",
+                "terjemahan": "Dan bumi bagaimana dihamparkan?"
+            },
+            {
+                "ayat_ke": 21,
+                "text": "فَذَكِّرْۗ اِنَّمَآ اَنْتَ مُذَكِّرٌۙ",
+                "terjemahan": "Maka berilah peringatan, karena sesungguhnya engkau (Muhammad) hanyalah pemberi peringatan."
+            },
+            {
+                "ayat_ke": 22,
+                "text": "لَّسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ",
+                "terjemahan": "Engkau bukanlah orang yang berkuasa atas mereka,"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ",
+                "terjemahan": "kecuali (jika ada) orang yang berpaling dan kafir,"
+            },
+            {
+                "ayat_ke": 24,
+                "text": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۗ",
+                "terjemahan": "maka Allah akan mengazabnya dengan azab yang besar."
+            },
+            {
+                "ayat_ke": 25,
+                "text": "اِنَّ اِلَيْنَآ اِيَابَهُمْ",
+                "terjemahan": "Sungguh, kepada Kamilah mereka kembali,"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ ࣖ",
+                "terjemahan": "kemudian sesungguhnya (kewajiban) Kamilah membuat perhitungan atas mereka."
+            }
+        ]
+    }
+}

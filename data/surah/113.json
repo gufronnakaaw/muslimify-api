@@ -1,0 +1,36 @@
+{
+    "113": {
+        "nomor_surah": "113",
+        "nama_surah": "الفلق",
+        "nama_latin": "Al-Falaq",
+        "jumlah_ayat": "5",
+        "arti": "Subuh",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+                "terjemahan": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "مِنْ شَرِّ مَا خَلَقَۙ",
+                "terjemahan": "dari kejahatan (makhluk yang) Dia ciptakan,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+                "terjemahan": "dan dari kejahatan malam apabila telah gelap gulita,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+                "terjemahan": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+                "terjemahan": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "97": {
+        "nomor_surah": "97",
+        "nama_surah": "القدر",
+        "nama_latin": "Al-Qadr",
+        "jumlah_ayat": "5",
+        "arti": "Kemuliaan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+                "terjemahan": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar."
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+                "terjemahan": "Dan tahukah kamu apakah malam kemuliaan itu?"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+                "terjemahan": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+                "terjemahan": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+                "terjemahan": "Sejahteralah (malam itu) sampai terbit fajar."
+            }
+        ]
+    }
+}

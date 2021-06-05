@@ -1,0 +1,66 @@
+{
+    "93": {
+        "nomor_surah": "93",
+        "nama_surah": "الضحى",
+        "nama_latin": "Ad-Duha",
+        "jumlah_ayat": "11",
+        "arti": "Duha",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالضُّحٰىۙ",
+                "terjemahan": "Demi waktu duha (ketika matahari naik sepenggalah),"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَالَّيْلِ اِذَا سَجٰىۙ",
+                "terjemahan": "dan demi malam apabila telah sunyi,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+                "terjemahan": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+                "terjemahan": "dan sungguh, yang kemudian itu lebih baik bagimu dari yang permulaan."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+                "terjemahan": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+                "terjemahan": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu),"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+                "terjemahan": "dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+                "terjemahan": "dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan."
+            },
+            {
+                "ayat_ke": 9,
+                "text": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+                "terjemahan": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang."
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+                "terjemahan": "Dan terhadap orang yang meminta-minta janganlah engkau menghardik(nya)."
+            },
+            {
+                "ayat_ke": 11,
+                "text": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+                "terjemahan": "Dan terhadap nikmat Tuhanmu hendaklah engkau nyatakan (dengan bersyukur)."
+            }
+        ]
+    }
+}

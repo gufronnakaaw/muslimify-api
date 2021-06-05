@@ -1,0 +1,800 @@
+[
+    {
+        "nomor_surah": "1",
+        "nama_latin": "Al-Fatihah",
+        "nama_surah": " الفاتحة",
+        "jumlah_ayat": "7",
+        "arti": "Pembukaan"
+    },
+    {
+        "nomor_surah": "2",
+        "nama_latin": "Al-Baqarah",
+        "nama_surah": " البقرة",
+        "jumlah_ayat": "286",
+        "arti": "Sapi"
+    },
+    {
+        "nomor_surah": "3",
+        "nama_latin": "Ali 'Imran",
+        "nama_surah": " اٰل عمران",
+        "jumlah_ayat": "200",
+        "arti": "Keluarga Imran"
+    },
+    {
+        "nomor_surah": "4",
+        "nama_latin": "An-Nisa'",
+        "nama_surah": " النساۤء",
+        "jumlah_ayat": "176",
+        "arti": "Wanita"
+    },
+    {
+        "nomor_surah": "5",
+        "nama_latin": "Al-Ma'idah",
+        "nama_surah": " الماۤئدة",
+        "jumlah_ayat": "120",
+        "arti": "Hidangan"
+    },
+    {
+        "nomor_surah": "6",
+        "nama_latin": "Al-An'am",
+        "nama_surah": " الانعام",
+        "jumlah_ayat": "165",
+        "arti": "Binatang Ternak"
+    },
+    {
+        "nomor_surah": "7",
+        "nama_latin": "Al-A'raf",
+        "nama_surah": " الاعراف",
+        "jumlah_ayat": "206",
+        "arti": "Tempat Tertinggi"
+    },
+    {
+        "nomor_surah": "8",
+        "nama_latin": "Al-Anfal",
+        "nama_surah": " الانفال",
+        "jumlah_ayat": "75",
+        "arti": "Rampasan Perang"
+    },
+    {
+        "nomor_surah": "9",
+        "nama_latin": "At-Taubah",
+        "nama_surah": " التوبة",
+        "jumlah_ayat": "129",
+        "arti": "Pengampunan"
+    },
+    {
+        "nomor_surah": "10",
+        "nama_latin": "Yunus",
+        "nama_surah": " يونس",
+        "jumlah_ayat": "109",
+        "arti": "Yunus"
+    },
+    {
+        "nomor_surah": "11",
+        "nama_latin": "Hud",
+        "nama_surah": " هود",
+        "jumlah_ayat": "123",
+        "arti": "Hud"
+    },
+    {
+        "nomor_surah": "12",
+        "nama_latin": "Yusuf",
+        "nama_surah": " يوسف",
+        "jumlah_ayat": "111",
+        "arti": "Yusuf"
+    },
+    {
+        "nomor_surah": "13",
+        "nama_latin": "Ar-Ra'd",
+        "nama_surah": " الرّعد",
+        "jumlah_ayat": "43",
+        "arti": "Guruh"
+    },
+    {
+        "nomor_surah": "14",
+        "nama_latin": "Ibrahim",
+        "nama_surah": " ابرٰهيم",
+        "jumlah_ayat": "52",
+        "arti": "Ibrahim"
+    },
+    {
+        "nomor_surah": "15",
+        "nama_latin": "Al-Hijr",
+        "nama_surah": " الحجر",
+        "jumlah_ayat": "99",
+        "arti": "Hijr"
+    },
+    {
+        "nomor_surah": "16",
+        "nama_latin": "An-Nahl",
+        "nama_surah": " النحل",
+        "jumlah_ayat": "128",
+        "arti": "Lebah"
+    },
+    {
+        "nomor_surah": "17",
+        "nama_latin": "Al-Isra'",
+        "nama_surah": " الاسراۤء",
+        "jumlah_ayat": "111",
+        "arti": "Memperjalankan Malam Hari"
+    },
+    {
+        "nomor_surah": "18",
+        "nama_latin": "Al-Kahf",
+        "nama_surah": " الكهف",
+        "jumlah_ayat": "110",
+        "arti": "Goa"
+    },
+    {
+        "nomor_surah": "19",
+        "nama_latin": "Maryam",
+        "nama_surah": " مريم",
+        "jumlah_ayat": "98",
+        "arti": "Maryam"
+    },
+    {
+        "nomor_surah": "20",
+        "nama_latin": "Taha",
+        "nama_surah": " طٰهٰ",
+        "jumlah_ayat": "135",
+        "arti": "Taha"
+    },
+    {
+        "nomor_surah": "21",
+        "nama_latin": "Al-Anbiya'",
+        "nama_surah": " الانبياۤء",
+        "jumlah_ayat": "112",
+        "arti": "Para Nabi"
+    },
+    {
+        "nomor_surah": "22",
+        "nama_latin": "Al-Hajj",
+        "nama_surah": " الحج",
+        "jumlah_ayat": "78",
+        "arti": "Haji"
+    },
+    {
+        "nomor_surah": "23",
+        "nama_latin": "Al-Mu'minun",
+        "nama_surah": " المؤمنون",
+        "jumlah_ayat": "118",
+        "arti": "Orang-Orang Mukmin"
+    },
+    {
+        "nomor_surah": "24",
+        "nama_latin": "An-Nur",
+        "nama_surah": " النّور",
+        "jumlah_ayat": "64",
+        "arti": "Cahaya"
+    },
+    {
+        "nomor_surah": "25",
+        "nama_latin": "Al-Furqan",
+        "nama_surah": " الفرقان",
+        "jumlah_ayat": "77",
+        "arti": "Pembeda"
+    },
+    {
+        "nomor_surah": "26",
+        "nama_latin": "Asy-Syu'ara'",
+        "nama_surah": " الشعراۤء",
+        "jumlah_ayat": "227",
+        "arti": "Para Penyair"
+    },
+    {
+        "nomor_surah": "27",
+        "nama_latin": "An-Naml",
+        "nama_surah": " النمل",
+        "jumlah_ayat": "93",
+        "arti": "Semut-semut"
+    },
+    {
+        "nomor_surah": "28",
+        "nama_latin": "Al-Qasas",
+        "nama_surah": " القصص",
+        "jumlah_ayat": "88",
+        "arti": "Kisah-Kisah"
+    },
+    {
+        "nomor_surah": "29",
+        "nama_latin": "Al-'Ankabut",
+        "nama_surah": " العنكبوت",
+        "jumlah_ayat": "69",
+        "arti": "Laba-Laba"
+    },
+    {
+        "nomor_surah": "30",
+        "nama_latin": "Ar-Rum",
+        "nama_surah": " الرّوم",
+        "jumlah_ayat": "60",
+        "arti": "Romawi"
+    },
+    {
+        "nomor_surah": "31",
+        "nama_latin": "Luqman",
+        "nama_surah": " لقمٰن",
+        "jumlah_ayat": "34",
+        "arti": "Luqman"
+    },
+    {
+        "nomor_surah": "32",
+        "nama_latin": "As-Sajdah",
+        "nama_surah": " السّجدة",
+        "jumlah_ayat": "30",
+        "arti": "Sajdah"
+    },
+    {
+        "nomor_surah": "33",
+        "nama_latin": "Al-Ahzab",
+        "nama_surah": " الاحزاب",
+        "jumlah_ayat": "73",
+        "arti": "Golongan Yang Bersekutu"
+    },
+    {
+        "nomor_surah": "34",
+        "nama_latin": "Saba'",
+        "nama_surah": " سبأ",
+        "jumlah_ayat": "54",
+        "arti": "Saba'"
+    },
+    {
+        "nomor_surah": "35",
+        "nama_latin": "Fatir",
+        "nama_surah": " فاطر",
+        "jumlah_ayat": "45",
+        "arti": "Maha Pencipta"
+    },
+    {
+        "nomor_surah": "36",
+        "nama_latin": "Yasin",
+        "nama_surah": " يٰسۤ",
+        "jumlah_ayat": "83",
+        "arti": "Yasin"
+    },
+    {
+        "nomor_surah": "37",
+        "nama_latin": "As-Saffat",
+        "nama_surah": " الصّٰۤفّٰت",
+        "jumlah_ayat": "182",
+        "arti": "Barisan-Barisan"
+    },
+    {
+        "nomor_surah": "38",
+        "nama_latin": "Sad",
+        "nama_surah": " ص",
+        "jumlah_ayat": "88",
+        "arti": "Sad"
+    },
+    {
+        "nomor_surah": "39",
+        "nama_latin": "Az-Zumar",
+        "nama_surah": " الزمر",
+        "jumlah_ayat": "75",
+        "arti": "Rombongan"
+    },
+    {
+        "nomor_surah": "40",
+        "nama_latin": "Gafir",
+        "nama_surah": " غافر",
+        "jumlah_ayat": "85",
+        "arti": "Maha Pengampun"
+    },
+    {
+        "nomor_surah": "41",
+        "nama_latin": "Fussilat",
+        "nama_surah": " فصّلت",
+        "jumlah_ayat": "54",
+        "arti": "Yang Dijelaskan"
+    },
+    {
+        "nomor_surah": "42",
+        "nama_latin": "Asy-Syura",
+        "nama_surah": " الشورى",
+        "jumlah_ayat": "53",
+        "arti": "Musyawarah"
+    },
+    {
+        "nomor_surah": "43",
+        "nama_latin": "Az-Zukhruf",
+        "nama_surah": " الزخرف",
+        "jumlah_ayat": "89",
+        "arti": "Perhiasan"
+    },
+    {
+        "nomor_surah": "44",
+        "nama_latin": "Ad-Dukhan",
+        "nama_surah": " الدخان",
+        "jumlah_ayat": "59",
+        "arti": "Kabut"
+    },
+    {
+        "nomor_surah": "45",
+        "nama_latin": "Al-Jasiyah",
+        "nama_surah": " الجاثية",
+        "jumlah_ayat": "37",
+        "arti": "Berlutut"
+    },
+    {
+        "nomor_surah": "46",
+        "nama_latin": "Al-Ahqaf",
+        "nama_surah": " الاحقاف",
+        "jumlah_ayat": "35",
+        "arti": "Bukit Pasir"
+    },
+    {
+        "nomor_surah": "47",
+        "nama_latin": "Muhammad",
+        "nama_surah": " محمّد",
+        "jumlah_ayat": "38",
+        "arti": "Muhammad"
+    },
+    {
+        "nomor_surah": "48",
+        "nama_latin": "Al-Fath",
+        "nama_surah": " الفتح",
+        "jumlah_ayat": "29",
+        "arti": "Kemenangan"
+    },
+    {
+        "nomor_surah": "49",
+        "nama_latin": "Al-Hujurat",
+        "nama_surah": " الحجرٰت",
+        "jumlah_ayat": "18",
+        "arti": "Kamar-Kamar"
+    },
+    {
+        "nomor_surah": "50",
+        "nama_latin": "Qaf",
+        "nama_surah": " ق",
+        "jumlah_ayat": "45",
+        "arti": "Qaf"
+    },
+    {
+        "nomor_surah": "51",
+        "nama_latin": "Az-Zariyat",
+        "nama_surah": " الذّٰريٰت",
+        "jumlah_ayat": "60",
+        "arti": "Angin yang Menerbangkan"
+    },
+    {
+        "nomor_surah": "52",
+        "nama_latin": "At-Tur",
+        "nama_surah": " الطور",
+        "jumlah_ayat": "49",
+        "arti": "Bukit Tursina"
+    },
+    {
+        "nomor_surah": "53",
+        "nama_latin": "An-Najm",
+        "nama_surah": " النجم",
+        "jumlah_ayat": "62",
+        "arti": "Bintang"
+    },
+    {
+        "nomor_surah": "54",
+        "nama_latin": "Al-Qamar",
+        "nama_surah": " القمر",
+        "jumlah_ayat": "55",
+        "arti": "Bulan"
+    },
+    {
+        "nomor_surah": "55",
+        "nama_latin": "Ar-Rahman",
+        "nama_surah": " الرحمن",
+        "jumlah_ayat": "78",
+        "arti": "Maha Pengasih"
+    },
+    {
+        "nomor_surah": "56",
+        "nama_latin": "Al-Waqi'ah",
+        "nama_surah": " الواقعة",
+        "jumlah_ayat": "96",
+        "arti": "Hari Kiamat"
+    },
+    {
+        "nomor_surah": "57",
+        "nama_latin": "Al-Hadid",
+        "nama_surah": " الحديد",
+        "jumlah_ayat": "29",
+        "arti": "Besi"
+    },
+    {
+        "nomor_surah": "58",
+        "nama_latin": "Al-Mujadalah",
+        "nama_surah": " المجادلة",
+        "jumlah_ayat": "22",
+        "arti": "Gugatan"
+    },
+    {
+        "nomor_surah": "59",
+        "nama_latin": "Al-Hasyr",
+        "nama_surah": " الحشر",
+        "jumlah_ayat": "24",
+        "arti": "Pengusiran"
+    },
+    {
+        "nomor_surah": "60",
+        "nama_latin": "Al-Mumtahanah",
+        "nama_surah": " الممتحنة",
+        "jumlah_ayat": "13",
+        "arti": "Wanita Yang Diuji"
+    },
+    {
+        "nomor_surah": "61",
+        "nama_latin": "As-Saff",
+        "nama_surah": " الصّفّ",
+        "jumlah_ayat": "14",
+        "arti": "Barisan"
+    },
+    {
+        "nomor_surah": "62",
+        "nama_latin": "Al-Jumu'ah",
+        "nama_surah": " الجمعة",
+        "jumlah_ayat": "11",
+        "arti": "Jumat"
+    },
+    {
+        "nomor_surah": "63",
+        "nama_latin": "Al-Munafiqun",
+        "nama_surah": " المنٰفقون",
+        "jumlah_ayat": "11",
+        "arti": "Orang-Orang Munafik"
+    },
+    {
+        "nomor_surah": "64",
+        "nama_latin": "At-Tagabun",
+        "nama_surah": " التغابن",
+        "jumlah_ayat": "18",
+        "arti": "Pengungkapan Kesalahan"
+    },
+    {
+        "nomor_surah": "65",
+        "nama_latin": "At-Talaq",
+        "nama_surah": " الطلاق",
+        "jumlah_ayat": "12",
+        "arti": "Talak"
+    },
+    {
+        "nomor_surah": "66",
+        "nama_latin": "At-Tahrim",
+        "nama_surah": " التحريم",
+        "jumlah_ayat": "12",
+        "arti": "Pengharaman"
+    },
+    {
+        "nomor_surah": "67",
+        "nama_latin": "Al-Mulk",
+        "nama_surah": " الملك",
+        "jumlah_ayat": "30",
+        "arti": "Kerajaan"
+    },
+    {
+        "nomor_surah": "68",
+        "nama_latin": "Al-Qalam",
+        "nama_surah": " القلم",
+        "jumlah_ayat": "52",
+        "arti": "Pena"
+    },
+    {
+        "nomor_surah": "69",
+        "nama_latin": "Al-Haqqah",
+        "nama_surah": " الحاۤقّة",
+        "jumlah_ayat": "52",
+        "arti": "Hari Kiamat"
+    },
+    {
+        "nomor_surah": "70",
+        "nama_latin": "Al-Ma'arij",
+        "nama_surah": " المعارج",
+        "jumlah_ayat": "44",
+        "arti": "Tempat Naik"
+    },
+    {
+        "nomor_surah": "71",
+        "nama_latin": "Nuh",
+        "nama_surah": " نوح",
+        "jumlah_ayat": "28",
+        "arti": "Nuh"
+    },
+    {
+        "nomor_surah": "72",
+        "nama_latin": "Al-Jinn",
+        "nama_surah": " الجن",
+        "jumlah_ayat": "28",
+        "arti": "Jin"
+    },
+    {
+        "nomor_surah": "73",
+        "nama_latin": "Al-Muzzammil",
+        "nama_surah": " المزّمّل",
+        "jumlah_ayat": "20",
+        "arti": "Orang Yang Berselimut"
+    },
+    {
+        "nomor_surah": "74",
+        "nama_latin": "Al-Muddassir",
+        "nama_surah": " المدّثّر",
+        "jumlah_ayat": "56",
+        "arti": "Orang Yang Berkemul"
+    },
+    {
+        "nomor_surah": "75",
+        "nama_latin": "Al-Qiyamah",
+        "nama_surah": " القيٰمة",
+        "jumlah_ayat": "40",
+        "arti": "Hari Kiamat"
+    },
+    {
+        "nomor_surah": "76",
+        "nama_latin": "Al-Insan",
+        "nama_surah": " الانسان",
+        "jumlah_ayat": "31",
+        "arti": "Manusia"
+    },
+    {
+        "nomor_surah": "77",
+        "nama_latin": "Al-Mursalat",
+        "nama_surah": " المرسلٰت",
+        "jumlah_ayat": "50",
+        "arti": "Malaikat Yang Diutus"
+    },
+    {
+        "nomor_surah": "78",
+        "nama_latin": "An-Naba'",
+        "nama_surah": " النبأ",
+        "jumlah_ayat": "40",
+        "arti": "Berita Besar"
+    },
+    {
+        "nomor_surah": "79",
+        "nama_latin": "An-Nazi'at",
+        "nama_surah": " النّٰزعٰت",
+        "jumlah_ayat": "46",
+        "arti": "Malaikat Yang Mencabut"
+    },
+    {
+        "nomor_surah": "80",
+        "nama_latin": "'Abasa",
+        "nama_surah": " عبس",
+        "jumlah_ayat": "42",
+        "arti": "Bermuka Masam"
+    },
+    {
+        "nomor_surah": "81",
+        "nama_latin": "At-Takwir",
+        "nama_surah": " التكوير",
+        "jumlah_ayat": "29",
+        "arti": "Penggulungan"
+    },
+    {
+        "nomor_surah": "82",
+        "nama_latin": "Al-Infitar",
+        "nama_surah": " الانفطار",
+        "jumlah_ayat": "19",
+        "arti": "Terbelah"
+    },
+    {
+        "nomor_surah": "83",
+        "nama_latin": "Al-Mutaffifin",
+        "nama_surah": " المطفّفين",
+        "jumlah_ayat": "36",
+        "arti": "Orang-Orang Curang"
+    },
+    {
+        "nomor_surah": "84",
+        "nama_latin": "Al-Insyiqaq",
+        "nama_surah": " الانشقاق",
+        "jumlah_ayat": "25",
+        "arti": "Terbelah"
+    },
+    {
+        "nomor_surah": "85",
+        "nama_latin": "Al-Buruj",
+        "nama_surah": " البروج",
+        "jumlah_ayat": "22",
+        "arti": "Gugusan Bintang"
+    },
+    {
+        "nomor_surah": "86",
+        "nama_latin": "At-Tariq",
+        "nama_surah": " الطارق",
+        "jumlah_ayat": "17",
+        "arti": "Yang Datang Di Malam Hari"
+    },
+    {
+        "nomor_surah": "87",
+        "nama_latin": "Al-A'la",
+        "nama_surah": " الاعلى",
+        "jumlah_ayat": "19",
+        "arti": "Maha Tinggi"
+    },
+    {
+        "nomor_surah": "88",
+        "nama_latin": "Al-Gasyiyah",
+        "nama_surah": " الغاشية",
+        "jumlah_ayat": "26",
+        "arti": "Hari Kiamat"
+    },
+    {
+        "nomor_surah": "89",
+        "nama_latin": "Al-Fajr",
+        "nama_surah": " الفجر",
+        "jumlah_ayat": "30",
+        "arti": "Fajar"
+    },
+    {
+        "nomor_surah": "90",
+        "nama_latin": "Al-Balad",
+        "nama_surah": " البلد",
+        "jumlah_ayat": "20",
+        "arti": "Negeri"
+    },
+    {
+        "nomor_surah": "91",
+        "nama_latin": "Asy-Syams",
+        "nama_surah": " الشمس",
+        "jumlah_ayat": "15",
+        "arti": "Matahari"
+    },
+    {
+        "nomor_surah": "92",
+        "nama_latin": "Al-Lail",
+        "nama_surah": " الّيل",
+        "jumlah_ayat": "21",
+        "arti": "Malam"
+    },
+    {
+        "nomor_surah": "93",
+        "nama_latin": "Ad-Duha",
+        "nama_surah": " الضحى",
+        "jumlah_ayat": "11",
+        "arti": "Duha"
+    },
+    {
+        "nomor_surah": "94",
+        "nama_latin": "Asy-Syarh",
+        "nama_surah": " الشرح",
+        "jumlah_ayat": "8",
+        "arti": "Lapang"
+    },
+    {
+        "nomor_surah": "95",
+        "nama_latin": "At-Tin",
+        "nama_surah": " التين",
+        "jumlah_ayat": "8",
+        "arti": "Buah Tin"
+    },
+    {
+        "nomor_surah": "96",
+        "nama_latin": "Al-'Alaq",
+        "nama_surah": " العلق",
+        "jumlah_ayat": "19",
+        "arti": "Segumpal Darah"
+    },
+    {
+        "nomor_surah": "97",
+        "nama_latin": "Al-Qadr",
+        "nama_surah": " القدر",
+        "jumlah_ayat": "5",
+        "arti": "Kemuliaan"
+    },
+    {
+        "nomor_surah": "98",
+        "nama_latin": "Al-Bayyinah",
+        "nama_surah": " البيّنة",
+        "jumlah_ayat": "8",
+        "arti": "Bukti Nyata"
+    },
+    {
+        "nomor_surah": "99",
+        "nama_latin": "Az-Zalzalah",
+        "nama_surah": " الزلزلة",
+        "jumlah_ayat": "8",
+        "arti": "Guncangan"
+    },
+    {
+        "nomor_surah": "100",
+        "nama_latin": "Al-'Adiyat",
+        "nama_surah": " العٰديٰت",
+        "jumlah_ayat": "11",
+        "arti": "Kuda Yang Berlari Kencang"
+    },
+    {
+        "nomor_surah": "101",
+        "nama_latin": "Al-Qari'ah",
+        "nama_surah": " القارعة",
+        "jumlah_ayat": "11",
+        "arti": "Hari Kiamat"
+    },
+    {
+        "nomor_surah": "102",
+        "nama_latin": "At-Takasur",
+        "nama_surah": " التكاثر",
+        "jumlah_ayat": "8",
+        "arti": "Bermegah-Megahan"
+    },
+    {
+        "nomor_surah": "103",
+        "nama_latin": "Al-'Asr",
+        "nama_surah": " العصر",
+        "jumlah_ayat": "3",
+        "arti": "Asar"
+    },
+    {
+        "nomor_surah": "104",
+        "nama_latin": "Al-Humazah",
+        "nama_surah": " الهمزة",
+        "jumlah_ayat": "9",
+        "arti": "Pengumpat"
+    },
+    {
+        "nomor_surah": "105",
+        "nama_latin": "Al-Fil",
+        "nama_surah": " الفيل",
+        "jumlah_ayat": "5",
+        "arti": "Gajah"
+    },
+    {
+        "nomor_surah": "106",
+        "nama_latin": "Quraisy",
+        "nama_surah": " قريش",
+        "jumlah_ayat": "4",
+        "arti": "Quraisy"
+    },
+    {
+        "nomor_surah": "107",
+        "nama_latin": "Al-Ma'un",
+        "nama_surah": " الماعون",
+        "jumlah_ayat": 7,
+        "arti": "Barang Yang Berguna"
+    },
+    {
+        "nomor_surah": "108",
+        "nama_latin": "Al-Kausar",
+        "nama_surah": " الكوثر",
+        "jumlah_ayat": "3",
+        "arti": "Pemberian Yang Banyak"
+    },
+    {
+        "nomor_surah": "109",
+        "nama_latin": "Al-Kafirun",
+        "nama_surah": " الكٰفرون",
+        "jumlah_ayat": "6",
+        "arti": "Orang-Orang kafir"
+    },
+    {
+        "nomor_surah": "110",
+        "nama_latin": "An-Nasr",
+        "nama_surah": " النصر",
+        "jumlah_ayat": "3",
+        "arti": "Pertolongan"
+    },
+    {
+        "nomor_surah": "111",
+        "nama_latin": "Al-Lahab",
+        "nama_surah": " اللهب",
+        "jumlah_ayat": "5",
+        "arti": "Api Yang Bergejolak"
+    },
+    {
+        "nomor_surah": "112",
+        "nama_latin": "Al-Ikhlas",
+        "nama_surah": " الاخلاص",
+        "jumlah_ayat": "4",
+        "arti": "Ikhlas"
+    },
+    {
+        "nomor_surah": "113",
+        "nama_latin": "Al-Falaq",
+        "nama_surah": " الفلق",
+        "jumlah_ayat": "5",
+        "arti": "Subuh"
+    },
+    {
+        "nomor_surah": "114",
+        "nama_latin": "An-Nas",
+        "nama_surah": " الناس",
+        "jumlah_ayat": "6",
+        "arti": "Manusia"
+    }
+]

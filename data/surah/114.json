@@ -1,0 +1,41 @@
+{
+    "114": {
+        "nomor_surah": "114",
+        "nama_surah": "الناس",
+        "nama_latin": "An-Nas",
+        "jumlah_ayat": "6",
+        "arti": "Manusia",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+                "terjemahan": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "مَلِكِ النَّاسِۙ",
+                "terjemahan": "Raja manusia,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "اِلٰهِ النَّاسِۙ",
+                "terjemahan": "sembahan manusia,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+                "terjemahan": "dari kejahatan (bisikan) setan yang bersembunyi,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+                "terjemahan": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+                "terjemahan": "dari (golongan) jin dan manusia.”"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "107": {
+        "nomor_surah": "107",
+        "nama_surah": "الماعون",
+        "nama_latin": "Al-Ma'un",
+        "jumlah_ayat": "7",
+        "arti": "Barang Yang Berguna",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+                "terjemahan": "Tahukah kamu (orang) yang mendustakan agama?"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+                "terjemahan": "Maka itulah orang yang menghardik anak yatim,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+                "terjemahan": "dan tidak mendorong memberi makan orang miskin."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+                "terjemahan": "Maka celakalah orang yang salat,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+                "terjemahan": "(yaitu) orang-orang yang lalai terhadap salatnya,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+                "terjemahan": "yang berbuat ria,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+                "terjemahan": "dan enggan (memberikan) bantuan."
+            }
+        ]
+    }
+}

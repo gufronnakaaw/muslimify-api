@@ -1,0 +1,26 @@
+{
+    "103": {
+        "nomor_surah": "103",
+        "nama_surah": "العصر",
+        "nama_latin": "Al-'Asr",
+        "jumlah_ayat": "3",
+        "arti": "Asar",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "وَالْعَصْرِۙ",
+                "terjemahan": "Demi masa,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+                "terjemahan": "sungguh, manusia berada dalam kerugian,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+                "terjemahan": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+            }
+        ]
+    }
+}

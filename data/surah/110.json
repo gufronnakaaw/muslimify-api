@@ -1,0 +1,26 @@
+{
+    "110": {
+        "nomor_surah": "110",
+        "nama_surah": "النصر",
+        "nama_latin": "An-Nasr",
+        "jumlah_ayat": "3",
+        "arti": "Pertolongan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+                "terjemahan": "Apabila telah datang pertolongan Allah dan kemenangan,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+                "terjemahan": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+                "terjemahan": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+            }
+        ]
+    }
+}

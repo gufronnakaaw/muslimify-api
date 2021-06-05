@@ -1,0 +1,291 @@
+{
+    "74": {
+        "nomor_surah": "74",
+        "nama_surah": "المدّثّر",
+        "nama_latin": "Al-Muddassir",
+        "jumlah_ayat": "56",
+        "arti": "Orang Yang Berkemul",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "يٰٓاَيُّهَا الْمُدَّثِّرُۙ",
+                "terjemahan": "Wahai orang yang berkemul (berselimut)!"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "قُمْ فَاَنْذِرْۖ",
+                "terjemahan": "bangunlah, lalu berilah peringatan!"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَرَبَّكَ فَكَبِّرْۖ",
+                "terjemahan": "dan agungkanlah Tuhanmu,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَثِيَابَكَ فَطَهِّرْۖ",
+                "terjemahan": "dan bersihkanlah pakaianmu,"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَالرُّجْزَ فَاهْجُرْۖ ",
+                "terjemahan": "dan tinggalkanlah segala (perbuatan) yang keji,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "وَلَا تَمْنُنْ تَسْتَكْثِرُۖ ",
+                "terjemahan": "dan janganlah engkau (Muhammad) memberi (dengan maksud) memperoleh (balasan) yang lebih banyak."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "وَلِرَبِّكَ فَاصْبِرْۗ ",
+                "terjemahan": "Dan karena Tuhanmu, bersabarlah."
+            },
+            {
+                "ayat_ke": 8,
+                "text": "فَاِذَا نُقِرَ فِى النَّاقُوْرِۙ ",
+                "terjemahan": "Maka apabila sangkakala ditiup,"
+            },
+            {
+                "ayat_ke": 9,
+                "text": "فَذٰلِكَ يَوْمَىِٕذٍ يَّوْمٌ عَسِيْرٌۙ ",
+                "terjemahan": "maka itulah hari yang serba sulit,"
+            },
+            {
+                "ayat_ke": 10,
+                "text": "عَلَى الْكٰفِرِيْنَ غَيْرُ يَسِيْرٍ ",
+                "terjemahan": "bagi orang-orang kafir tidak mudah."
+            },
+            {
+                "ayat_ke": 11,
+                "text": "ذَرْنِيْ وَمَنْ خَلَقْتُ وَحِيْدًاۙ ",
+                "terjemahan": "Biarkanlah Aku (yang bertindak) terhadap orang yang Aku sendiri telah menciptakannya,"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "وَّجَعَلْتُ لَهٗ مَالًا مَّمْدُوْدًاۙ ",
+                "terjemahan": "dan Aku beri kekayaan yang melimpah,"
+            },
+            {
+                "ayat_ke": 13,
+                "text": "وَّبَنِيْنَ شُهُوْدًاۙ ",
+                "terjemahan": "dan anak-anak yang selalu bersamanya,"
+            },
+            {
+                "ayat_ke": 14,
+                "text": "وَّمَهَّدْتُّ لَهٗ تَمْهِيْدًاۙ ",
+                "terjemahan": "dan Aku beri kelapangan (hidup) seluas-luasnya."
+            },
+            {
+                "ayat_ke": 15,
+                "text": "ثُمَّ يَطْمَعُ اَنْ اَزِيْدَۙ    ",
+                "terjemahan": "Kemudian dia ingin sekali agar Aku menambahnya."
+            },
+            {
+                "ayat_ke": 16,
+                "text": "كَلَّاۗ اِنَّهٗ كَانَ لِاٰيٰتِنَا عَنِيْدًاۗ ",
+                "terjemahan": "Tidak bisa! Sesungguhnya dia telah menentang ayat-ayat Kami (Al-Qur'an)."
+            },
+            {
+                "ayat_ke": 17,
+                "text": "سَاُرْهِقُهٗ صَعُوْدًاۗ ",
+                "terjemahan": "Aku akan membebaninya dengan pendakian yang memayahkan."
+            },
+            {
+                "ayat_ke": 18,
+                "text": "اِنَّهٗ فَكَّرَ وَقَدَّرَۙ ",
+                "terjemahan": "Sesungguhnya dia telah memikirkan dan menetapkan (apa yang ditetapkannya),"
+            },
+            {
+                "ayat_ke": 19,
+                "text": "فَقُتِلَ كَيْفَ قَدَّرَۙ ",
+                "terjemahan": "maka celakalah dia! Bagaimana dia menetapkan?"
+            },
+            {
+                "ayat_ke": 20,
+                "text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَۙ ",
+                "terjemahan": "Sekali lagi, celakalah dia! Bagaimana dia menetapkan?"
+            },
+            {
+                "ayat_ke": 21,
+                "text": "ثُمَّ نَظَرَۙ ",
+                "terjemahan": "Kemudian dia (merenung) memikirkan,"
+            },
+            {
+                "ayat_ke": 22,
+                "text": "ثُمَّ عَبَسَ وَبَسَرَۙ ",
+                "terjemahan": "lalu berwajah masam dan cemberut,"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "ثُمَّ اَدْبَرَ وَاسْتَكْبَرَۙ ",
+                "terjemahan": "kemudian berpaling (dari kebenaran) dan menyombongkan diri,"
+            },
+            {
+                "ayat_ke": 24,
+                "text": "فَقَالَ اِنْ هٰذَآ اِلَّا سِحْرٌ يُّؤْثَرُۙ ",
+                "terjemahan": "lalu dia berkata, “(Al-Qur'an) ini hanyalah sihir yang dipelajari (dari orang-orang dahulu)."
+            },
+            {
+                "ayat_ke": 25,
+                "text": "اِنْ هٰذَآ اِلَّا قَوْلُ الْبَشَرِۗ ",
+                "terjemahan": "Ini hanyalah perkataan manusia.”"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "سَاُصْلِيْهِ سَقَرَ",
+                "terjemahan": "Kelak, Aku akan memasukkannya ke dalam (neraka) Saqar,"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "وَمَآ اَدْرٰىكَ مَا سَقَرُۗ ",
+                "terjemahan": "dan tahukah kamu apa (neraka) Saqar itu?"
+            },
+            {
+                "ayat_ke": 28,
+                "text": "لَا تُبْقِيْ وَلَا تَذَرُۚ ",
+                "terjemahan": "Ia (Saqar itu) tidak meninggalkan dan tidak membiarkan,"
+            },
+            {
+                "ayat_ke": 29,
+                "text": "لَوَّاحَةٌ لِّلْبَشَرِۚ ",
+                "terjemahan": "yang menghanguskan kulit manusia."
+            },
+            {
+                "ayat_ke": 30,
+                "text": "عَلَيْهَا تِسْعَةَ عَشَرَۗ ",
+                "terjemahan": "Di atasnya ada sembilan belas (malaikat penjaga)."
+            },
+            {
+                "ayat_ke": 31,
+                "text": "وَمَا جَعَلْنَآ اَصْحٰبَ النَّارِ اِلَّا مَلٰۤىِٕكَةً ۖوَّمَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةً لِّلَّذِيْنَ كَفَرُوْاۙ لِيَسْتَيْقِنَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَيَزْدَادَ الَّذِيْنَ اٰمَنُوْٓا اِيْمَانًا وَّلَا يَرْتَابَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ وَالْمُؤْمِنُوْنَۙ وَلِيَقُوْلَ الَّذِيْنَ فِيْ قُلُوْبِهِمْ مَّرَضٌ وَّالْكٰفِرُوْنَ مَاذَآ اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۗ  كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ يَّشَاۤءُ وَيَهْدِيْ مَنْ يَّشَاۤءُۗ وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُوَۗ وَمَا هِيَ اِلَّا ذِكْرٰى لِلْبَشَرِ ࣖ",
+                "terjemahan": "Dan yang Kami jadikan penjaga neraka itu hanya dari malaikat; dan Kami menentukan bilangan mereka itu hanya sebagai cobaan bagi orang-orang kafir, agar orang-orang yang diberi kitab menjadi yakin, agar orang yang beriman bertambah imannya, agar orang-orang yang diberi kitab dan orang-orang mukmin itu tidak ragu-ragu; dan agar orang-orang yang di dalam hatinya ada penyakit dan orang-orang kafir (berkata), “Apakah yang dikehendaki Allah dengan (bilangan) ini sebagai suatu perumpamaan?” Demikianlah Allah membiarkan sesat orang-orang yang Dia kehendaki dan memberi petunjuk kepada orang-orang yang Dia kehendaki. Dan tidak ada yang mengetahui bala tentara Tuhanmu kecuali Dia sendiri. Dan Saqar itu tidak lain hanyalah peringatan bagi manusia."
+            },
+            {
+                "ayat_ke": 32,
+                "text": "كَلَّا وَالْقَمَرِۙ",
+                "terjemahan": "Tidak! Demi bulan,"
+            },
+            {
+                "ayat_ke": 33,
+                "text": "وَالَّيْلِ اِذْ اَدْبَرَۙ",
+                "terjemahan": "dan demi malam ketika telah berlalu,"
+            },
+            {
+                "ayat_ke": 34,
+                "text": "وَالصُّبْحِ اِذَآ اَسْفَرَۙ",
+                "terjemahan": "dan demi subuh apabila mulai terang, "
+            },
+            {
+                "ayat_ke": 35,
+                "text": "اِنَّهَا لَاِحْدَى الْكُبَرِۙ",
+                "terjemahan": "sesunggunya (Saqar itu) adalah salah satu (bencana) yang sangat besar,"
+            },
+            {
+                "ayat_ke": 36,
+                "text": "نَذِيْرًا لِّلْبَشَرِۙ",
+                "terjemahan": "sebagai peringatan bagi manusia, "
+            },
+            {
+                "ayat_ke": 37,
+                "text": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَۗ",
+                "terjemahan": "(yaitu) bagi siapa di antara kamu yang ingin maju atau mundur."
+            },
+            {
+                "ayat_ke": 38,
+                "text": "كُلُّ نَفْسٍۢ بِمَا كَسَبَتْ رَهِيْنَةٌۙ",
+                "terjemahan": "Setiap orang bertanggung jawab atas apa yang telah dilakukannya,"
+            },
+            {
+                "ayat_ke": 39,
+                "text": "اِلَّآ اَصْحٰبَ الْيَمِيْنِ ۛ ",
+                "terjemahan": "kecuali golongan kanan,"
+            },
+            {
+                "ayat_ke": 40,
+                "text": "فِيْ جَنّٰتٍ ۛ يَتَسَاۤءَلُوْنَۙ",
+                "terjemahan": "berada di dalam surga, mereka saling menanyakan,"
+            },
+            {
+                "ayat_ke": 41,
+                "text": "عَنِ الْمُجْرِمِيْنَۙ",
+                "terjemahan": "tentang (keadaan) orang-orang yang berdosa, "
+            },
+            {
+                "ayat_ke": 42,
+                "text": "مَا سَلَكَكُمْ فِيْ سَقَرَ ",
+                "terjemahan": "”Apa yang menyebabkan kamu masuk ke dalam (neraka) Saqar?”"
+            },
+            {
+                "ayat_ke": 43,
+                "text": "قَالُوْا لَمْ نَكُ مِنَ الْمُصَلِّيْنَۙ",
+                "terjemahan": "Mereka menjawab, “Dahulu kami tidak termasuk orang-orang yang melaksanakan salat, "
+            },
+            {
+                "ayat_ke": 44,
+                "text": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِيْنَۙ",
+                "terjemahan": "dan kami (juga) tidak memberi makan orang miskin, "
+            },
+            {
+                "ayat_ke": 45,
+                "text": "وَكُنَّا نَخُوْضُ مَعَ الْخَاۤىِٕضِيْنَۙ",
+                "terjemahan": "bahkan kami biasa berbincang (untuk tujuan yang batil), bersama orang-orang yang membicarakannya, "
+            },
+            {
+                "ayat_ke": 46,
+                "text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّيْنِۙ",
+                "terjemahan": "dan kami mendustakan hari pembalasan, "
+            },
+            {
+                "ayat_ke": 47,
+                "text": "حَتّٰىٓ اَتٰىنَا الْيَقِيْنُۗ",
+                "terjemahan": "sampai datang kepada kami kematian.” "
+            },
+            {
+                "ayat_ke": 48,
+                "text": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِيْنَۗ",
+                "terjemahan": "Maka tidak berguna lagi bagi mereka syafaat (pertolongan) dari orang-orang yang memberikan syafaat. "
+            },
+            {
+                "ayat_ke": 49,
+                "text": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَۙ",
+                "terjemahan": "Lalu mengapa mereka (orang-orang kafir) berpaling dari peringatan (Allah)?"
+            },
+            {
+                "ayat_ke": 50,
+                "text": "كَاَنَّهُمْ حُمُرٌ مُّسْتَنْفِرَةٌۙ",
+                "terjemahan": "seakan-akan mereka keledai liar yang lari terkejut,"
+            },
+            {
+                "ayat_ke": 51,
+                "text": "فَرَّتْ مِنْ قَسْوَرَةٍۗ",
+                "terjemahan": "lari dari singa. "
+            },
+            {
+                "ayat_ke": 52,
+                "text": "بَلْ يُرِيْدُ كُلُّ امْرِئٍ مِّنْهُمْ اَنْ يُّؤْتٰى صُحُفًا مُّنَشَّرَةًۙ",
+                "terjemahan": "Bahkan setiap orang dari mereka ingin agar diberikan kepadanya lembaran-lembaran (kitab) yang terbuka. "
+            },
+            {
+                "ayat_ke": 53,
+                "text": "كَلَّاۗ بَلْ لَّا يَخَافُوْنَ الْاٰخِرَةَۗ",
+                "terjemahan": "Tidak! Sebenarnya mereka tidak takut kepada akhirat."
+            },
+            {
+                "ayat_ke": 54,
+                "text": "كَلَّآ اِنَّهٗ تَذْكِرَةٌ ۚ",
+                "terjemahan": "Tidak! Sesungguhnya (Al-Qur'an) itu benar-benar suatu peringatan. "
+            },
+            {
+                "ayat_ke": 55,
+                "text": "فَمَنْ شَاۤءَ ذَكَرَهٗۗ",
+                "terjemahan": "Maka barangsiapa menghendaki, tentu dia mengambil pelajaran darinya. "
+            },
+            {
+                "ayat_ke": 56,
+                "text": "وَمَا يَذْكُرُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ ۗهُوَ اَهْلُ التَّقْوٰى وَاَهْلُ الْمَغْفِرَةِ ࣖ",
+                "terjemahan": "Dan mereka tidak akan mengambil pelajaran darinya (Al-Qur'an) kecuali (jika) Allah menghendakinya. Dialah Tuhan yang patut (kita) bertakwa kepada-Nya dan yang berhak memberi ampunan. "
+            }
+        ]
+    }
+}

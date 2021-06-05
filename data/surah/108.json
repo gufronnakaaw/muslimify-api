@@ -1,0 +1,26 @@
+{
+    "108": {
+        "nomor_surah": "108",
+        "nama_surah": "الكوثر",
+        "nama_latin": "Al-Kausar",
+        "jumlah_ayat": "3",
+        "arti": "Pemberian Yang Banyak",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+                "terjemahan": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+            },
+            {
+                "ayat_ke": 2,
+                "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+                "terjemahan": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+                "terjemahan": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+            }
+        ]
+    }
+}

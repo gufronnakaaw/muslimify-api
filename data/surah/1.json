@@ -1,0 +1,46 @@
+{
+    "1": {
+        "nomor_surah": "1",
+        "nama_surah": "الفاتحة",
+        "nama_latin": "Al-Fatihah",
+        "jumlah_ayat": "7",
+        "arti": "Pembukaan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+                "terjemahan": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 2,
+                "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+                "terjemahan": "Segala puji bagi Allah, Tuhan seluruh alam,"
+            },
+            {
+                "ayat_ke": 3,
+                "text": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+                "terjemahan": "Yang Maha Pengasih, Maha Penyayang,"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+                "terjemahan": "Pemilik hari pembalasan."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+                "terjemahan": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ",
+                "terjemahan": "Tunjukilah kami jalan yang lurus,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+                "terjemahan": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+            }
+        ]
+    }
+}

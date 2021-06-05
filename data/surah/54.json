@@ -1,0 +1,286 @@
+{
+    "54": {
+        "nomor_surah": "54",
+        "nama_surah": "القمر",
+        "nama_latin": "Al-Qamar",
+        "jumlah_ayat": "55",
+        "arti": "Bulan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ",
+                "terjemahan": " Saat (hari Kiamat) semakin dekat, bulan pun terbelah. "
+            },
+            {
+                "ayat_ke": 2,
+                "text": "وَاِنْ يَّرَوْا اٰيَةً يُّعْرِضُوْا وَيَقُوْلُوْا سِحْرٌ مُّسْتَمِرٌّ",
+                "terjemahan": "Dan jika mereka (orang-orang musyrikin) melihat suatu tanda (mukjizat), mereka berpaling dan berkata, “(Ini adalah) sihir yang terus menerus.” "
+            },
+            {
+                "ayat_ke": 3,
+                "text": "وَكَذَّبُوْا وَاتَّبَعُوْٓا اَهْوَاۤءَهُمْ وَكُلُّ اَمْرٍ مُّسْتَقِرٌّ",
+                "terjemahan": "Dan mereka mendustakan (Muhammad) dan mengikuti keinginannya, padahal setiap urusan telah ada ketetapannya."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَلَقَدْ جَاۤءَهُمْ مِّنَ الْاَنْبَاۤءِ مَا فِيْهِ مُزْدَجَرٌۙ  ",
+                "terjemahan": "Dan sungguh, telah datang kepada mereka beberapa kisah yang di dalamnya terdapat ancaman (terhadap kekafiran),"
+            },
+            {
+                "ayat_ke": 5,
+                "text": "حِكْمَةٌ ۢ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُۙ  ",
+                "terjemahan": "(itulah) suatu hikmah yang sempurna, tetapi peringatan-peringatan itu tidak berguna (bagi mereka),"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ اِلٰى شَيْءٍ نُّكُرٍۙ  ",
+                "terjemahan": "maka berpalinglah engkau (Muhammad) dari mereka pada hari (ketika) penyeru (malaikat) mengajak (mereka) kepada sesuatu yang tidak menyenangkan (hari pembalasan), "
+            },
+            {
+                "ayat_ke": 7,
+                "text": "خُشَّعًا اَبْصَارُهُمْ يَخْرُجُوْنَ مِنَ الْاَجْدَاثِ كَاَنَّهُمْ جَرَادٌ مُّنْتَشِرٌۙ  ",
+                "terjemahan": "pandangan mereka tertunduk, ketika mereka keluar dari kuburan, seakan-akan mereka belalang yang beterbangan,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "مُّهْطِعِيْنَ اِلَى الدَّاعِۗ يَقُوْلُ الْكٰفِرُوْنَ هٰذَا يَوْمٌ عَسِرٌ ",
+                "terjemahan": "dengan patuh mereka segera datang kepada penyeru itu. Orang-orang kafir berkata, “Ini adalah hari yang sulit.” "
+            },
+            {
+                "ayat_ke": 9,
+                "text": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوْحٍ فَكَذَّبُوْا عَبْدَنَا وَقَالُوْا مَجْنُوْنٌ وَّازْدُجِرَ",
+                "terjemahan": "Sebelum mereka, kaum Nuh juga telah mendustakan (rasul), maka mereka mendustakan hamba Kami (Nuh) dan mengatakan, “Dia orang gila!” Lalu diusirnya dengan ancaman. "
+            },
+            {
+                "ayat_ke": 10,
+                "text": "فَدَعَا رَبَّهٗٓ اَنِّيْ مَغْلُوْبٌ فَانْتَصِرْ",
+                "terjemahan": "Maka dia (Nuh) mengadu kepada Tuhannya, “Sesungguhnya aku telah dikalahkan, maka tolonglah (aku).”"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "فَفَتَحْنَآ اَبْوَابَ السَّمَاۤءِ بِمَاۤءٍ مُّنْهَمِرٍۖ  ",
+                "terjemahan": "Lalu Kami bukakan pintu-pintu langit dengan (menurunkan) air yang tercurah,"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "وَّفَجَّرْنَا الْاَرْضَ عُيُوْنًا فَالْتَقَى الْمَاۤءُ عَلٰٓى اَمْرٍ قَدْ قُدِرَ ۚ",
+                "terjemahan": "dan Kami jadikan bumi menyemburkan mata-mata air maka bertemulah (air-air) itu sehingga (meluap menimbulkan) keadaan (bencana) yang telah ditetapkan. "
+            },
+            {
+                "ayat_ke": 13,
+                "text": "وَحَمَلْنٰهُ عَلٰى ذَاتِ اَلْوَاحٍ وَّدُسُرٍۙ  ",
+                "terjemahan": "Dan Kami angkut dia (Nuh) ke atas (kapal) yang terbuat dari papan dan pasak, "
+            },
+            {
+                "ayat_ke": 14,
+                "text": "تَجْرِيْ بِاَعْيُنِنَاۚ جَزَاۤءً لِّمَنْ كَانَ كُفِرَ ",
+                "terjemahan": "yang berlayar dengan pemeliharaan (pengawasan) Kami sebagai balasan bagi orang yang telah diingkari (kaumnya)."
+            },
+            {
+                "ayat_ke": 15,
+                "text": "وَلَقَدْ تَّرَكْنٰهَآ اٰيَةً فَهَلْ مِنْ مُّدَّكِرٍ",
+                "terjemahan": "Dan sungguh, kapal itu telah Kami jadikan sebagai tanda (pelajaran). Maka adakah orang yang mau mengambil pelajaran?"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+                "terjemahan": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+            },
+            {
+                "ayat_ke": 17,
+                "text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ",
+                "terjemahan": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+            },
+            {
+                "ayat_ke": 18,
+                "text": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+                "terjemahan": "Kaum ‘Ad pun telah mendustakan. Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+            },
+            {
+                "ayat_ke": 19,
+                "text": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْ يَوْمِ نَحْسٍ مُّسْتَمِرٍّۙ  ",
+                "terjemahan": "Sesungguhnya Kami telah menghembuskan angin yang sangat kencang kepada mereka pada hari nahas yang terus menerus, "
+            },
+            {
+                "ayat_ke": 20,
+                "text": "تَنْزِعُ النَّاسَۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ مُّنْقَعِرٍ ",
+                "terjemahan": "yang membuat manusia bergelimpangan, mereka bagaikan pohon-pohon kurma yang tumbang dengan akar-akarnya. "
+            },
+            {
+                "ayat_ke": 21,
+                "text": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ",
+                "terjemahan": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku! "
+            },
+            {
+                "ayat_ke": 22,
+                "text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ࣖ ",
+                "terjemahan": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "كَذَّبَتْ ثَمُوْدُ بِالنُّذُرِ",
+                "terjemahan": "Kaum Samud pun telah mendustakan peringatan itu."
+            },
+            {
+                "ayat_ke": 24,
+                "text": "فَقَالُوْٓا اَبَشَرًا مِّنَّا وَاحِدًا نَّتَّبِعُهٗٓ  ۙاِنَّآ اِذًا لَّفِيْ ضَلٰلٍ وَّسُعُرٍ",
+                "terjemahan": "Maka mereka berkata, “Bagaimana kita akan mengikuti seorang manusia (biasa) di antara kita? Sungguh, kalau begitu kita benar-benar telah sesat dan gila. "
+            },
+            {
+                "ayat_ke": 25,
+                "text": "ءَاُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ اَشِرٌ ",
+                "terjemahan": "Apakah wahyu itu diturunkan kepadanya di antara kita? Pastilah dia (Saleh) seorang yang sangat pendusta (dan) sombong.” "
+            },
+            {
+                "ayat_ke": 26,
+                "text": "سَيَعْلَمُوْنَ غَدًا مَّنِ الْكَذَّابُ الْاَشِرُ ",
+                "terjemahan": "Kelak mereka akan mengetahui siapa yang sebenarnya sangat pendusta (dan) sombong itu."
+            },
+            {
+                "ayat_ke": 27,
+                "text": "اِنَّا مُرْسِلُوا النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْۖ  ",
+                "terjemahan": "Sesungguhnya Kami akan mengirimkan unta betina sebagai cobaan bagi mereka, maka tunggulah mereka dan bersabarlah (Saleh)."
+            },
+            {
+                "ayat_ke": 28,
+                "text": "وَنَبِّئْهُمْ اَنَّ الْمَاۤءَ قِسْمَةٌ ۢ بَيْنَهُمْۚ  كُلُّ شِرْبٍ مُّحْتَضَرٌ ",
+                "terjemahan": "Dan beritahukanlah kepada mereka bahwa air itu dibagi di antara mereka (dengan unta betina itu); setiap orang berhak mendapat giliran minum."
+            },
+            {
+                "ayat_ke": 29,
+                "text": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطٰى فَعَقَرَ ",
+                "terjemahan": "Maka mereka memanggil kawannya, lalu dia menangkap (unta itu) dan memotongnya. "
+            },
+            {
+                "ayat_ke": 30,
+                "text": "فَكَيْفَ كَانَ عَذَابِيْ وَنُذُرِ ",
+                "terjemahan": "Maka betapa dahsyatnya azab-Ku dan peringatan-Ku!"
+            },
+            {
+                "ayat_ke": 31,
+                "text": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَّاحِدَةً فَكَانُوْا كَهَشِيْمِ الْمُحْتَظِرِ",
+                "terjemahan": "Kami kirimkan atas mereka satu suara yang keras mengguntur, maka jadilah mereka seperti batang-batang kering yang lapuk. "
+            },
+            {
+                "ayat_ke": 32,
+                "text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ",
+                "terjemahan": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran?"
+            },
+            {
+                "ayat_ke": 33,
+                "text": "كَذَّبَتْ قَوْمُ لُوْطٍ ۢبِالنُّذُرِ ",
+                "terjemahan": "Kaum Lut pun telah mendustakan peringatan itu. "
+            },
+            {
+                "ayat_ke": 34,
+                "text": "اِنَّآ اَرْسَلْنَا عَلَيْهِمْ حَاصِبًا اِلَّآ اٰلَ لُوْطٍ ۗنَجَّيْنٰهُمْ بِسَحَرٍۙ",
+                "terjemahan": "Sesungguhnya Kami kirimkan kepada mereka badai yang membawa batu-batu (yang menimpa mereka), kecuali keluarga Lut. Kami selamatkan mereka sebelum fajar menyingsing,"
+            },
+            {
+                "ayat_ke": 35,
+                "text": "نِّعْمَةً مِّنْ عِنْدِنَاۗ  كَذٰلِكَ نَجْزِيْ مَنْ شَكَرَ ",
+                "terjemahan": "sebagai nikmat dari Kami. Demikianlah Kami memberi balasan kepada orang-orang yang bersyukur. "
+            },
+            {
+                "ayat_ke": 36,
+                "text": "وَلَقَدْ اَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ ",
+                "terjemahan": "Dan sungguh, dia (Lut) telah memperingatkan mereka akan hukuman Kami, tetapi mereka mendustakan peringatan-Ku. "
+            },
+            {
+                "ayat_ke": 37,
+                "text": "وَلَقَدْ رَاوَدُوْهُ عَنْ ضَيْفِهٖ فَطَمَسْنَآ اَعْيُنَهُمْ فَذُوْقُوْا عَذَابِيْ وَنُذُرِ ",
+                "terjemahan": "Dan sungguh, mereka telah membujuknya (agar menyerahkan) tamunya (kepada mereka), lalu Kami butakan mata mereka, maka rasakanlah azab-Ku dan peringatan-Ku!"
+            },
+            {
+                "ayat_ke": 38,
+                "text": "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُّسْتَقِرٌّۚ  ",
+                "terjemahan": "Dan sungguh, pada esok harinya mereka benar-benar ditimpa azab yang tetap."
+            },
+            {
+                "ayat_ke": 39,
+                "text": "فَذُوْقُوْا عَذَابِيْ وَنُذُرِ ",
+                "terjemahan": "Maka rasakanlah azab-Ku dan peringatan-Ku!"
+            },
+            {
+                "ayat_ke": 40,
+                "text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُّدَّكِرٍ ࣖ",
+                "terjemahan": "Dan sungguh, telah Kami mudahkan Al-Qur'an untuk peringatan, maka adakah orang yang mau mengambil pelajaran? "
+            },
+            {
+                "ayat_ke": 41,
+                "text": "وَلَقَدْ جَاۤءَ اٰلَ فِرْعَوْنَ النُّذُرُۚ  ",
+                "terjemahan": "Dan sungguh, peringatan telah datang kepada keluarga Fir‘aun. "
+            },
+            {
+                "ayat_ke": 42,
+                "text": "كَذَّبُوْا بِاٰيٰتِنَا كُلِّهَا فَاَخَذْنٰهُمْ اَخْذَ عَزِيْزٍ مُّقْتَدِرٍ ",
+                "terjemahan": "Mereka mendustakan mukjizat-mukjizat Kami semuanya, maka Kami azab mereka dengan azab dari Yang Mahaperkasa, Mahakuasa."
+            },
+            {
+                "ayat_ke": 43,
+                "text": "اَكُفَّارُكُمْ خَيْرٌ مِّنْ اُولٰۤىِٕكُمْ اَمْ لَكُمْ بَرَاۤءَةٌ فِى الزُّبُرِۚ",
+                "terjemahan": "Apakah orang-orang kafir di lingkunganmu (kaum musyrikin) lebih baik dari mereka, ataukah kamu telah mempunyai jaminan kebebasan (dari azab) dalam kitab-kitab terdahulu? "
+            },
+            {
+                "ayat_ke": 44,
+                "text": "اَمْ يَقُوْلُوْنَ نَحْنُ جَمِيْعٌ مُّنْتَصِرٌ ",
+                "terjemahan": "Atau mereka mengatakan, “Kami ini golongan yang bersatu yang pasti menang.” "
+            },
+            {
+                "ayat_ke": 45,
+                "text": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّوْنَ الدُّبُرَ",
+                "terjemahan": "Golongan itu pasti akan dikalahkan dan mereka akan mundur ke belakang. "
+            },
+            {
+                "ayat_ke": 46,
+                "text": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ اَدْهٰى وَاَمَرُّ ",
+                "terjemahan": "Bahkan hari Kiamat itulah hari yang dijanjikan kepada mereka dan hari Kiamat itu lebih dahsyat dan lebih pahit. "
+            },
+            {
+                "ayat_ke": 47,
+                "text": "اِنَّ الْمُجْرِمِيْنَ فِيْ ضَلٰلٍ وَّسُعُرٍۘ ",
+                "terjemahan": "Sungguh, orang-orang yang berdosa berada dalam kesesatan (di dunia) dan akan berada dalam neraka (di akhirat). "
+            },
+            {
+                "ayat_ke": 48,
+                "text": "يَوْمَ يُسْحَبُوْنَ فِى النَّارِ عَلٰى وُجُوْهِهِمْۗ ذُوْقُوْا مَسَّ سَقَرَ",
+                "terjemahan": "Pada hari mereka diseret ke neraka pada wajahnya. (Dikatakan kepada mereka), “Rasakanlah sentuhan api neraka.”"
+            },
+            {
+                "ayat_ke": 49,
+                "text": "اِنَّا كُلَّ شَيْءٍ خَلَقْنٰهُ بِقَدَرٍ ",
+                "terjemahan": "Sungguh, Kami menciptakan segala sesuatu menurut ukuran. "
+            },
+            {
+                "ayat_ke": 50,
+                "text": "وَمَآ اَمْرُنَآ اِلَّا وَاحِدَةٌ كَلَمْحٍ ۢبِالْبَصَرِ ",
+                "terjemahan": "Dan perintah Kami hanyalah (dengan) satu perkataan seperti kejapan mata. "
+            },
+            {
+                "ayat_ke": 51,
+                "text": "وَلَقَدْ اَهْلَكْنَآ اَشْيَاعَكُمْ فَهَلْ مِنْ مُّدَّكِرٍ ",
+                "terjemahan": "Dan sungguh, telah Kami binasakan orang yang serupa dengan kamu (kekafirannya). Maka adakah orang yang mau mengambil pelajaran?"
+            },
+            {
+                "ayat_ke": 52,
+                "text": "وَكُلُّ شَيْءٍ فَعَلُوْهُ فِى الزُّبُرِ ",
+                "terjemahan": "Dan segala sesuatu yang telah mereka perbuat tercatat dalam buku-buku catatan."
+            },
+            {
+                "ayat_ke": 53,
+                "text": "وَكُلُّ صَغِيْرٍ وَّكَبِيْرٍ مُّسْتَطَرٌ ",
+                "terjemahan": "Dan segala (sesuatu) yang kecil maupun yang besar (semuanya) tertulis. "
+            },
+            {
+                "ayat_ke": 54,
+                "text": "اِنَّ الْمُتَّقِيْنَ فِيْ جَنّٰتٍ وَّنَهَرٍۙ  ",
+                "terjemahan": "Sungguh, orang-orang yang bertakwa berada di taman-taman dan sungai-sungai,"
+            },
+            {
+                "ayat_ke": 55,
+                "text": "فِيْ مَقْعَدِ صِدْقٍ عِنْدَ مَلِيْكٍ مُّقْتَدِرٍ ࣖ ",
+                "terjemahan": "di tempat yang disenangi di sisi Tuhan Yang Mahakuasa."
+            }
+        ]
+    }
+}

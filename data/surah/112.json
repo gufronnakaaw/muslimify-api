@@ -1,0 +1,31 @@
+{
+    "112": {
+        "nomor_surah": "112",
+        "nama_surah": "الاخلاص",
+        "nama_latin": "Al-Ikhlas",
+        "jumlah_ayat": "4",
+        "arti": "Ikhlas",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+                "terjemahan": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+            },
+            {
+                "ayat_ke": 2,
+                "text": "اَللّٰهُ الصَّمَدُۚ",
+                "terjemahan": "Allah tempat meminta segala sesuatu."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+                "terjemahan": "(Allah) tidak beranak dan tidak pula diperanakkan."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+                "terjemahan": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+            }
+        ]
+    }
+}

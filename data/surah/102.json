@@ -1,0 +1,51 @@
+{
+    "102": {
+        "nomor_surah": "102",
+        "nama_surah": "التكاثر",
+        "nama_latin": "At-Takasur",
+        "jumlah_ayat": "8",
+        "arti": "Bermegah-Megahan",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "اَلْهٰىكُمُ التَّكَاثُرُۙ",
+                "terjemahan": "Bermegah-megahan telah melalaikan kamu,"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ",
+                "terjemahan": "sampai kamu masuk ke dalam kubur."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ",
+                "terjemahan": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+            },
+            {
+                "ayat_ke": 4,
+                "text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ ",
+                "terjemahan": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ",
+                "terjemahan": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+            },
+            {
+                "ayat_ke": 6,
+                "text": "لَتَرَوُنَّ الْجَحِيْمَۙ",
+                "terjemahan": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+            },
+            {
+                "ayat_ke": 7,
+                "text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ",
+                "terjemahan": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ ࣖ",
+                "terjemahan": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "111": {
+        "nomor_surah": "111",
+        "nama_surah": "اللهب",
+        "nama_latin": "Al-Lahab",
+        "jumlah_ayat": "5",
+        "arti": "Api Yang Bergejolak",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+                "terjemahan": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+                "terjemahan": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+                "terjemahan": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+                "terjemahan": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). "
+            },
+            {
+                "ayat_ke": 5,
+                "text": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+                "terjemahan": "Di lehernya ada tali dari sabut yang dipintal."
+            }
+        ]
+    }
+}

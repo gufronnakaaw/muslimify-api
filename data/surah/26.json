@@ -1,0 +1,1146 @@
+{
+    "26": {
+        "nomor_surah": "26",
+        "nama_surah": "الشعراۤء",
+        "nama_latin": "Asy-Syu'ara'",
+        "jumlah_surah": "227",
+        "arti": "Para Penyair",
+        "data": [
+            {
+                "ayat_ke": 1,
+                "text": "طٰسۤمّۤ ",
+                "terjemahan": "Tha Sin Mim"
+            },
+            {
+                "ayat_ke": 2,
+                "text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِيْنِ",
+                "terjemahan": "Inilah ayat-ayat Kitab (Al-Qur'an) yang jelas."
+            },
+            {
+                "ayat_ke": 3,
+                "text": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ اَلَّا يَكُوْنُوْا مُؤْمِنِيْنَ ",
+                "terjemahan": "Boleh jadi engkau (Muhammad) akan membinasakan dirimu (dengan kesedihan), karena mereka (penduduk Mekah) tidak beriman."
+            },
+            {
+                "ayat_ke": 4,
+                "text": "اِنْ نَّشَأْ نُنَزِّلْ عَلَيْهِمْ مِّنَ السَّمَاۤءِ اٰيَةً فَظَلَّتْ اَعْنَاقُهُمْ لَهَا خَاضِعِيْنَ ",
+                "terjemahan": "Jika Kami menghendaki, niscaya Kami turunkan kepada mereka mukjizat dari langit, yang akan membuat tengkuk mereka tunduk dengan rendah hati kepadanya."
+            },
+            {
+                "ayat_ke": 5,
+                "text": "وَمَا يَأْتِيْهِمْ مِّنْ ذِكْرٍ مِّنَ الرَّحْمٰنِ مُحْدَثٍ اِلَّا كَانُوْا عَنْهُ مُعْرِضِيْنَ ",
+                "terjemahan": "Dan setiap kali disampaikan kepada mereka suatu peringatan baru (ayat Al-Qur'an yang diturunkan) dari Tuhan Yang Maha Pengasih, mereka selalu berpaling darinya."
+            },
+            {
+                "ayat_ke": 6,
+                "text": "فَقَدْ كَذَّبُوْا فَسَيَأْتِيْهِمْ اَنْۢبـٰۤؤُا مَا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
+                "terjemahan": "Sungguh, mereka telah mendustakan (Al-Qur'an), maka kelak akan datang kepada mereka (kebenaran) berita-berita mengenai apa (azab) yang dulu mereka perolok-olokkan."
+            },
+            {
+                "ayat_ke": 7,
+                "text": "اَوَلَمْ يَرَوْا اِلَى الْاَرْضِ كَمْ اَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ زَوْجٍ كَرِيْمٍ ",
+                "terjemahan": "Dan apakah mereka tidak memperhatikan bumi, betapa banyak Kami tumbuhkan di bumi itu berbagai macam pasangan (tumbuh-tumbuhan) yang baik?"
+            },
+            {
+                "ayat_ke": 8,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةًۗ وَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ ",
+                "terjemahan": "Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 9,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+                "terjemahan": "Dan sungguh, Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 10,
+                "text": "وَاِذْ نَادٰى رَبُّكَ مُوْسٰٓى اَنِ ائْتِ الْقَوْمَ الظّٰلِمِيْنَ ۙ",
+                "terjemahan": "Dan (ingatlah) ketika Tuhanmu menyeru Musa (dengan firman-Nya), “Datangilah kaum yang zalim itu,"
+            },
+            {
+                "ayat_ke": 11,
+                "text": "قَوْمَ فِرْعَوْنَ ۗ اَلَا يَتَّقُوْنَ  ",
+                "terjemahan": "(yaitu) kaum Fir‘aun. Mengapa mereka tidak bertakwa?”"
+            },
+            {
+                "ayat_ke": 12,
+                "text": "قَالَ رَبِّ اِنِّيْٓ اَخَافُ اَنْ يُّكَذِّبُوْنِ ۗ",
+                "terjemahan": "Dia (Musa) berkata, “Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,"
+            },
+            {
+                "ayat_ke": 13,
+                "text": "وَيَضِيْقُ صَدْرِيْ وَلَا يَنْطَلِقُ لِسَانِيْ فَاَرْسِلْ اِلٰى هٰرُوْنَ ",
+                "terjemahan": "sehingga dadaku terasa sempit dan lidahku tidak lancar, maka utuslah Harun (bersamaku)."
+            },
+            {
+                "ayat_ke": 14,
+                "text": "وَلَهُمْ عَلَيَّ ذَنْۢبٌ فَاَخَافُ اَنْ يَّقْتُلُوْنِ  ۚ",
+                "terjemahan": "Sebab aku berdosa terhadap mereka, maka aku takut mereka akan membunuhku.”"
+            },
+            {
+                "ayat_ke": 15,
+                "text": "قَالَ كَلَّاۚ فَاذْهَبَا بِاٰيٰتِنَآ اِنَّا مَعَكُمْ مُّسْتَمِعُوْنَ ۙ ",
+                "terjemahan": "(Allah) berfirman, “Jangan takut (mereka tidak akan dapat membunuhmu)! Maka pergilah kamu berdua dengan membawa ayat-ayat Kami (mukjizat-mukjizat); sungguh, Kami bersamamu mendengarkan (apa yang mereka katakan),"
+            },
+            {
+                "ayat_ke": 16,
+                "text": "فَأْتِيَا فِرْعَوْنَ فَقُوْلَآ اِنَّا رَسُوْلُ رَبِّ الْعٰلَمِيْنَ ۙ",
+                "terjemahan": "maka datanglah kamu berdua kepada Fir‘aun dan katakan, “Sesungguhnya kami adalah rasul-rasul Tuhan seluruh alam,"
+            },
+            {
+                "ayat_ke": 17,
+                "text": "اَنْ اَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+                "terjemahan": "lepaskanlah Bani Israil (pergi) bersama kami.”"
+            },
+            {
+                "ayat_ke": 18,
+                "text": "قَالَ اَلَمْ نُرَبِّكَ فِيْنَا وَلِيْدًا وَّلَبِثْتَ فِيْنَا مِنْ عُمُرِكَ سِنِيْنَ ۗ ",
+                "terjemahan": "Dia (Fir‘aun) menjawab, “Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu."
+            },
+            {
+                "ayat_ke": 19,
+                "text": "وَفَعَلْتَ فَعْلَتَكَ الَّتِيْ فَعَلْتَ وَاَنْتَ مِنَ الْكٰفِرِيْنَ  ",
+                "terjemahan": "Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan dan engkau termasuk orang yang tidak tahu berterima kasih.”"
+            },
+            {
+                "ayat_ke": 20,
+                "text": "قَالَ فَعَلْتُهَآ اِذًا وَّاَنَا۠ مِنَ الضَّاۤلِّيْنَ  ",
+                "terjemahan": "Dia (Musa) berkata, “Aku telah melakukannya, dan ketika itu aku termasuk orang yang khilaf."
+            },
+            {
+                "ayat_ke": 21,
+                "text": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِيْ رَبِّيْ حُكْمًا وَّجَعَلَنِيْ مِنَ الْمُرْسَلِيْنَ  ",
+                "terjemahan": "Lalu aku lari darimu karena aku takut kepadamu, kemudian Tuhanku menganugerahkan ilmu kepadaku serta Dia menjadikan aku salah seorang di antara rasul-rasul."
+            },
+            {
+                "ayat_ke": 22,
+                "text": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ اَنْ عَبَّدْتَّ بَنِيْٓ اِسْرَاۤءِيْلَ ۗ",
+                "terjemahan": "Dan itulah kebaikan yang telah engkau berikan kepadaku, (sementara) itu engkau telah memperbudak Bani Israil.”"
+            },
+            {
+                "ayat_ke": 23,
+                "text": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعٰلَمِيْنَ ۗ ",
+                "terjemahan": "Fir‘aun bertanya, “Siapa Tuhan seluruh alam itu?”"
+            },
+            {
+                "ayat_ke": 24,
+                "text": "قَالَ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ مُّوْقِنِيْنَ ",
+                "terjemahan": "Dia (Musa) menjawab, “Tuhan pencipta langit dan bumi dan apa yang ada di antara keduanya (itulah Tuhanmu), jika kamu mempercayai-Nya.”"
+            },
+            {
+                "ayat_ke": 25,
+                "text": "قَالَ لِمَنْ حَوْلَهٗٓ اَلَا تَسْتَمِعُوْنَ ",
+                "terjemahan": "Dia (Fir‘aun) berkata kepada orang-orang di sekelilingnya, “Apakah kamu tidak mendengar (apa yang dikatakannya)?”"
+            },
+            {
+                "ayat_ke": 26,
+                "text": "قَالَ رَبُّكُمْ وَرَبُّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ ",
+                "terjemahan": "Dia (Musa) berkata, “(Dia) Tuhanmu dan juga Tuhan nenek moyangmu terdahulu.”"
+            },
+            {
+                "ayat_ke": 27,
+                "text": "قَالَ اِنَّ رَسُوْلَكُمُ الَّذِيْٓ اُرْسِلَ اِلَيْكُمْ لَمَجْنُوْنٌ ",
+                "terjemahan": "Dia (Fir‘aun) berkata, “Sungguh, Rasulmu yang diutus kepada kamu benar-benar orang gila.” "
+            },
+            {
+                "ayat_ke": 28,
+                "text": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ تَعْقِلُوْنَ  ",
+                "terjemahan": "Dia (Musa) berkata, “(Dialah) Tuhan (yang menguasai) timur dan barat dan apa yang ada di antara keduanya; jika kamu mengerti.”"
+            },
+            {
+                "ayat_ke": 29,
+                "text": "قَالَ لَىِٕنِ اتَّخَذْتَ اِلٰهًا غَيْرِيْ لَاَجْعَلَنَّكَ مِنَ الْمَسْجُوْنِيْنَ ",
+                "terjemahan": "Dia (Fir‘aun) berkata, “Sungguh, jika engkau menyembah Tuhan selain aku, pasti aku masukkan engkau ke dalam penjara.”"
+            },
+            {
+                "ayat_ke": 30,
+                "text": "قَالَ اَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِيْنٍ ",
+                "terjemahan": "Dia (Musa) berkata, “Apakah (engkau akan melakukan itu) sekalipun aku tunjukkan kepadamu sesuatu (bukti) yang nyata?”"
+            },
+            {
+                "ayat_ke": 31,
+                "text": "قَالَ فَأْتِ بِهٖٓ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
+                "terjemahan": "Dia (Fir‘aun) berkata, “Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”"
+            },
+            {
+                "ayat_ke": 32,
+                "text": "فَاَلْقٰى عَصَاهُ فَاِذَا هِيَ ثُعْبَانٌ مُّبِيْنٌ ۚ ",
+                "terjemahan": "Maka dia (Musa) melemparkan tongkatnya, tiba-tiba tongkat itu menjadi ular besar yang sebenarnya."
+            },
+            {
+                "ayat_ke": 33,
+                "text": "وَنَزَعَ يَدَهٗ فَاِذَا هِيَ بَيْضَاۤءُ لِلنّٰظِرِيْنَ ࣖ ",
+                "terjemahan": "Dan dia mengeluarkan tangannya (dari dalam bajunya), tiba-tiba tangan itu menjadi putih (bercahaya) bagi orang-orang yang melihatnya."
+            },
+            {
+                "ayat_ke": 34,
+                "text": "قَالَ لِلْمَلَاِ حَوْلَهٗٓ اِنَّ هٰذَا لَسٰحِرٌ عَلِيْمٌ ۙ ",
+                "terjemahan": "Dia (Fir‘aun) berkata kepada para pemuka di sekelilingnya, “Sesungguhnya dia (Musa) ini pasti seorang pesihir yang pandai,"
+            },
+            {
+                "ayat_ke": 35,
+                "text": "يُّرِيْدُ اَنْ يُّخْرِجَكُمْ مِّنْ اَرْضِكُمْ بِسِحْرِهٖۖ فَمَاذَا تَأْمُرُوْنَ ",
+                "terjemahan": "dia hendak mengusir kamu dari negerimu dengan sihirnya; karena itu apakah yang kamu sarankan?”"
+            },
+            {
+                "ayat_ke": 36,
+                "text": "قَالُوْٓا اَرْجِهْ وَاَخَاهُ وَابْعَثْ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۙ ",
+                "terjemahan": "Mereka menjawab, “Tahanlah (untuk sementara) dia dan saudaranya, dan utuslah ke seluruh negeri orang-orang yang akan mengumpulkan (pesihir),"
+            },
+            {
+                "ayat_ke": 37,
+                "text": "يَأْتُوْكَ بِكُلِّ سَحَّارٍ عَلِيْمٍ ",
+                "terjemahan": "niscaya mereka akan mendatangkan semua pesihir yang pandai kepadamu.” "
+            },
+            {
+                "ayat_ke": 38,
+                "text": "فَجُمِعَ السَّحَرَةُ لِمِيْقَاتِ يَوْمٍ مَّعْلُوْمٍ ۙ ",
+                "terjemahan": "Lalu dikumpulkanlah para pesihir pada waktu (yang ditetapkan) pada hari yang telah ditentukan, "
+            },
+            {
+                "ayat_ke": 39,
+                "text": "وَّقِيْلَ لِلنَّاسِ هَلْ اَنْتُمْ مُّجْتَمِعُوْنَ ۙ ",
+                "terjemahan": "dan diumumkan kepada orang banyak, “Berkumpullah kamu semua,"
+            },
+            {
+                "ayat_ke": 40,
+                "text": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ اِنْ كَانُوْا هُمُ الْغٰلِبِيْنَ  ",
+                "terjemahan": "agar kita mengikuti para pesihir itu, jika mereka yang menang.”"
+            },
+            {
+                "ayat_ke": 41,
+                "text": "فَلَمَّا جَاۤءَ السَّحَرَةُ قَالُوْا لِفِرْعَوْنَ اَىِٕنَّ لَنَا لَاَجْرًا اِنْ كُنَّا نَحْنُ الْغٰلِبِيْنَ  ",
+                "terjemahan": "Maka ketika para pesihir datang, mereka berkata kepada Fir‘aun, “Apakah kami benar-benar akan mendapat imbalan yang besar jika kami yang menang?”"
+            },
+            {
+                "ayat_ke": 42,
+                "text": "قَالَ نَعَمْ وَاِنَّكُمْ اِذًا لَّمِنَ الْمُقَرَّبِيْنَ ",
+                "terjemahan": "Dia (Fir‘aun) menjawab, “Ya, dan bahkan kamu pasti akan mendapat kedudukan yang dekat (kepadaku).”"
+            },
+            {
+                "ayat_ke": 43,
+                "text": "قَالَ لَهُمْ مُّوْسٰٓى اَلْقُوْا مَآ اَنْتُمْ مُّلْقُوْنَ  ",
+                "terjemahan": "Dia (Musa) berkata kepada mereka, “Lemparkanlah apa yang hendak kamu lemparkan.”"
+            },
+            {
+                "ayat_ke": 44,
+                "text": "فَاَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوْا بِعِزَّةِ فِرْعَوْنَ اِنَّا لَنَحْنُ الْغٰلِبُوْنَ  ",
+                "terjemahan": "Lalu mereka melemparkan tali temali dan tongkat-tongkat mereka seraya berkata, “Demi kekuasaan Fir‘aun, pasti kamilah yang akan menang.”"
+            },
+            {
+                "ayat_ke": 45,
+                "text": "فَاَلْقٰى مُوْسٰى عَصَاهُ فَاِذَا هِيَ تَلْقَفُ مَا يَأْفِكُوْنَ ۚ ",
+                "terjemahan": "Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu."
+            },
+            {
+                "ayat_ke": 46,
+                "text": "فَاُلْقِيَ السَّحَرَةُ سٰجِدِيْنَ ۙ ",
+                "terjemahan": "Maka menyungkurlah para pesihir itu, bersujud."
+            },
+            {
+                "ayat_ke": 47,
+                "text": "قَالُوْٓا اٰمَنَّا بِرَبِّ الْعٰلَمِيْنَ ۙ ",
+                "terjemahan": "Mereka berkata, “Kami beriman kepada Tuhan seluruh alam,"
+            },
+            {
+                "ayat_ke": 48,
+                "text": "رَبِّ مُوْسٰى وَهٰرُوْنَ  ",
+                "terjemahan": "(yaitu) Tuhannya Musa dan Harun.”"
+            },
+            {
+                "ayat_ke": 49,
+                "text": "قَالَ اٰمَنْتُمْ لَهٗ قَبْلَ اَنْ اٰذَنَ لَكُمْۚ اِنَّهٗ لَكَبِيْرُكُمُ الَّذِيْ عَلَّمَكُمُ السِّحْرَۚ فَلَسَوْفَ تَعْلَمُوْنَ ەۗ لَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِّنْ خِلَافٍ وَّلَاُصَلِّبَنَّكُمْ اَجْمَعِيْنَۚ",
+                "terjemahan": "Dia (Fir‘aun) berkata, “Mengapa kamu beriman kepada Musa sebelum aku memberi izin kepadamu? Sesungguhnya dia pemimpinmu yang mengajarkan sihir kepadamu. Nanti kamu pasti akan tahu (akibat perbuatanmu). Pasti akan kupotong tangan dan kakimu bersilang dan sungguh, akan kusalib kamu semuanya.”"
+            },
+            {
+                "ayat_ke": 50,
+                "text": "قَالُوْا لَا ضَيْرَ ۖاِنَّآ اِلٰى رَبِّنَا مُنْقَلِبُوْنَ ۚ  ",
+                "terjemahan": "Mereka berkata, “Tidak ada yang kami takutkan, karena kami akan kembali kepada Tuhan kami."
+            },
+            {
+                "ayat_ke": 51,
+                "text": " اِنَّا نَطْمَعُ اَنْ يَّغْفِرَ لَنَا رَبُّنَا خَطٰيٰنَآ اَنْ كُنَّآ اَوَّلَ الْمُؤْمِنِيْنَ ۗ ࣖ",
+                "terjemahan": "Sesungguhnya kami sangat menginginkan sekiranya Tuhan kami akan mengampuni kesalahan kami, karena kami menjadi orang yang pertama-tama beriman.”"
+            },
+            {
+                "ayat_ke": 52,
+                "text": "۞ وَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنْ اَسْرِ بِعِبَادِيْٓ اِنَّكُمْ مُّتَّبَعُوْنَ  ",
+                "terjemahan": "Dan Kami wahyukan (perintahkan) kepada Musa, “Pergilah pada malam hari dengan membawa hamba-hamba-Ku (Bani Israil), sebab pasti kamu akan dikejar.”"
+            },
+            {
+                "ayat_ke": 53,
+                "text": "فَاَرْسَلَ فِرْعَوْنُ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۚ ",
+                "terjemahan": "Kemudian Fir‘aun mengirimkan orang ke kota-kota (untuk mengumpulkan bala tentaranya)."
+            },
+            {
+                "ayat_ke": 54,
+                "text": "اِنَّ هٰٓؤُلَاۤءِ لَشِرْذِمَةٌ قَلِيْلُوْنَۙ ",
+                "terjemahan": "(Fir‘aun berkata), “Sesungguhnya mereka (Bani Israil) hanya sekelompok kecil,"
+            },
+            {
+                "ayat_ke": 55,
+                "text": "وَاِنَّهُمْ لَنَا لَغَاۤىِٕظُوْنَ ۙ  ",
+                "terjemahan": "dan sesungguhnya mereka telah berbuat hal-hal yang menimbulkan amarah kita,"
+            },
+            {
+                "ayat_ke": 56,
+                "text": "وَاِنَّا لَجَمِيْعٌ حٰذِرُوْنَ ۗ ",
+                "terjemahan": "dan sesungguhnya kita semua tanpa kecuali harus selalu waspada.”"
+            },
+            {
+                "ayat_ke": 57,
+                "text": "فَاَخْرَجْنٰهُمْ مِّنْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+                "terjemahan": "Kemudian, Kami keluarkan mereka (Fir‘aun dan kaumnya) dari taman-taman dan mata air,"
+            },
+            {
+                "ayat_ke": 58,
+                "text": "وَّكُنُوْزٍ وَّمَقَامٍ كَرِيْمٍ ۙ ",
+                "terjemahan": "dan (dari) harta kekayaan dan kedudukan yang mulia, "
+            },
+            {
+                "ayat_ke": 59,
+                "text": "كَذٰلِكَۚ وَاَوْرَثْنٰهَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+                "terjemahan": "demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil."
+            },
+            {
+                "ayat_ke": 60,
+                "text": "فَاَتْبَعُوْهُمْ مُّشْرِقِيْنَ  ",
+                "terjemahan": "Lalu (Fir‘aun dan bala tentaranya) dapat menyusul mereka pada waktu matahari terbit."
+            },
+            {
+                "ayat_ke": 61,
+                "text": "فَلَمَّا تَرَاۤءَ الْجَمْعٰنِ قَالَ اَصْحٰبُ مُوْسٰٓى اِنَّا لَمُدْرَكُوْنَ ۚ  ",
+                "terjemahan": "Maka ketika kedua golongan itu saling melihat, berkatalah pengikut-pengikut Musa, “Kita benar-benar akan tersusul.”"
+            },
+            {
+                "ayat_ke": 62,
+                "text": "قَالَ كَلَّاۗ اِنَّ مَعِيَ رَبِّيْ سَيَهْدِيْنِ  ",
+                "terjemahan": "Dia (Musa) menjawab, “Sekali-kali tidak akan (tersusul); sesungguhnya Tuhanku bersamaku, Dia akan memberi petunjuk kepadaku.”"
+            },
+            {
+                "ayat_ke": 63,
+                "text": "فَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنِ اضْرِبْ بِّعَصَاكَ الْبَحْرَۗ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ ۚ ",
+                "terjemahan": "Lalu Kami wahyukan kepada Musa, “Pukullah laut itu dengan tongkatmu.” Maka terbelahlah lautan itu, dan setiap belahan seperti gunung yang besar."
+            },
+            {
+                "ayat_ke": 64,
+                "text": "وَاَزْلَفْنَا ثَمَّ الْاٰخَرِيْنَ ۚ ",
+                "terjemahan": "Dan di sanalah Kami dekatkan golongan yang lain. "
+            },
+            {
+                "ayat_ke": 65,
+                "text": "وَاَنْجَيْنَا مُوْسٰى وَمَنْ مَّعَهٗٓ اَجْمَعِيْنَ ۚ ",
+                "terjemahan": "Dan Kami selamatkan Musa dan orang-orang yang bersamanya."
+            },
+            {
+                "ayat_ke": 66,
+                "text": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ ۗ ",
+                "terjemahan": "Kemudian Kami tenggelamkan golongan yang lain."
+            },
+            {
+                "ayat_ke": 67,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Sungguh, pada yang demikian itu terdapat suatu tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 68,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+                "terjemahan": "Dan sesungguhnya Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 69,
+                "text": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرٰهِيْمَ ۘ ",
+                "terjemahan": "Dan bacakanlah kepada mereka kisah Ibrahim."
+            },
+            {
+                "ayat_ke": 70,
+                "text": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَا تَعْبُدُوْنَ ",
+                "terjemahan": "Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”"
+            },
+            {
+                "ayat_ke": 71,
+                "text": "قَالُوْا نَعْبُدُ اَصْنَامًا فَنَظَلُّ لَهَا عٰكِفِيْنَ  ",
+                "terjemahan": "Mereka menjawab, “Kami menyembah berhala-berhala dan kami senantiasa tekun menyembahnya.”"
+            },
+            {
+                "ayat_ke": 72,
+                "text": "قَالَ هَلْ يَسْمَعُوْنَكُمْ اِذْ تَدْعُوْنَ ۙ  ",
+                "terjemahan": "Dia (Ibrahim) berkata, “Apakah mereka mendengarmu ketika kamu berdoa (kepadanya)?"
+            },
+            {
+                "ayat_ke": 73,
+                "text": "اَوْ يَنْفَعُوْنَكُمْ اَوْ يَضُرُّوْنَ  ",
+                "terjemahan": "Atau (dapatkah) mereka memberi manfaat atau mencelakakan kamu?”"
+            },
+            {
+                "ayat_ke": 74,
+                "text": "قَالُوْا بَلْ وَجَدْنَآ اٰبَاۤءَنَا كَذٰلِكَ يَفْعَلُوْنَ  ",
+                "terjemahan": "Mereka menjawab, “Tidak, tetapi kami dapati nenek moyang kami berbuat begitu.”"
+            },
+            {
+                "ayat_ke": 75,
+                "text": "قَالَ اَفَرَءَيْتُمْ مَّا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+                "terjemahan": "Dia (Ibrahim) berkata, “Apakah kamu memperhatikan apa yang kamu sembah,"
+            },
+            {
+                "ayat_ke": 76,
+                "text": "اَنْتُمْ وَاٰبَاۤؤُكُمُ الْاَقْدَمُوْنَ ۙ  ",
+                "terjemahan": "kamu dan nenek moyang kamu yang terdahulu?"
+            },
+            {
+                "ayat_ke": 77,
+                "text": "فَاِنَّهُمْ عَدُوٌّ لِّيْٓ اِلَّا رَبَّ الْعٰلَمِيْنَ ۙ ",
+                "terjemahan": "Sesungguhnya mereka (apa yang kamu sembah) itu musuhku, lain halnya Tuhan seluruh alam,"
+            },
+            {
+                "ayat_ke": 78,
+                "text": "الَّذِيْ خَلَقَنِيْ فَهُوَ يَهْدِيْنِ ۙ ",
+                "terjemahan": "(yaitu) Yang telah menciptakan aku, maka Dia yang memberi petunjuk kepadaku,"
+            },
+            {
+                "ayat_ke": 79,
+                "text": "وَالَّذِيْ هُوَ يُطْعِمُنِيْ وَيَسْقِيْنِ ۙ ",
+                "terjemahan": "dan Yang memberi makan dan minum kepadaku;"
+            },
+            {
+                "ayat_ke": 80,
+                "text": "وَاِذَا مَرِضْتُ فَهُوَ يَشْفِيْنِ ۙ  ",
+                "terjemahan": "dan apabila aku sakit, Dialah yang menyembuhkan aku, "
+            },
+            {
+                "ayat_ke": 81,
+                "text": "وَالَّذِيْ يُمِيْتُنِيْ ثُمَّ يُحْيِيْنِ ۙ ",
+                "terjemahan": "dan Yang akan mematikan aku, kemudian akan menghidupkan aku (kembali),"
+            },
+            {
+                "ayat_ke": 82,
+                "text": "وَالَّذِيْٓ اَطْمَعُ اَنْ يَّغْفِرَ لِيْ خَطِيْۤـَٔتِيْ يَوْمَ الدِّيْنِ ۗ",
+                "terjemahan": "dan Yang sangat kuinginkan akan mengampuni kesalahanku pada hari Kiamat.”"
+            },
+            {
+                "ayat_ke": 83,
+                "text": "رَبِّ هَبْ لِيْ حُكْمًا وَّاَلْحِقْنِيْ بِالصّٰلِحِيْنَ ۙ",
+                "terjemahan": "Ibrahim berdoa), “Ya Tuhanku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan orang-orang yang saleh,"
+            },
+            {
+                "ayat_ke": 84,
+                "text": "وَاجْعَلْ لِّيْ لِسَانَ صِدْقٍ فِى الْاٰخِرِيْنَ ۙ ",
+                "terjemahan": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,"
+            },
+            {
+                "ayat_ke": 85,
+                "text": "وَاجْعَلْنِيْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِيْمِ ۙ",
+                "terjemahan": "dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan,"
+            },
+            {
+                "ayat_ke": 86,
+                "text": "وَاغْفِرْ لِاَبِيْٓ اِنَّهٗ كَانَ مِنَ الضَّاۤلِّيْنَ ۙ ",
+                "terjemahan": "dan ampunilah ayahku, sesungguhnya dia termasuk orang yang sesat,"
+            },
+            {
+                "ayat_ke": 87,
+                "text": "وَلَا تُخْزِنِيْ يَوْمَ يُبْعَثُوْنَۙ",
+                "terjemahan": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,"
+            },
+            {
+                "ayat_ke": 88,
+                "text": "يَوْمَ لَا يَنْفَعُ مَالٌ وَّلَا بَنُوْنَ ۙ  ",
+                "terjemahan": "(yaitu) pada hari (ketika) harta dan anak-anak  tidak berguna,"
+            },
+            {
+                "ayat_ke": 89,
+                "text": "اِلَّا مَنْ اَتَى اللّٰهَ بِقَلْبٍ سَلِيْمٍ ۗ ",
+                "terjemahan": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
+            },
+            {
+                "ayat_ke": 90,
+                "text": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِيْنَ ۙ ",
+                "terjemahan": "dan surga didekatkan kepada orang-orang yang bertakwa,"
+            },
+            {
+                "ayat_ke": 91,
+                "text": "وَبُرِّزَتِ الْجَحِيْمُ لِلْغٰوِيْنَ ۙ ",
+                "terjemahan": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,”"
+            },
+            {
+                "ayat_ke": 92,
+                "text": "وَقِيْلَ لَهُمْ اَيْنَ مَا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+                "terjemahan": "dan dikatakan kepada mereka, “Di mana berhala-berhala yang dahulu kamu sembah,"
+            },
+            {
+                "ayat_ke": 93,
+                "text": "مِنْ دُوْنِ اللّٰهِ ۗهَلْ يَنْصُرُوْنَكُمْ اَوْ يَنْتَصِرُوْنَ ۗ  ",
+                "terjemahan": "selain Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?”"
+            },
+            {
+                "ayat_ke": 94,
+                "text": "فَكُبْكِبُوْا فِيْهَا هُمْ وَالْغَاوٗنَ ۙ ",
+                "terjemahan": "Maka mereka (sesembahan itu) dijungkirkan ke dalam neraka bersama orang-orang yang sesat,"
+            },
+            {
+                "ayat_ke": 95,
+                "text": "وَجُنُوْدُ اِبْلِيْسَ اَجْمَعُوْنَ ۗ  ",
+                "terjemahan": "dan bala tentara Iblis semuanya."
+            },
+            {
+                "ayat_ke": 96,
+                "text": "قَالُوْا وَهُمْ فِيْهَا يَخْتَصِمُوْنَ  ",
+                "terjemahan": "Mereka berkata sambil bertengkar di dalamnya (neraka),"
+            },
+            {
+                "ayat_ke": 97,
+                "text": "تَاللّٰهِ اِنْ كُنَّا لَفِيْ ضَلٰلٍ مُّبِيْنٍ ۙ ",
+                "terjemahan": "”Demi Allah, sesungguhnya kita dahulu (di dunia) dalam kesesatan yang nyata,"
+            },
+            {
+                "ayat_ke": 98,
+                "text": "اِذْ نُسَوِّيْكُمْ بِرَبِّ الْعٰلَمِيْنَ ",
+                "terjemahan": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 99,
+                "text": "وَمَآ اَضَلَّنَآ اِلَّا الْمُجْرِمُوْنَ ",
+                "terjemahan": "Dan tidak ada yang menyesatkan kita kecuali orang-orang yang berdosa."
+            },
+            {
+                "ayat_ke": 100,
+                "text": "فَمَا لَنَا مِنْ شَافِعِيْنَ ۙ ",
+                "terjemahan": "Maka sehingga (sekarang) kita tidak mempunyai pemberi syafaat (penolong),"
+            },
+            {
+                "ayat_ke": 101,
+                "text": "وَلَا صَدِيْقٍ حَمِيْمٍ  ",
+                "terjemahan": "dan tidak pula mempunyai teman yang akrab,"
+            },
+            {
+                "ayat_ke": 102,
+                "text": "فَلَوْ اَنَّ لَنَا كَرَّةً فَنَكُوْنَ مِنَ الْمُؤْمِنِيْنَ  ",
+                "terjemahan": "Maka seandainya kita dapat kembali (ke dunia) niscaya kita menjadi orang-orang yang beriman.”"
+            },
+            {
+                "ayat_ke": 103,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 104,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+                "terjemahan": "Dan sungguh, Tuhanmu benar-benar Dialah Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 105,
+                "text": "كَذَّبَتْ قَوْمُ نُوْحِ ِۨالْمُرْسَلِيْنَ ۚ ",
+                "terjemahan": "Kaum Nuh telah mendustakan para rasul."
+            },
+            {
+                "ayat_ke": 106,
+                "text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ نُوْحٌ اَلَا تَتَّقُوْنَ ۚ ",
+                "terjemahan": "Ketika saudara mereka (Nuh) berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+            },
+            {
+                "ayat_ke": 107,
+                "text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+                "terjemahan": "Sesungguhnya aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+            },
+            {
+                "ayat_ke": 108,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+                "terjemahan": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku."
+            },
+            {
+                "ayat_ke": 109,
+                "text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۚ ",
+                "terjemahan": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 110,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ  ",
+                "terjemahan": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.”"
+            },
+            {
+                "ayat_ke": 111,
+                "text": "۞ قَالُوْٓا اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُوْنَ ۗ ",
+                "terjemahan": "Mereka berkata, “Apakah kami harus beriman kepadamu, padahal pengikut-pengikutmu orang-orang yang hina?”"
+            },
+            {
+                "ayat_ke": 112,
+                "text": "قَالَ وَمَا عِلْمِيْ بِمَا كَانُوْا يَعْمَلُوْنَ ۚ  ",
+                "terjemahan": "Dia (Nuh) menjawab, “Tidak ada pengetahuanku tentang apa yang mereka kerjakan."
+            },
+            {
+                "ayat_ke": 113,
+                "text": "اِنْ حِسَابُهُمْ اِلَّا عَلٰى رَبِّيْ لَوْ تَشْعُرُوْنَ ۚ  ",
+                "terjemahan": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhanku, jika kamu menyadari."
+            },
+            {
+                "ayat_ke": 114,
+                "text": "وَمَآ اَنَا۠ بِطَارِدِ الْمُؤْمِنِيْنَ ۚ ",
+                "terjemahan": "Dan aku tidak akan mengusir orang-orang yang beriman."
+            },
+            {
+                "ayat_ke": 115,
+                "text": "اِنْ اَنَا۠ اِلَّا نَذِيْرٌ مُّبِيْنٌ ۗ ",
+                "terjemahan": "Aku (ini) hanyalah pemberi peringatan yang jelas.”"
+            },
+            {
+                "ayat_ke": 116,
+                "text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰنُوْحُ لَتَكُوْنَنَّ مِنَ الْمَرْجُوْمِيْنَۗ  ",
+                "terjemahan": "Mereka berkata, “Wahai Nuh! Sungguh, jika engkau tidak (mau) berhenti, niscaya engkau termasuk orang yang dirajam (dilempari batu sampai mati).”"
+            },
+            {
+                "ayat_ke": 117,
+                "text": "قَالَ رَبِّ اِنَّ قَوْمِيْ كَذَّبُوْنِۖ ",
+                "terjemahan": "Dia (Nuh) berkata, “Ya Tuhanku, sungguh kaumku telah mendustakan aku;"
+            },
+            {
+                "ayat_ke": 118,
+                "text": "فَافْتَحْ بَيْنِيْ وَبَيْنَهُمْ فَتْحًا وَّنَجِّنِيْ وَمَنْ مَّعِيَ مِنَ الْمُؤْمِنِيْنَ  ",
+                "terjemahan": "maka berilah keputusan antara aku dengan mereka, dan selamatkanlah aku dan mereka yang beriman bersamaku.” "
+            },
+            {
+                "ayat_ke": 119,
+                "text": "فَاَنْجَيْنٰهُ وَمَنْ مَّعَهٗ فِى الْفُلْكِ الْمَشْحُوْنِ  ",
+                "terjemahan": "Kemudian Kami menyelamatkannya Nuh dan orang-orang yang bersamanya di dalam kapal yang penuh muatan."
+            },
+            {
+                "ayat_ke": 120,
+                "text": "ثُمَّ اَغْرَقْنَا بَعْدُ الْبٰقِيْنَ  ",
+                "terjemahan": "Kemudian setelah itu Kami tenggelamkan orang-orang yang tinggal."
+            },
+            {
+                "ayat_ke": 121,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 122,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+                "terjemahan": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 123,
+                "text": "كَذَّبَتْ عَادُ ِۨالْمُرْسَلِيْنَ ۖ ",
+                "terjemahan": "(Kaum) ‘Ad telah mendustakan para rasul."
+            },
+            {
+                "ayat_ke": 124,
+                "text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ هُوْدٌ اَلَا تَتَّقُوْنَ ۚ ",
+                "terjemahan": "Ketika saudara mereka Hud berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+            },
+            {
+                "ayat_ke": 125,
+                "text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+                "terjemahan": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+            },
+            {
+                "ayat_ke": 126,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+                "terjemahan": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+            },
+            {
+                "ayat_ke": 127,
+                "text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+                "terjemahan": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 128,
+                "text": "اَتَبْنُوْنَ بِكُلِّ رِيْعٍ اٰيَةً تَعْبَثُوْنَ ۙ ",
+                "terjemahan": "Apakah kamu mendirikan istana-istana pada setiap tanah yang tinggi untuk kemegahan tanpa ditempati, "
+            },
+            {
+                "ayat_ke": 129,
+                "text": "وَتَتَّخِذُوْنَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُوْنَۚ  ",
+                "terjemahan": "dan kamu membuat benteng-benteng dengan harapan kamu hidup kekal?"
+            },
+            {
+                "ayat_ke": 130,
+                "text": "وَاِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِيْنَۚ  ",
+                "terjemahan": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis."
+            },
+            {
+                "ayat_ke": 131,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+                "terjemahan": "Maka bertakwalah kepada Allah dan taatlah kepadaku,"
+            },
+            {
+                "ayat_ke": 132,
+                "text": "وَاتَّقُوا الَّذِيْٓ اَمَدَّكُمْ بِمَا تَعْلَمُوْنَ  ۚ",
+                "terjemahan": "dan tetaplah kamu bertakwa kepada-Nya yang telah menganugerahkan kepadamu apa yang kamu ketahui."
+            },
+            {
+                "ayat_ke": 133,
+                "text": "اَمَدَّكُمْ بِاَنْعَامٍ وَّبَنِيْنَۙ  ",
+                "terjemahan": "Dia (Allah) telah menganugerahkan kepadamu hewan ternak dan anak-anak,"
+            },
+            {
+                "ayat_ke": 134,
+                "text": "وَجَنّٰتٍ وَّعُيُوْنٍۚ  ",
+                "terjemahan": "dan kebun-kebun, dan mata air,"
+            },
+            {
+                "ayat_ke": 135,
+                "text": "اِنِّيْٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيْمٍ ۗ ",
+                "terjemahan": "sesungguhnya aku takut kamu akan ditimpa azab pada hari yang besar.” "
+            },
+            {
+                "ayat_ke": 136,
+                "text": "قَالُوْا سَوَاۤءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُنْ مِّنَ الْوَاعِظِيْنَ ۙ ",
+                "terjemahan": "Mereka menjawab, “Sama saja bagi kami, apakah engkau memberi nasihat atau tidak memberi nasihat,"
+            },
+            {
+                "ayat_ke": 137,
+                "text": "اِنْ هٰذَآ اِلَّا خُلُقُ الْاَوَّلِيْنَ ۙ ",
+                "terjemahan": "(agama kami) ini tidak lain hanyalah adat kebiasaan orang-orang terdahulu,"
+            },
+            {
+                "ayat_ke": 138,
+                "text": "وَمَا نَحْنُ بِمُعَذَّبِيْنَ ۚ ",
+                "terjemahan": "dan kami (sama sekali) tidak akan diazab.”"
+            },
+            {
+                "ayat_ke": 139,
+                "text": "فَكَذَّبُوْهُ فَاَهْلَكْنٰهُمْۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Maka mereka mendustakannya (Hud), lalu Kami binasakan mereka. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 140,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+                "terjemahan": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 141,
+                "text": "كَذَّبَتْ ثَمُوْدُ الْمُرْسَلِيْنَ  ۖ ",
+                "terjemahan": "Kaum Samud telah mendustakan para rasul."
+            },
+            {
+                "ayat_ke": 142,
+                "text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ صٰلِحٌ اَلَا تَتَّقُوْنَ ۚ ",
+                "terjemahan": "Ketika saudara mereka Saleh berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+            },
+            {
+                "ayat_ke": 143,
+                "text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+                "terjemahan": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+            },
+            {
+                "ayat_ke": 144,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ  ",
+                "terjemahan": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+            },
+            {
+                "ayat_ke": 145,
+                "text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+                "terjemahan": "Dan aku tidak meminta sesuatu imbalan kepadamu atas ajakan itu, imbalanku hanyalah dari Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 146,
+                "text": "اَتُتْرَكُوْنَ فِيْ مَا هٰهُنَآ اٰمِنِيْنَ ۙ ",
+                "terjemahan": "Apakah kamu (mengira) akan dibiarkan tinggal di sini (di negeri kamu ini) dengan aman,"
+            },
+            {
+                "ayat_ke": 147,
+                "text": "فِيْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+                "terjemahan": "di dalam kebun-kebun dan mata air,"
+            },
+            {
+                "ayat_ke": 148,
+                "text": "وَّزُرُوْعٍ وَّنَخْلٍ طَلْعُهَا هَضِيْمٌ ۚ ",
+                "terjemahan": "dan tanaman-tanaman dan pohon-pohon kurma yang mayangnya lembut."
+            },
+            {
+                "ayat_ke": 149,
+                "text": "وَتَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا فٰرِهِيْنَ ",
+                "terjemahan": "Dan kamu pahat dengan terampil sebagian gunung-gunung untuk dijadikan rumah-rumah;"
+            },
+            {
+                "ayat_ke": 150,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+                "terjemahan": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+            },
+            {
+                "ayat_ke": 151,
+                "text": "وَلَا تُطِيْعُوْٓا اَمْرَ الْمُسْرِفِيْنَ ۙ ",
+                "terjemahan": "dan janganlah kamu menaati perintah orang-orang yang melampaui batas,"
+            },
+            {
+                "ayat_ke": 152,
+                "text": "الَّذِيْنَ يُفْسِدُوْنَ فِى الْاَرْضِ وَلَا يُصْلِحُوْنَ  ",
+                "terjemahan": "yang berbuat kerusakan di bumi dan tidak mengadakan perbaikan.”"
+            },
+            {
+                "ayat_ke": 153,
+                "text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+                "terjemahan": "Mereka berkata, “Sungguh, engkau hanyalah termasuk orang yang kena sihir;"
+            },
+            {
+                "ayat_ke": 154,
+                "text": "مَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَاۙ فَأْتِ بِاٰيَةٍ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ  ",
+                "terjemahan": "engkau hanyalah manusia seperti kami; maka datangkanlah sesuatu mukjizat jika engkau termasuk orang yang benar.”"
+            },
+            {
+                "ayat_ke": 155,
+                "text": "قَالَ هٰذِهٖ نَاقَةٌ لَّهَا شِرْبٌ وَّلَكُمْ شِرْبُ يَوْمٍ مَّعْلُوْمٍ ۚ ",
+                "terjemahan": "Dia (Saleh) menjawab, “Ini seekor unta betina, yang berhak mendapatkan (giliran) minum, dan kamu juga berhak mendapatkan minum pada hari yang ditentukan."
+            },
+            {
+                "ayat_ke": 156,
+                "text": "وَلَا تَمَسُّوْهَا بِسُوْۤءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيْمٍ  ",
+                "terjemahan": "Dan jangan kamu menyentuhnya (unta itu) dengan sesuatu kejahatan, nanti kamu akan ditimpa azab pada hari yang dahsyat.”"
+            },
+            {
+                "ayat_ke": 157,
+                "text": "فَعَقَرُوْهَا فَاَصْبَحُوْا نٰدِمِيْنَ ۙ ",
+                "terjemahan": "Kemudian mereka membunuhnya, lalu mereka merasa menyesal,"
+            },
+            {
+                "ayat_ke": 158,
+                "text": "فَاَخَذَهُمُ الْعَذَابُۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "maka mereka ditimpa azab. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 159,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+                "terjemahan": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 160,
+                "text": "كَذَّبَتْ قَوْمُ لُوْطِ ِۨالْمُرْسَلِيْنَ ۖ ",
+                "terjemahan": "Kaum Lut telah mendustakan para rasul,"
+            },
+            {
+                "ayat_ke": 161,
+                "text": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ لُوْطٌ اَلَا تَتَّقُوْنَ ۚ  ",
+                "terjemahan": "ketika saudara mereka Lut berkata kepada mereka, “Mengapa kamu tidak bertakwa?”"
+            },
+            {
+                "ayat_ke": 162,
+                "text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+                "terjemahan": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+            },
+            {
+                "ayat_ke": 163,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+                "terjemahan": "maka bertakwalah kepada Allah dan taatlah kepadaku."
+            },
+            {
+                "ayat_ke": 164,
+                "text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+                "terjemahan": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 165,
+                "text": "اَتَأْتُوْنَ الذُّكْرَانَ مِنَ الْعٰلَمِيْنَ ۙ ",
+                "terjemahan": "Mengapa kamu mendatangi jenis laki-laki di antara manusia (berbuat homoseks),"
+            },
+            {
+                "ayat_ke": 166,
+                "text": "وَتَذَرُوْنَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ اَزْوَاجِكُمْۗ بَلْ اَنْتُمْ قَوْمٌ عٰدُوْنَ  ",
+                "terjemahan": "dan kamu tinggalkan (perempuan) yang diciptakan Tuhan untuk menjadi istri-istri kamu? Kamu (memang) orang-orang yang melampaui batas.” "
+            },
+            {
+                "ayat_ke": 167,
+                "text": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰلُوْطُ لَتَكُوْنَنَّ مِنَ الْمُخْرَجِيْنَ  ",
+                "terjemahan": "Mereka menjawab, “Wahai Lut! Jika engkau tidak berhenti, engkau termasuk orang-orang yang terusir.”"
+            },
+            {
+                "ayat_ke": 168,
+                "text": "قَالَ ِانِّيْ لِعَمَلِكُمْ مِّنَ الْقَالِيْنَ  ۗ",
+                "terjemahan": "Dia (Lut) berkata, “Aku sungguh benci kepada perbuatanmu.”"
+            },
+            {
+                "ayat_ke": 169,
+                "text": "رَبِّ نَجِّنِيْ وَاَهْلِيْ مِمَّا يَعْمَلُوْنَ  ",
+                "terjemahan": "(Lut berdoa), “Ya Tuhanku, selamatkanlah aku dan keluargaku dari (akibat) perbuatan yang mereka kerjakan.”"
+            },
+            {
+                "ayat_ke": 170,
+                "text": "فَنَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْنَ ۙ ",
+                "terjemahan": "Lalu Kami selamatkan dia bersama keluarganya semua,"
+            },
+            {
+                "ayat_ke": 171,
+                "text": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ ۚ  ",
+                "terjemahan": "kecuali seorang perempuan tua (istrinya), yang termasuk dalam golongan yang tinggal."
+            },
+            {
+                "ayat_ke": 172,
+                "text": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ ۚ ",
+                "terjemahan": "Kemudian Kami binasakan yang lain."
+            },
+            {
+                "ayat_ke": 173,
+                "text": "وَاَمْطَرْنَا عَلَيْهِمْ مَّطَرًاۚ فَسَاۤءَ مَطَرُ الْمُنْذَرِيْنَ ",
+                "terjemahan": "Dan Kami hujani mereka (dengan hujan batu), maka betapa buruk hujan yang menimpa orang-orang yang telah diberi peringatan itu."
+            },
+            {
+                "ayat_ke": 174,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 175,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+                "terjemahan": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 176,
+                "text": "كَذَّبَ اَصْحٰبُ لْـَٔيْكَةِ الْمُرْسَلِيْنَ ۖ ",
+                "terjemahan": "Penduduk Aikah telah mendustakan para rasul;"
+            },
+            {
+                "ayat_ke": 177,
+                "text": "اِذْ قَالَ لَهُمْ شُعَيْبٌ اَلَا تَتَّقُوْنَ ۚ ",
+                "terjemahan": "ketika Syuaib berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+            },
+            {
+                "ayat_ke": 178,
+                "text": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+                "terjemahan": "Sungguh, aku adalah rasul kepercayaan (yang diutus) kepadamu,"
+            },
+            {
+                "ayat_ke": 179,
+                "text": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+                "terjemahan": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+            },
+            {
+                "ayat_ke": 180,
+                "text": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+                "terjemahan": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+            },
+            {
+                "ayat_ke": 181,
+                "text": "۞ اَوْفُوا الْكَيْلَ وَلَا تَكُوْنُوْا مِنَ الْمُخْسِرِيْنَ ۚ ",
+                "terjemahan": "Sempurnakanlah takaran dan janganlah kamu merugikan orang lain."
+            },
+            {
+                "ayat_ke": 182,
+                "text": "وَزِنُوْا بِالْقِسْطَاسِ الْمُسْتَقِيْمِ ۚ ",
+                "terjemahan": "Dan timbanglah dengan timbangan yang benar."
+            },
+            {
+                "ayat_ke": 183,
+                "text": "وَلَا تَبْخَسُوا النَّاسَ اَشْيَاۤءَهُمْ وَلَا تَعْثَوْا فِى الْاَرْضِ مُفْسِدِيْنَ ۚ ",
+                "terjemahan": "Dan janganlah kamu merugikan manusia dengan mengurangi hak-haknya dan janganlah membuat kerusakan di bumi;"
+            },
+            {
+                "ayat_ke": 184,
+                "text": "وَاتَّقُوا الَّذِيْ خَلَقَكُمْ وَالْجِبِلَّةَ الْاَوَّلِيْنَ ۗ ",
+                "terjemahan": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang terdahulu.”"
+            },
+            {
+                "ayat_ke": 185,
+                "text": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+                "terjemahan": "Mereka berkata, “Engkau tidak lain hanyalah orang-orang yang kena sihir."
+            },
+            {
+                "ayat_ke": 186,
+                "text": "وَمَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَا وَاِنْ نَّظُنُّكَ لَمِنَ الْكٰذِبِيْنَ ۚ ",
+                "terjemahan": "Dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta."
+            },
+            {
+                "ayat_ke": 187,
+                "text": "فَاَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاۤءِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ ۗ ",
+                "terjemahan": "Maka jatuhkanlah kepada kami gumpalan dari langit, jika engkau termasuk orang-orang yang benar.”"
+            },
+            {
+                "ayat_ke": 188,
+                "text": "قَالَ رَبِّيْٓ اَعْلَمُ بِمَا تَعْمَلُوْنَ  ",
+                "terjemahan": "Dia (Syuaib) berkata, “Tuhanku lebih mengetahui apa yang kamu kerjakan.”"
+            },
+            {
+                "ayat_ke": 189,
+                "text": "فَكَذَّبُوْهُ فَاَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۗاِنَّهٗ كَانَ عَذَابَ يَوْمٍ عَظِيْمٍ ",
+                "terjemahan": "Kemudian mereka mendustakannya (Syuaib), lalu mereka ditimpa azab pada hari yang gelap. Sungguh, itulah azab pada hari yang dahsyat."
+            },
+            {
+                "ayat_ke": 190,
+                "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+                "terjemahan": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+            },
+            {
+                "ayat_ke": 191,
+                "text": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+                "terjemahan": "Dan sungguh, Tuhanmu, Dialah yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 192,
+                "text": "وَاِنَّهٗ لَتَنْزِيْلُ رَبِّ الْعٰلَمِيْنَ ۗ  ",
+                "terjemahan": "Dan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam,"
+            },
+            {
+                "ayat_ke": 193,
+                "text": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُ ۙ ",
+                "terjemahan": "Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), "
+            },
+            {
+                "ayat_ke": 194,
+                "text": "عَلٰى قَلْبِكَ لِتَكُوْنَ مِنَ الْمُنْذِرِيْنَ ۙ  ",
+                "terjemahan": "ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan,"
+            },
+            {
+                "ayat_ke": 195,
+                "text": "بِلِسَانٍ عَرَبِيٍّ مُّبِيْنٍ ۗ ",
+                "terjemahan": "dengan bahasa Arab yang jelas."
+            },
+            {
+                "ayat_ke": 196,
+                "text": "وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ  ",
+                "terjemahan": "Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu."
+            },
+            {
+                "ayat_ke": 197,
+                "text": "اَوَلَمْ يَكُنْ لَّهُمْ اٰيَةً اَنْ يَّعْلَمَهٗ عُلَمٰۤؤُا بَنِيْٓ اِسْرَاۤءِيْلَ  ",
+                "terjemahan": "Apakah tidak (cukup) menjadi bukti bagi mereka, bahwa para ulama Bani Israil mengetahuinya?"
+            },
+            {
+                "ayat_ke": 198,
+                "text": "وَلَوْ نَزَّلْنٰهُ عَلٰى بَعْضِ الْاَعْجَمِيْنَ ۙ ",
+                "terjemahan": "Dan seandainya (Al-Qur'an) itu Kami turunkan kepada sebagian dari golongan bukan Arab,"
+            },
+            {
+                "ayat_ke": 199,
+                "text": "فَقَرَاَهٗ عَلَيْهِمْ مَّا كَانُوْا بِهٖ مُؤْمِنِيْنَ ۗ  ",
+                "terjemahan": "lalu dia membacakannya kepada mereka (orang-orang kafir); niscaya mereka tidak juga akan beriman kepadanya."
+            },
+            {
+                "ayat_ke": 200,
+                "text": "كَذٰلِكَ سَلَكْنٰهُ فِيْ قُلُوْبِ الْمُجْرِمِيْنَ ۗ  ",
+                "terjemahan": "Demikianlah, Kami masukkan (sifat dusta dan ingkar) ke dalam hati orang-orang yang berdosa,"
+            },
+            {
+                "ayat_ke": 201,
+                "text": "لَا يُؤْمِنُوْنَ بِهٖ حَتّٰى يَرَوُا الْعَذَابَ الْاَلِيْمَ  ",
+                "terjemahan": "mereka tidak akan beriman kepadanya, hingga mereka melihat azab yang pedih,"
+            },
+            {
+                "ayat_ke": 202,
+                "text": "فَيَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ ۙ  ",
+                "terjemahan": "maka datang azab kepada mereka secara mendadak, ketika mereka tidak menyadarinya,"
+            },
+            {
+                "ayat_ke": 203,
+                "text": "فَيَقُوْلُوْا هَلْ نَحْنُ مُنْظَرُوْنَ ۗ ",
+                "terjemahan": "lalu mereka berkata, “Apakah kami diberi penangguhan waktu?” "
+            },
+            {
+                "ayat_ke": 204,
+                "text": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ  ",
+                "terjemahan": "Bukankah mereka yang meminta agar azab Kami dipercepat?"
+            },
+            {
+                "ayat_ke": 205,
+                "text": "اَفَرَءَيْتَ اِنْ مَّتَّعْنٰهُمْ سِنِيْنَ ۙ  ",
+                "terjemahan": "Maka bagaimana pendapatmu jika kepada mereka Kami berikan kenikmatan hidup beberapa tahun,"
+            },
+            {
+                "ayat_ke": 206,
+                "text": "ثُمَّ جَاۤءَهُمْ مَّا كَانُوْا يُوْعَدُوْنَ ۙ  ",
+                "terjemahan": "kemudian datang kepada mereka azab yang diancamkan kepada mereka,"
+            },
+            {
+                "ayat_ke": 207,
+                "text": "مَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يُمَتَّعُوْنَ ۗ ",
+                "terjemahan": "niscaya tidak berguna bagi mereka kenikmatan yang mereka rasakan."
+            },
+            {
+                "ayat_ke": 208,
+                "text": "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا لَهَا مُنْذِرُوْنَ ۖ  ",
+                "terjemahan": "Dan Kami tidak membinasakan sesuatu negeri, kecuali setelah ada orang-orang yang memberi peringatan kepadanya;"
+            },
+            {
+                "ayat_ke": 209,
+                "text": "ذِكْرٰىۚ وَمَا كُنَّا ظٰلِمِيْنَ  ",
+                "terjemahan": "untuk (menjadi) peringatan. Dan Kami tidak berlaku zalim. "
+            },
+            {
+                "ayat_ke": 210,
+                "text": "وَمَا تَنَزَّلَتْ بِهِ الشَّيٰطِيْنُ  ",
+                "terjemahan": "Dan (Al-Qur'an) itu tidaklah dibawa turun oleh setan-setan."
+            },
+            {
+                "ayat_ke": 211,
+                "text": "وَمَا يَنْۢبَغِيْ لَهُمْ وَمَا يَسْتَطِيْعُوْنَ ۗ  ",
+                "terjemahan": "Dan tidaklah pantas bagi mereka (Al-Qur'an itu), dan mereka pun tidak akan sanggup."
+            },
+            {
+                "ayat_ke": 212,
+                "text": "اِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُوْلُوْنَ ۗ ",
+                "terjemahan": "Sesungguhnya untuk mendengarkannya pun mereka dijauhkan."
+            },
+            {
+                "ayat_ke": 213,
+                "text": "فَلَا تَدْعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَكُوْنَ مِنَ الْمُعَذَّبِيْنَ",
+                "terjemahan": "Maka janganlah kamu menyeru (menyembah) tuhan selain Allah, nanti kamu termasuk orang-orang yang diazab."
+            },
+            {
+                "ayat_ke": 214,
+                "text": "وَاَنْذِرْ عَشِيْرَتَكَ الْاَقْرَبِيْنَ ۙ ",
+                "terjemahan": "Dan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat,"
+            },
+            {
+                "ayat_ke": 215,
+                "text": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ۚ  ",
+                "terjemahan": "dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu."
+            },
+            {
+                "ayat_ke": 216,
+                "text": "فَاِنْ عَصَوْكَ فَقُلْ اِنِّيْ بَرِيْۤءٌ مِّمَّا تَعْمَلُوْنَ ۚ ",
+                "terjemahan": "Kemudian jika mereka mendurhakaimu maka katakanlah (Muhammad), “Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan.”"
+            },
+            {
+                "ayat_ke": 217,
+                "text": "وَتَوَكَّلْ عَلَى الْعَزِيْزِ الرَّحِيْمِ ۙ ",
+                "terjemahan": "Dan bertawakallah kepada (Allah) Yang Mahaperkasa, Maha Penyayang."
+            },
+            {
+                "ayat_ke": 218,
+                "text": "الَّذِيْ يَرٰىكَ حِيْنَ تَقُوْمُ  ",
+                "terjemahan": "Yang melihat engkau ketika engkau berdiri (untuk salat),"
+            },
+            {
+                "ayat_ke": 219,
+                "text": "وَتَقَلُّبَكَ فِى السّٰجِدِيْنَ  ",
+                "terjemahan": "dan (melihat) perubahan gerakan badanmu di antara orang-orang yang sujud."
+            },
+            {
+                "ayat_ke": 220,
+                "text": "اِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ  ",
+                "terjemahan": "Sungguh, Dia Maha Mendengar, Maha Mengetahui."
+            },
+            {
+                "ayat_ke": 221,
+                "text": "هَلْ اُنَبِّئُكُمْ عَلٰى مَنْ تَنَزَّلُ الشَّيٰطِيْنُ ۗ  ",
+                "terjemahan": "Maukah Aku beritakan kepadamu, kepada siapa setan-setan itu turun?"
+            },
+            {
+                "ayat_ke": 222,
+                "text": "تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيْمٍ ۙ ",
+                "terjemahan": "Mereka (setan) turun kepada setiap pendusta yang banyak berdosa,"
+            },
+            {
+                "ayat_ke": 223,
+                "text": "يُّلْقُوْنَ السَّمْعَ وَاَكْثَرُهُمْ كٰذِبُوْنَ ۗ  ",
+                "terjemahan": "mereka menyampaikan hasil pendengaran mereka, sedangkan kebanyakan mereka orang-orang pendusta."
+            },
+            {
+                "ayat_ke": 224,
+                "text": "وَالشُّعَرَاۤءُ يَتَّبِعُهُمُ الْغَاوٗنَ ۗ ",
+                "terjemahan": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat."
+            },
+            {
+                "ayat_ke": 225,
+                "text": "اَلَمْ تَرَ اَنَّهُمْ فِيْ كُلِّ وَادٍ يَّهِيْمُوْنَ ۙ ",
+                "terjemahan": "Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,"
+            },
+            {
+                "ayat_ke": 226,
+                "text": "وَاَنَّهُمْ يَقُوْلُوْنَ مَا لَا يَفْعَلُوْنَ ۙ  ",
+                "terjemahan": "dan bahwa mereka mengatakan apa yang mereka sendiri tidak mengerjakan(nya)?"
+            },
+            {
+                "ayat_ke": 227,
+                "text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَذَكَرُوا اللّٰهَ كَثِيْرًا وَّانْتَصَرُوْا مِنْۢ بَعْدِ مَا ظُلِمُوْا ۗوَسَيَعْلَمُ الَّذِيْنَ ظَلَمُوْٓا اَيَّ مُنْقَلَبٍ يَّنْقَلِبُوْنَ ࣖ ",
+                "terjemahan": "Kecuali orang-orang (penyair-penyair) yang beriman dan berbuat kebajikan dan banyak mengingat Allah dan mendapat kemenangan setelah terzalimi (karena menjawab puisi-puisi orang-orang kafir). Dan orang-orang yang zalim kelak akan tahu ke tempat mana mereka akan kembali."
+            }
+        ]
+    }
+}
