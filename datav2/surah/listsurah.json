@@ -1,0 +1,1028 @@
+[
+  {
+    "surah_number": 1,
+    "arabic": " الفاتحة",
+    "latin": "Al-Fātiḥah ",
+    "transliteration": "Al-Fatihah",
+    "translation": "Pembuka",
+    "total_ayat": 7,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 2,
+    "arabic": " البقرة",
+    "latin": "Al-Baqarah ",
+    "transliteration": "Al-Baqarah",
+    "translation": "Sapi",
+    "total_ayat": 286,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 3,
+    "arabic": " اٰل عمرٰن",
+    "latin": "Āli ‘Imrān",
+    "transliteration": "Ali ‘Imran",
+    "translation": "Keluarga Imran",
+    "total_ayat": 200,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 4,
+    "arabic": "النّساۤء",
+    "latin": "An-Nisā' ",
+    "transliteration": "An-Nisa'",
+    "translation": "Perempuan",
+    "total_ayat": 176,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 5,
+    "arabic": " الماۤئدة",
+    "latin": "Al-Mā'surah_numberah",
+    "transliteration": "Al-Ma'surah_numberah",
+    "translation": "Hsurah_numberangan",
+    "total_ayat": 120,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 6,
+    "arabic": " الانعام",
+    "latin": "Al-An‘ām ",
+    "transliteration": "Al-An‘am",
+    "translation": "Binatang Ternak",
+    "total_ayat": 165,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 7,
+    "arabic": " الاعراف",
+    "latin": "Al-A‘rāf",
+    "transliteration": "Al-A‘raf",
+    "translation": "Tempat Tertinggi",
+    "total_ayat": 206,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 8,
+    "arabic": " الانفال",
+    "latin": "Al-Anfāl",
+    "transliteration": "Al-Anfal",
+    "translation": "Rampasan Perang",
+    "total_ayat": 75,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 9,
+    "arabic": "التّوبة",
+    "latin": "At-Taubah",
+    "transliteration": "At-Taubah",
+    "translation": "Pengampunan",
+    "total_ayat": 129,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 10,
+    "arabic": " يونس",
+    "latin": "Yūnus",
+    "transliteration": "Yunus",
+    "translation": "Yunus",
+    "total_ayat": 109,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 11,
+    "arabic": " هود",
+    "latin": "Hūd",
+    "transliteration": "Hud",
+    "translation": "Hud",
+    "total_ayat": 123,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 12,
+    "arabic": " يوسف",
+    "latin": "Yūsuf",
+    "transliteration": "Yusuf",
+    "translation": "Yusuf",
+    "total_ayat": 111,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 13,
+    "arabic": " الرّعد",
+    "latin": "Ar-Ra‘d",
+    "transliteration": "Ar-Ra‘d",
+    "translation": "Guruh",
+    "total_ayat": 43,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 14,
+    "arabic": " ابرٰهيم",
+    "latin": "Ibrāhīm",
+    "transliteration": "Ibrahim",
+    "translation": "Ibrahim",
+    "total_ayat": 52,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 15,
+    "arabic": " الحجر",
+    "latin": "Al-Ḥijr",
+    "transliteration": "Al-Hijr",
+    "translation": "Hijr",
+    "total_ayat": 99,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 16,
+    "arabic": "النّحل",
+    "latin": "An-Naḥl",
+    "transliteration": "An-Nahl",
+    "translation": "Lebah",
+    "total_ayat": 128,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 17,
+    "arabic": " الاسراۤء",
+    "latin": "Al-Isrā'",
+    "transliteration": "Al-Isra'",
+    "translation": "Memperjalankan di Malam Hari",
+    "total_ayat": 111,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 18,
+    "arabic": " الكهف",
+    "latin": "Al-Kahf",
+    "transliteration": "Al-Kahf",
+    "translation": "Gua",
+    "total_ayat": 110,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 19,
+    "arabic": " مريم",
+    "latin": "Maryam",
+    "transliteration": "Maryam",
+    "translation": "Maryam",
+    "total_ayat": 98,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 20,
+    "arabic": " طٰهٰ",
+    "latin": "Ṭāhā",
+    "transliteration": "Taha",
+    "translation": "Taha",
+    "total_ayat": 135,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 21,
+    "arabic": " الانبياۤء",
+    "latin": "Al-Anbiyā' ",
+    "transliteration": "Al-Anbiya'",
+    "translation": "Para Nabi",
+    "total_ayat": 112,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 22,
+    "arabic": "الحجّ",
+    "latin": "Al-Ḥajj",
+    "transliteration": "Al-Hajj",
+    "translation": "Haji",
+    "total_ayat": 78,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 23,
+    "arabic": " المؤمنون",
+    "latin": "Al-Mu'minūn",
+    "transliteration": "Al-Mu'minun",
+    "translation": "Orang-Orang Mukmin",
+    "total_ayat": 118,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 24,
+    "arabic": " النّور",
+    "latin": "An-Nūr",
+    "transliteration": "An-Nur",
+    "translation": "Cahaya",
+    "total_ayat": 64,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 25,
+    "arabic": " الفرقان",
+    "latin": "Al-Furqān",
+    "transliteration": "Al-Furqan",
+    "translation": "Pembeda",
+    "total_ayat": 77,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 26,
+    "arabic": "الشّعراۤء",
+    "latin": "Asy-Syu‘arā'",
+    "transliteration": "Asy-Syu‘ara'",
+    "translation": "Para Penyair",
+    "total_ayat": 227,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 27,
+    "arabic": "النّمل",
+    "latin": "An-Naml",
+    "transliteration": "An-Naml",
+    "translation": "Semut",
+    "total_ayat": 93,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 28,
+    "arabic": " القصص",
+    "latin": "Al-Qaṣaṣ",
+    "transliteration": "Al-Qasas",
+    "translation": "Kisah-Kisah",
+    "total_ayat": 88,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 29,
+    "arabic": " العنكبوت",
+    "latin": "Al-‘Ankabūt",
+    "transliteration": "Al-‘Ankabut",
+    "translation": "Laba-Laba",
+    "total_ayat": 69,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 30,
+    "arabic": " الرّوم",
+    "latin": "Ar-Rūm",
+    "transliteration": "Ar-Rum",
+    "translation": "Romawi",
+    "total_ayat": 60,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 31,
+    "arabic": " لقمٰن",
+    "latin": "Luqmān ",
+    "transliteration": "Luqman",
+    "translation": "Luqman",
+    "total_ayat": 34,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 32,
+    "arabic": " السّجدة",
+    "latin": "As-Sajdah",
+    "transliteration": "As-Sajdah",
+    "translation": "Sajdah",
+    "total_ayat": 30,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 33,
+    "arabic": " الاحزاب",
+    "latin": "Al-Aḥzāb",
+    "transliteration": "Al-Ahzab",
+    "translation": "Golongan Yang Bersekutu",
+    "total_ayat": 73,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 34,
+    "arabic": " سبأ",
+    "latin": "Saba' ",
+    "transliteration": "Saba'",
+    "translation": "Saba'",
+    "total_ayat": 54,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 35,
+    "arabic": " فاطر",
+    "latin": "Fāṭir",
+    "transliteration": "Fatir",
+    "translation": "Pencipta",
+    "total_ayat": 45,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 36,
+    "arabic": " يٰسۤ",
+    "latin": "Yāsīn",
+    "transliteration": "Yasin",
+    "translation": "Yasin",
+    "total_ayat": 83,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 37,
+    "arabic": " الصّٰۤفّٰت",
+    "latin": "Aṣ-Ṣāffāt",
+    "transliteration": "As-Saffat",
+    "translation": "Barisan-Barisan",
+    "total_ayat": 182,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 38,
+    "arabic": "صۤ",
+    "latin": "Ṣād ",
+    "transliteration": "Sad",
+    "translation": "Ṣād ",
+    "total_ayat": 88,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 39,
+    "arabic": "الزّمر",
+    "latin": "Az-Zumar",
+    "transliteration": "Az-Zumar",
+    "translation": "Rombongan",
+    "total_ayat": 75,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 40,
+    "arabic": " غافر",
+    "latin": "Gāfir ",
+    "transliteration": "Gafir",
+    "translation": "Maha Pengampun",
+    "total_ayat": 85,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 41,
+    "arabic": " فصّلت",
+    "latin": "Fuṣṣilat",
+    "transliteration": "Fussilat",
+    "translation": "Dijelaskan",
+    "total_ayat": 54,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 42,
+    "arabic": "الشّورٰى",
+    "latin": "Asy-Syūrā",
+    "transliteration": "Asy-Syura",
+    "translation": "Musyawarah",
+    "total_ayat": 53,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 43,
+    "arabic": "الزّخرف",
+    "latin": "Az-Zukhruf",
+    "transliteration": "Az-Zukhruf",
+    "translation": "Perhiasan dari Emas",
+    "total_ayat": 89,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 44,
+    "arabic": "الدّخان",
+    "latin": "Ad-Dukhān",
+    "transliteration": "Ad-Dukhan",
+    "translation": "Kabut Asap",
+    "total_ayat": 59,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 45,
+    "arabic": " الجاثية",
+    "latin": "Al-Jāṡiyah",
+    "transliteration": "Al-Jasiyah",
+    "translation": "Berlutut",
+    "total_ayat": 37,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 46,
+    "arabic": " الاحقاف",
+    "latin": "Al-Aḥqāf",
+    "transliteration": "Al-Ahqaf",
+    "translation": "Ahqaf",
+    "total_ayat": 35,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 47,
+    "arabic": " محمّد",
+    "latin": "Muḥammad ",
+    "transliteration": "Muhammad",
+    "translation": "Nabi Muhammad",
+    "total_ayat": 38,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 48,
+    "arabic": " الفتح",
+    "latin": "Al-Fatḥ",
+    "transliteration": "Al-Fath",
+    "translation": "Kemenangan",
+    "total_ayat": 29,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 49,
+    "arabic": " الحجرٰت",
+    "latin": "Al-Ḥujurāt",
+    "transliteration": "Al-Hujurat",
+    "translation": "Kamar-Kamar",
+    "total_ayat": 18,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 50,
+    "arabic": "قۤ",
+    "latin": "Qāf",
+    "transliteration": "Qaf",
+    "translation": "Qaf",
+    "total_ayat": 45,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 51,
+    "arabic": " الذّٰريٰت",
+    "latin": "Aż-Żāriyāt",
+    "transliteration": "Az-Zariyat",
+    "translation": "Yang Menerbangkan",
+    "total_ayat": 60,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 52,
+    "arabic": "الطّور",
+    "latin": "Aṭ-Ṭūr",
+    "transliteration": "At-Tur",
+    "translation": "Gunung",
+    "total_ayat": 49,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 53,
+    "arabic": "النّجم",
+    "latin": "An-Najm",
+    "transliteration": "An-Najm",
+    "translation": "Bintang",
+    "total_ayat": 62,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 54,
+    "arabic": " القمر",
+    "latin": "Al-Qamar",
+    "transliteration": "Al-Qamar",
+    "translation": "Bulan",
+    "total_ayat": 55,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 55,
+    "arabic": "الرّحمٰن",
+    "latin": "Ar-Raḥmān",
+    "transliteration": "Ar-Rahman",
+    "translation": "Yang Maha Pengasih",
+    "total_ayat": 78,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 56,
+    "arabic": " الواقعة",
+    "latin": "Al-Wāqi‘ah",
+    "transliteration": "Al-Waqi‘ah",
+    "translation": "Hari Kiamat Yang Pasti Terjadi",
+    "total_ayat": 96,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 57,
+    "arabic": " الحديد",
+    "latin": "Al-Ḥadīd",
+    "transliteration": "Al-Hadsurah_number",
+    "translation": "Besi",
+    "total_ayat": 29,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 58,
+    "arabic": " المجادلة",
+    "latin": "Al-Mujādalah",
+    "transliteration": "Al-Mujadalah",
+    "translation": "Gugatan",
+    "total_ayat": 22,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 59,
+    "arabic": " الحشر",
+    "latin": "Al-Ḥasyr",
+    "transliteration": "Al-Hasyr",
+    "translation": "Pengusiran",
+    "total_ayat": 24,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 60,
+    "arabic": " الممتحنة",
+    "latin": "Al-Mumtaḥanah",
+    "transliteration": "Al-Mumtahanah",
+    "translation": "Wanita Yang Diuji",
+    "total_ayat": 13,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 61,
+    "arabic": " الصّفّ",
+    "latin": "Aṣ-Ṣaff",
+    "transliteration": "As-Saff",
+    "translation": "Barisan",
+    "total_ayat": 14,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 62,
+    "arabic": " الجمعة",
+    "latin": "Al-Jumu‘ah",
+    "transliteration": "Al-Jumu‘ah",
+    "translation": "Jumat",
+    "total_ayat": 11,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 63,
+    "arabic": " المنٰفقون",
+    "latin": "Al-Munāfiqūn",
+    "transliteration": "Al-Munafiqun",
+    "translation": "Orang-Orang Munafik",
+    "total_ayat": 11,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 64,
+    "arabic": "التّغابن",
+    "latin": "At-Tagābun",
+    "transliteration": "At-Tagabun",
+    "translation": "Pengungkapan Kesalahan",
+    "total_ayat": 18,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 65,
+    "arabic": "الطّلاق",
+    "latin": "Aṭ-Ṭalāq",
+    "transliteration": "At-Talaq",
+    "translation": "Talak",
+    "total_ayat": 12,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 66,
+    "arabic": "التّحريم",
+    "latin": "At-taḥrīm",
+    "transliteration": "At-tahrim",
+    "translation": "Pengharaman",
+    "total_ayat": 12,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 67,
+    "arabic": "المُلك",
+    "latin": "Al-Mulk",
+    "transliteration": "Al-Mulk",
+    "translation": "Kerajaan",
+    "total_ayat": 30,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 68,
+    "arabic": " القلم",
+    "latin": "Al-Qalam",
+    "transliteration": "Al-Qalam",
+    "translation": "Pena",
+    "total_ayat": 52,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 69,
+    "arabic": " الحاۤقّة",
+    "latin": "Al-Ḥāqqah",
+    "transliteration": "Al-Haqqah",
+    "translation": "Hari Kiamat Yang Pasti Terjadi",
+    "total_ayat": 52,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 70,
+    "arabic": " المعارج",
+    "latin": "Al-Ma‘ārij",
+    "transliteration": "Al-Ma‘arij",
+    "translation": "Tempat-Tempat Naik",
+    "total_ayat": 44,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 71,
+    "arabic": " نوح",
+    "latin": "Nūḥ",
+    "transliteration": "Nuh",
+    "translation": "Nuh",
+    "total_ayat": 28,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 72,
+    "arabic": "الجنّ",
+    "latin": "Al-Jinn",
+    "transliteration": "Al-Jinn",
+    "translation": "Jin",
+    "total_ayat": 28,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 73,
+    "arabic": " المزّمّل",
+    "latin": "Al-Muzzammil",
+    "transliteration": "Al-Muzzammil",
+    "translation": "Orang Berkelumun",
+    "total_ayat": 20,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 74,
+    "arabic": " المدّثّر",
+    "latin": "Al-Muddaṡṡir",
+    "transliteration": "Al-Muddassir",
+    "translation": "Orang Berselimut",
+    "total_ayat": 56,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 75,
+    "arabic": " القيٰمة",
+    "latin": "Al-Qiyāmah",
+    "transliteration": "Al-Qiyamah",
+    "translation": "Hari Kiamat",
+    "total_ayat": 40,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 76,
+    "arabic": " الانسان",
+    "latin": "Al-Insān",
+    "transliteration": "Al-Insan",
+    "translation": "Manusia",
+    "total_ayat": 31,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 77,
+    "arabic": " المرسلٰت",
+    "latin": "Al-Mursalāt",
+    "transliteration": "Al-Mursalat",
+    "translation": "Malaikat Yang Diutus",
+    "total_ayat": 50,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 78,
+    "arabic": "النّبأ",
+    "latin": "An-Naba'",
+    "transliteration": "An-Naba'",
+    "translation": "Berita",
+    "total_ayat": 40,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 79,
+    "arabic": " النّٰزعٰت",
+    "latin": "An-Nāzi‘āt",
+    "transliteration": "An-Nazi‘at",
+    "translation": "Yang Mencabut Dengan Keras",
+    "total_ayat": 46,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 80,
+    "arabic": " عبس",
+    "latin": "‘Abasa",
+    "transliteration": "‘Abasa",
+    "translation": "Berwajah Masam",
+    "total_ayat": 42,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 81,
+    "arabic": "التّكوير",
+    "latin": "At-Takwīr",
+    "transliteration": "At-Takwir",
+    "translation": "Penggulungan",
+    "total_ayat": 29,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 82,
+    "arabic": " الانفطار",
+    "latin": "Al-Infiṭār",
+    "transliteration": "Al-Infitar",
+    "translation": "Terbelah",
+    "total_ayat": 19,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 83,
+    "arabic": " المطفّفين",
+    "latin": "Al-Muṭaffifīn",
+    "transliteration": "Al-Mutaffifin",
+    "translation": "Orang-Orang Yang Curang",
+    "total_ayat": 36,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 84,
+    "arabic": " الانشقاق",
+    "latin": "Al-Insyiqāq",
+    "transliteration": "Al-Insyiqaq",
+    "translation": "Terbelah",
+    "total_ayat": 25,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 85,
+    "arabic": " البروج",
+    "latin": "Al-Burūj",
+    "transliteration": "Al-Buruj",
+    "translation": "Gugusan Bintang",
+    "total_ayat": 22,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 86,
+    "arabic": "الطّارق",
+    "latin": "Aṭ-Ṭāriq",
+    "transliteration": "At-Tariq",
+    "translation": "Yang Datang Pada Malam Hari",
+    "total_ayat": 17,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 87,
+    "arabic": " الاعلى",
+    "latin": "Al-A‘lā",
+    "transliteration": "Al-A‘la",
+    "translation": "Yang Maha Tinggi",
+    "total_ayat": 19,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 88,
+    "arabic": " الغاشية",
+    "latin": "Al-Gāsyiyah",
+    "transliteration": "Al-Gasyiyah",
+    "translation": "Hari Kiamat Yang Menghilangkan Kesadaran",
+    "total_ayat": 26,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 89,
+    "arabic": " الفجر",
+    "latin": "Al-Fajr",
+    "transliteration": "Al-Fajr",
+    "translation": "Fajar",
+    "total_ayat": 30,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 90,
+    "arabic": " البلد",
+    "latin": "Al-Balad",
+    "transliteration": "Al-Balad",
+    "translation": "Negeri",
+    "total_ayat": 20,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 91,
+    "arabic": "الشّمس",
+    "latin": "Asy-Syams",
+    "transliteration": "Asy-Syams",
+    "translation": "Matahari",
+    "total_ayat": 15,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 92,
+    "arabic": " الّيل",
+    "latin": "Al-Lail",
+    "transliteration": "Al-Lail",
+    "translation": "Malam",
+    "total_ayat": 21,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 93,
+    "arabic": "الضّحى",
+    "latin": "Aḍ-Ḍuḥā",
+    "transliteration": "Ad-Duha",
+    "translation": "Duha",
+    "total_ayat": 11,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 94,
+    "arabic": "الشّرح",
+    "latin": "Asy-Syarḥ",
+    "transliteration": "Asy-Syarh",
+    "translation": "Pelapangan",
+    "total_ayat": 8,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 95,
+    "arabic": "التّين",
+    "latin": "At-Tīn",
+    "transliteration": "At-Tin",
+    "translation": "Buah Tin",
+    "total_ayat": 8,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 96,
+    "arabic": " العلق",
+    "latin": "Al-‘Alaq",
+    "transliteration": "Al-‘Alaq",
+    "translation": "Segumpal Darah",
+    "total_ayat": 19,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 97,
+    "arabic": " القدر",
+    "latin": "Al-Qadr",
+    "transliteration": "Al-Qadr",
+    "translation": "Al-Qadar",
+    "total_ayat": 5,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 98,
+    "arabic": " البيّنة",
+    "latin": "Al-Bayyinah",
+    "transliteration": "Al-Bayyinah",
+    "translation": "Bukti Nyata",
+    "total_ayat": 8,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 99,
+    "arabic": "الزّلزلة",
+    "latin": "Az-Zalzalah",
+    "transliteration": "Az-Zalzalah",
+    "translation": "Guncangan",
+    "total_ayat": 8,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 100,
+    "arabic": " العٰديٰت",
+    "latin": "Al-‘Ādiyāt",
+    "transliteration": "Al-‘Adiyat",
+    "translation": "Kuda Perang Yang Berlari Kencang",
+    "total_ayat": 11,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 101,
+    "arabic": " القارعة",
+    "latin": "Al-Qāri‘ah",
+    "transliteration": "Al-Qari‘ah",
+    "translation": "Al-Qāri‘ah",
+    "total_ayat": 11,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 102,
+    "arabic": "التّكاثر",
+    "latin": "At-Takāṡur",
+    "transliteration": "At-Takasur",
+    "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia",
+    "total_ayat": 8,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 103,
+    "arabic": " العصر",
+    "latin": "Al-‘Aṣr",
+    "transliteration": "Al-‘Asr",
+    "translation": "Masa",
+    "total_ayat": 3,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 104,
+    "arabic": " الهمزة",
+    "latin": "Al-Humazah",
+    "transliteration": "Al-Humazah",
+    "translation": "Pengumpat",
+    "total_ayat": 9,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 105,
+    "arabic": " الفيل",
+    "latin": "Al-Fīl",
+    "transliteration": "Al-Fil",
+    "translation": "Gajah",
+    "total_ayat": 5,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 106,
+    "arabic": " قريش",
+    "latin": "Quraisy",
+    "transliteration": "Quraisy",
+    "translation": "Orang Quraisy",
+    "total_ayat": 4,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 107,
+    "arabic": " الماعون",
+    "latin": "Al-Mā‘ūn",
+    "transliteration": "Al-Ma‘un",
+    "translation": "Bantuan",
+    "total_ayat": 7,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 108,
+    "arabic": " الكوثر",
+    "latin": "Al-Kauṡar",
+    "transliteration": "Al-Kausar",
+    "translation": "Nikmat Yang Banyak",
+    "total_ayat": 3,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 109,
+    "arabic": " الكٰفرون",
+    "latin": "Al-Kāfirūn",
+    "transliteration": "Al-Kafirun",
+    "translation": "Orang-Orang kafir",
+    "total_ayat": 6,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 110,
+    "arabic": "النّصر",
+    "latin": "An-Naṣr",
+    "transliteration": "An-Nasr",
+    "translation": "Pertolongan",
+    "total_ayat": 3,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 111,
+    "arabic": "اللّهب",
+    "latin": "Al-Lahab",
+    "transliteration": "Al-Lahab",
+    "translation": "Gejolak Api",
+    "total_ayat": 5,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 112,
+    "arabic": " الاخلاص",
+    "latin": "Al-Ikhlāṣ",
+    "transliteration": "Al-Ikhlas",
+    "translation": "Ikhlas",
+    "total_ayat": 4,
+    "location": "Makkiyah"
+  },
+  {
+    "surah_number": 113,
+    "arabic": " الفلق",
+    "latin": "Al-Falaq",
+    "transliteration": "Al-Falaq",
+    "translation": "Fajar",
+    "total_ayat": 5,
+    "location": "Madaniyah"
+  },
+  {
+    "surah_number": 114,
+    "arabic": "النّاس",
+    "latin": "An-Nās",
+    "transliteration": "An-Nas",
+    "translation": "Manusia",
+    "total_ayat": 6,
+    "location": "Madaniyah"
+  }
+]

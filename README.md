@@ -9,7 +9,7 @@
 
 # Overview
 
-<p align="left">Berikut penjelasan singkatnya:</p>
+<p align="left">Version 1 :</p>
 
 | Menu            |                     Penjelasan Singkat                      |                          Endpoint                           |
 | --------------- | :---------------------------------------------------------: | :---------------------------------------------------------: |
@@ -22,10 +22,28 @@
 | Get Quote       |           Menampilkan Quotes Islami Secara Random           |                        /api/v1/quote                        |
 | Get Doa Harian  |                 Menampilkan Doa-doa harian                  |                      /api/v1/doaharian                      |
 
+<p align="left">Version 2 :</p>
+
+| Menu            |                    Penjelasan Singkat                     |                         Endpoint                          |
+| --------------- | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| Asmaul Husna    |                 Menampilkan Asmaul Husna                  |                    /api/v2/asmaulhusna                    |
+| List Surah      |          Menampilkan List Surah Dalam Al-Qur'an           |                       /api/v2/surah                       |
+| Get Surah       | Menampilkan Surah Dalam Al-Qur'an Berdasarkan Nomer Surah |               /api/v2/surah?number=(1-114)                |
+| Niat Shalat     |            Menampilkan Semua Niat Shalat Wajib            |                    /api/v2/niatshalat                     |
+| Get Niat Shalat |      Menampilkan Niat Shalat Wajib Berdasarkan Waktu      | /api/v2/niatshalat?time=(subuh/dzuhur/ashar/maghrib/isya) |
+| Get Quote       |          Menampilkan Quotes Islami Secara Random          |                       /api/v2/quote                       |
+| Get Doa Harian  |                Menampilkan Doa-doa harian                 |                     /api/v2/doaharian                     |
+
+# Apa yang baru?
+
+- Penambahan caching untuk mempercepat response
+- Quote baru yang diambil dari ayat quran/hadits
+- Pemberian latin untuk setiap surah
+
 # Credit
 
--   Kemenag - [Quran Kemenag](https://quran.kemenag.go.id)
--   Zhirr - [Zhirr](https://github.com/Zhirrr)
+- Kemenag - [Quran Kemenag](https://quran.kemenag.go.id)
+- Zhirr - [Zhirr](https://github.com/Zhirrr)
 
 # Live API
 
