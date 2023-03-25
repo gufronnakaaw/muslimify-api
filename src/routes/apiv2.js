@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const caching = require('../../utils/caching');
-
+const NodeCache = require('node-cache');
 // only for development
 // router.use((req, res, next) => {
 //   const start = Date.now();
@@ -12,6 +12,8 @@ const caching = require('../../utils/caching');
 //   });
 //   next();
 // });
+
+const cache = new NodeCache();
 
 const duration = 300; // 5 minute
 
@@ -175,16 +177,28 @@ router.get('/doaharian', (req, res) => {
 
 router.get('/quote', (req, res) => {
   try {
-    const data = require(`../../datav2/quotes/quotes.json`);
-    const random = Math.floor(Math.random() * data.length);
+    const cacheResponse = cache.get('quote');
+    if (cacheResponse) {
+      const result = cacheResponse;
+      const random = Math.floor(Math.random() * result.length);
+      return res.status(200).json({
+        code: 200,
+        status: 'success',
+        data: result[random],
+      });
+    } else {
+      const data = require(`../../datav2/quotes/quotes.json`);
+      const random = Math.floor(Math.random() * data.length);
+      cache.set('quote', data, duration);
 
-    return res.status(200).json({
-      code: 200,
-      status: 'success',
-      data: data[random],
-    });
+      return res.status(200).json({
+        code: 200,
+        status: 'success',
+        data: data[random],
+      });
+    }
   } catch (error) {
-    console.log(error.message);
+    console.log(error);
 
     return res.status(500).json({
       code: 500,
