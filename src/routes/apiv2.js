@@ -207,4 +207,24 @@ router.get('/quote', (req, res) => {
     });
   }
 });
+
+router.get('/quotes', caching(duration), (req, res) => {
+  try {
+    const data = require(`../../datav2/quotes/quotes.json`);
+
+    return res.status(200).json({
+      code: 200,
+      status: 'success',
+      data: data,
+    });
+  } catch (error) {
+    console.log(error);
+
+    return res.status(500).json({
+      code: 500,
+      status: 'fail',
+      message: 'sepertinya ada masalah pada server',
+    });
+  }
+});
 module.exports = router;
