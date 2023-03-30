@@ -32,6 +32,7 @@
 | Niat Shalat     |            Menampilkan Semua Niat Shalat Wajib            |                    /api/v2/niatshalat                     |
 | Get Niat Shalat |      Menampilkan Niat Shalat Wajib Berdasarkan Waktu      | /api/v2/niatshalat?time=(subuh/dzuhur/ashar/maghrib/isya) |
 | Get Quote       |          Menampilkan Quotes Islami Secara Random          |                       /api/v2/quote                       |
+| Get Quotes      |                 Menampilkan Semua Quotes                  |                      /api/v2/quotes                       |
 | Get Doa Harian  |                Menampilkan Doa-doa harian                 |                     /api/v2/doaharian                     |
 
 # Apa yang baru?
