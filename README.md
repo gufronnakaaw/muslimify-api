@@ -9,6 +9,8 @@
 
 # Overview
 
+Semua endpoint menggunakan metode GET.
+
 <p align="left">Version 1 :</p>
 
 | Menu            |                     Penjelasan Singkat                      |                          Endpoint                           |
